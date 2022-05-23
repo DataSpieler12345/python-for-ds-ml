@@ -8,3 +8,5 @@
  *Obteniendo Valores de Usuarios
  *Condicional IF - Elif - Else
  *Repeticion WHILE
+ *Bucle For
+ *Generadores NEXT
