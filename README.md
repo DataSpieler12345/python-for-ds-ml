@@ -13,4 +13,4 @@ Content
 *Funciones
 *Funcion SUM
 *Ejercicio Practico Calculadora Basica
-*Funcion Lambda Python
+*Funcion Anonima
