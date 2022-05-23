@@ -16,3 +16,4 @@ Content
 *Funcion Anonima
 *Funciones utiles
 *Cadenas de textos
+*Cadenas Centrado
