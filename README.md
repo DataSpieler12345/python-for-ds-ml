@@ -14,3 +14,5 @@ Content
 *Funcion SUM
 *Ejercicio Practico Calculadora Basica
 *Funcion Anonima
+*Funciones utiles
+*Cadenas de textos
