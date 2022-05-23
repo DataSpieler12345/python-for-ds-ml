@@ -10,3 +10,5 @@
  *Repeticion WHILE
  *Bucle For
  *Generadores NEXT
+*Funciones
+*Funcion SUM
