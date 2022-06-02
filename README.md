@@ -2,18 +2,39 @@
  My Python learning experience 📚💻🖱
  
 Content 
+
+#SECTION 1
 *Tipos de datos 
-*Variables constantes
-*Recopilando Valores de Usuarios
-*Obteniendo Valores de Usuarios
-*Condicional IF - Elif - Else
-*Repeticion WHILE
-*Bucle For
-*Generadores NEXT
+*Variables y constantes
+*Solicitar datos
+*Condicional IF
+*Repeticion While
+*Bucle FOR (repeticione)
+*Generadores
 *Funciones
-*Funcion SUM
-*Ejercicio Practico Calculadora Basica
-*Funcion Anonima
+*Ejercicio Practico. Calculadora Basica
+*Funcion anidada
+*Funcion anonima
 *Funciones utiles
-*Cadenas de textos
-*Cadenas Centrado
+*Cadenas textos
+*Reemplazar y centrar cadenas de textos
+*Modulos
+*Modulos propios, distribucion e instalacion
+*Archivo para reinstalara librerias de un proyecto a otro
+*Archivos, escritura, lectura
+*Operaciones con archivos
+*Rutas
+*Listas
+*Tuplas
+*Diccionarios
+*Switch
+*Clases
+*Obtener y manipular datos en formato JSON
+*Control de errores y excepciones
+*Ayuda
+*Test, probando nuestros scripts
+*Debug, tipos de errores al programar
+
+#SECTION 2
+
+
