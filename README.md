@@ -42,3 +42,4 @@ Content
 *Case Study_Finobacci
 *Case Study_Longest Word
 *Case Study_Celsius to Fahrenheit Converter
+*Case Study_FizzBuzz
