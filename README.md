@@ -38,3 +38,4 @@ Content
 #SECTION 2
 *Case Study_Big Mac Price
 *Case Study_BMI Calculator
+*Case Study_Simple Calculator
