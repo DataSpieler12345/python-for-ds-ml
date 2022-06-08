@@ -41,3 +41,4 @@ Content
 *Case Study_Simple Calculator
 *Case Study_Finobacci
 *Case Study_Longest Word
+*Case Study_Celsius to Fahrenheit Converter
