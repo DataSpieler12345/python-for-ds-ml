@@ -39,4 +39,4 @@ Content
 *Case Study_Big Mac Price
 *Case Study_BMI Calculator
 *Case Study_Simple Calculator
-*Case Study_Fibonacci
+*Case Study_Finobacci
