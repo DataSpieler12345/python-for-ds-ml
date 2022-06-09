@@ -9,7 +9,7 @@ Content
 *Solicitar datos
 *Condicional IF
 *Repeticion While
-*Bucle FOR (repeticione)
+*Bucle FOR (repeticiones)
 *Generadores
 *Funciones
 *Ejercicio Practico. Calculadora Basica
@@ -43,3 +43,5 @@ Content
 *Case Study_Longest Word
 *Case Study_Celsius to Fahrenheit Converter
 *Case Study_FizzBuzz
+*Case Study_Juice Maker 
+*Case Study_Search Engine 
