@@ -45,3 +45,10 @@ Content
 *Case Study_FizzBuzz
 *Case Study_Juice Maker 
 *Case Study_Search Engine 
+*Case Study_Reshape
+*Case Study_Adding Words
+*Case Study_Average of Rows
+*Case Study_Binary Disorder
+*Case Study_Missing Numbers
+*Case Study_Ordinary Squares
+*Case Study_Phone Number Validator
