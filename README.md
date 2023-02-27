@@ -3,7 +3,7 @@
  
 Content 
 
-#PYthon Basic
+#Python Basic
 *Tipos de datos 
 *Variables y constantes
 *Solicitar datos
