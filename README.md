@@ -3,7 +3,7 @@
  
 Content 
 
-#SECTION 1
+#PYthon Basic
 *Tipos de datos 
 *Variables y constantes
 *Solicitar datos
@@ -35,7 +35,7 @@ Content
 *Test, probando nuestros scripts
 *Debug, tipos de errores al programar
 
-#SECTION 2
+#Case Studies
 *Case Study_Big Mac Price
 *Case Study_BMI Calculator
 *Case Study_Simple Calculator
