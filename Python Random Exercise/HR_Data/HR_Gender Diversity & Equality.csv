@@ -1,0 +1,695 @@
+﻿Employee ID,DOB,Emp Age,Surname,Name,Gender,Marital Status,Branch,Hire Date,Leave Date,Leave Reason,Status,Department,Employee Satisfaction,Annual Salary ($),Bonus ($),Total Compensation,Job Title,Job Description,Manager (Y/N),Performance
+10005,28/10/1953,69,Jackson,Noelia,F,Single,Buenos Aires,2014-01-25 00:00:00,,Not provided,Active,Production,3,43241,4757,47998,Production Technician I,Technician,No,Fully Meets
+10007,28/04/1953,69,Carey,Rodrigo,M,Single,Lima,2014-02-04 00:00:00,,Not provided,Active,Production,3,51009,7141,58150,Production Technician I,Technician,No,Fully Meets
+10009,06/02/1968,55,Chan,Lucas,M,Single,Buenos Aires,2014-02-09 00:00:00,,Not provided,Active,Production,4,42034,6305,48339,Production Technician I,Technician,No,Fully Meets
+10015,10/11/1983,39,Ferreira,Daiana,F,Single,Lima,2014-05-02 00:00:00,,Not provided,Active,Production,4,44391,2663,47054,Production Technician I,Technician,No,Fully Meets
+10040,01/05/1961,61,Bernstein,Ruben,M,Single,Lima,2014-10-07 00:00:00,,Not provided,Active,Production,3,43361,8239,51600,Production Technician I,Technician,No,Fully Meets
+10055,30/12/1989,33,Rossetti,Diego,M,Single,Montevideo,2014-12-21 00:00:00,,Not provided,Active,Production,5,54811,7125,61936,Production Technician I,Technician,No,Fully Meets
+10079,08/01/1975,48,Cockel,Juan,M,Single,Buenos Aires,2015-06-07 00:00:00,,Not provided,Active,Production,5,57098,7994,65092,Production Technician I,Technician,No,Fully Meets
+10106,20/05/1972,50,Sutwell,Sonia,F,Single,Buenos Aires,2015-12-11 00:00:00,,Not provided,Active,Production,5,47065,4236,51301,Production Technician I,Technician,No,Fully Meets
+10109,22/10/1975,47,Von Massenbach,Walter,M,Single,Montevideo,2016-01-31 00:00:00,,Not provided,Active,Production,3,47044,5175,52219,Production Technician I,Technician,No,Fully Meets
+10111,03/07/1969,53,Beatrice,María,F,Single,Montevideo,2016-02-28 00:00:00,,Not provided,Active,Production,5,53903,5929,59832,Production Technician I,Technician,No,Fully Meets
+10118,09/01/1987,36,Perry,Cristina,F,Single,Montevideo,2016-03-29 00:00:00,,Not provided,Active,Production,4,47337,8994,56331,Production Technician I,Technician,No,Fully Meets
+10119,10/04/1954,68,Garcia,Emmanuel,M,Single,Lima,2016-04-02 00:00:00,,Not provided,Active,Production,3,48505,4851,53356,Production Technician I,Technician,No,Fully Meets
+10136,19/09/1968,54,Mahoney,Victor,M,Single,Lima,2016-08-04 00:00:00,,Not provided,Active,Production,4,49953,9991,59944,Production Technician I,Technician,No,Fully Meets
+10143,21/02/1972,51,Gold,Juan,M,Single,Buenos Aires,2016-10-11 00:00:00,,Not provided,Active,Production,5,56777,6813,63590,Production Technician I,Technician,No,Fully Meets
+10144,17/01/1975,48,Dickinson,Leandro,M,Single,Buenos Aires,2016-10-23 00:00:00,,Not provided,Active,Production,4,56173,10673,66846,Production Technician I,Technician,No,Fully Meets
+10149,19/07/1986,36,Chace,Rita,F,Single,Lima,2016-11-24 00:00:00,,Not provided,Active,Production,4,54177,9210,63387,Production Technician I,Technician,No,Fully Meets
+10152,24/11/1990,32,Williams,Justo,M,Single,Lima,2016-12-15 00:00:00,,Not provided,Active,Production,4,54075,10815,64890,Production Technician I,Technician,No,Fully Meets
+10153,01/10/1960,62,Crimmings,Lautaro,M,Single,Montevideo,2016-12-16 00:00:00,,Not provided,Active,Production,5,53193,4255,57448,Production Technician I,Technician,No,Fully Meets
+10155,05/04/1991,31,Garneau,Ezequiel,M,Single,Lima,2016-12-30 00:00:00,,Not provided,Active,Production,4,55083,9364,64447,Production Technician I,Technician,No,Fully Meets
+10163,10/08/1962,60,Nguyen,Roberto,M,Single,Montevideo,2017-02-25 00:00:00,,Not provided,Active,Production,5,45282,6792,52074,Production Technician I,Technician,No,Fully Meets
+10167,27/03/1976,46,Pitt,Alejandro,M,Single,Buenos Aires,2017-03-13 00:00:00,,Not provided,Active,Production,3,50204,8535,58739,Production Technician I,Technician,No,Fully Meets
+10173,20/03/1981,41,Barone,Julieta,F,Single,Montevideo,2017-04-13 00:00:00,,Not provided,Active,Production,4,42634,3837,46471,Production Technician I,Technician,No,Fully Meets
+10174,18/03/1959,63,Chang,Emanuel,M,Single,Buenos Aires,2017-04-13 00:00:00,,Not provided,Active,Production,5,45949,5514,51463,Production Technician I,Technician,No,Fully Meets
+10005,28/10/1953,69,Jackson,Noelia,F,Single,Buenos Aires,2014-01-25 00:00:00,,Not provided,Active,Production,3,47565,4757,52322,Production Technician I,Technician,No,Fully Meets
+10007,28/04/1953,69,Carey,Rodrigo,M,Single,Lima,2014-02-04 00:00:00,,Not provided,Active,Production,3,56110,7141,63251,Production Technician I,Technician,No,Fully Meets
+10009,06/02/1968,55,Chan,Lucas,M,Single,Buenos Aires,2014-02-09 00:00:00,,Not provided,Active,Production,4,46237,6305,52542,Production Technician I,Technician,No,Fully Meets
+10015,10/11/1983,39,Ferreira,Daiana,F,Single,Lima,2014-05-02 00:00:00,,Not provided,Active,Production,4,48830,2663,51493,Production Technician I,Technician,No,Fully Meets
+10040,01/05/1961,61,Bernstein,Ruben,M,Single,Lima,2014-10-07 00:00:00,,Not provided,Active,Production,3,47697,8239,55936,Production Technician I,Technician,No,Fully Meets
+10055,30/12/1989,33,Rossetti,Diego,M,Single,Montevideo,2014-12-21 00:00:00,,Not provided,Active,Production,5,60292,7125,67417,Production Technician I,Technician,No,Fully Meets
+10079,08/01/1975,48,Cockel,Juan,M,Single,Buenos Aires,2015-06-07 00:00:00,,Not provided,Active,Production,5,62808,7994,70802,Production Technician I,Technician,No,Fully Meets
+10106,20/05/1972,50,Sutwell,Sonia,F,Single,Buenos Aires,2015-12-11 00:00:00,,Not provided,Active,Production,5,51772,4236,56008,Production Technician I,Technician,No,Fully Meets
+10109,22/10/1975,47,Von Massenbach,Walter,M,Single,Montevideo,2016-01-31 00:00:00,,Not provided,Active,Production,3,51748,5175,56923,Production Technician I,Technician,No,Fully Meets
+10111,03/07/1969,53,Beatrice,María,F,Single,Montevideo,2016-02-28 00:00:00,,Not provided,Active,Production,5,59293,5929,65222,Production Technician I,Technician,No,Fully Meets
+10118,09/01/1987,36,Perry,Cristina,F,Single,Montevideo,2016-03-29 00:00:00,,Not provided,Active,Production,4,52071,8994,61065,Production Technician I,Technician,No,Fully Meets
+10119,10/04/1954,68,Garcia,Emmanuel,M,Single,Lima,2016-04-02 00:00:00,,Not provided,Active,Production,3,53356,4851,58207,Production Technician I,Technician,No,Fully Meets
+10136,19/09/1968,54,Mahoney,Victor,M,Single,Lima,2016-08-04 00:00:00,,Not provided,Active,Production,4,54948,9991,64939,Production Technician I,Technician,No,Fully Meets
+10143,21/02/1972,51,Gold,Juan,M,Single,Buenos Aires,2016-10-11 00:00:00,,Not provided,Active,Production,5,62455,6813,69268,Production Technician I,Technician,No,Fully Meets
+10144,17/01/1975,48,Dickinson,Leandro,M,Single,Buenos Aires,2016-10-23 00:00:00,,Not provided,Active,Production,4,61790,10673,72463,Production Technician I,Technician,No,Fully Meets
+10149,19/07/1986,36,Chace,Rita,F,Single,Lima,2016-11-24 00:00:00,,Not provided,Active,Production,4,59595,9210,68805,Production Technician I,Technician,No,Fully Meets
+10152,24/11/1990,32,Williams,Justo,M,Single,Lima,2016-12-15 00:00:00,,Not provided,Active,Production,4,59483,10815,70298,Production Technician I,Technician,No,Fully Meets
+10153,01/10/1960,62,Crimmings,Lautaro,M,Single,Montevideo,2016-12-16 00:00:00,,Not provided,Active,Production,5,58512,4255,62767,Production Technician I,Technician,No,Fully Meets
+10155,05/04/1991,31,Garneau,Ezequiel,M,Single,Lima,2016-12-30 00:00:00,,Not provided,Active,Production,4,60591,9364,69955,Production Technician I,Technician,No,Fully Meets
+10163,10/08/1962,60,Nguyen,Roberto,M,Single,Montevideo,2017-02-25 00:00:00,,Not provided,Active,Production,5,49810,6792,56602,Production Technician I,Technician,No,Fully Meets
+10167,27/03/1976,46,Pitt,Alejandro,M,Single,Buenos Aires,2017-03-13 00:00:00,,Not provided,Active,Production,3,55224,8535,63759,Production Technician I,Technician,No,Fully Meets
+10173,20/03/1981,41,Barone,Julieta,F,Single,Montevideo,2017-04-13 00:00:00,,Not provided,Active,Production,4,46897,3837,50734,Production Technician I,Technician,No,Fully Meets
+10174,18/03/1959,63,Chang,Emanuel,M,Single,Buenos Aires,2017-04-13 00:00:00,,Not provided,Active,Production,5,50544,5514,56058,Production Technician I,Technician,No,Fully Meets
+10207,13/12/1992,30,Gaul,Barbara,F,Single,Montevideo,2018-01-24 00:00:00,,Not provided,Active,Production,4,57081,8822,65903,Production Technician I,Technician,No,Fully Meets
+10211,29/03/1977,45,Dobrin,Denise,F,Single,Montevideo,2018-03-16 00:00:00,,Not provided,Active,Production,5,46797,5531,52328,Production Technician I,Technician,No,Fully Meets
+10215,01/01/1980,43,Keatts,Martín,M,Single,Buenos Aires,2018-03-31 00:00:00,,Not provided,Active,Production,4,62838,9711,72549,Production Technician I,Technician,No,Fully Meets
+10221,06/03/1953,70,Heitzman,Antonio,M,Single,Lima,2018-05-26 00:00:00,,Not provided,Active,Production,4,62032,5639,67671,Production Technician I,Technician,No,Fully Meets
+10224,23/03/1972,50,Meads,Elizabeth,F,Single,Lima,2018-06-06 00:00:00,,Not provided,Active,Production,4,47601,8655,56256,Production Technician I,Technician,No,Fully Meets
+10225,03/10/1956,66,Knapp,Brian,M,Single,Lima,2018-06-08 00:00:00,,Not provided,Active,Production,3,47958,8284,56242,Production Technician I,Technician,No,Fully Meets
+10226,10/10/1985,37,Ndzi,Bautista,M,Single,Montevideo,2018-06-19 00:00:00,,Not provided,Active,Production,3,65412,11298,76710,Production Technician I,Technician,No,Fully Meets
+10247,16/11/1952,70,Ivey,Rosa,F,Single,Montevideo,2018-12-08 00:00:00,,Not provided,Active,Production,3,59038,8051,67089,Production Technician I,Technician,No,Fully Meets
+10274,27/08/1954,68,Smith,Paula,F,Single,Montevideo,2019-05-26 00:00:00,,Not provided,Active,Production,2,37500,58356,58359,Production Technician I,Technician,No,Fully Meets
+10304,24/11/1973,49,Medeiros,Jennifer,F,Single,Buenos Aires,2019-11-26 00:00:00,,Not provided,Active,Production,4,70711,0,70711,Production Technician I,Technician,No,Fully Meets
+10005,28/10/1953,69,Jackson,Noelia,F,Single,Buenos Aires,2014-01-25 00:00:00,,Not provided,Active,Production,3,56213,4757,60970,Production Technician I,Technician,No,Fully Meets
+10007,28/04/1953,69,Carey,Rodrigo,M,Single,Lima,2014-02-04 00:00:00,,Not provided,Active,Production,3,66312,7141,73453,Production Technician I,Technician,No,Fully Meets
+10015,10/11/1983,39,Ferreira,Daiana,F,Single,Lima,2014-05-02 00:00:00,,Not provided,Active,Production,4,57708,2663,60371,Production Technician I,Technician,No,Fully Meets
+10040,01/05/1961,61,Bernstein,Ruben,M,Single,Lima,2014-10-07 00:00:00,,Not provided,Active,Production,3,56369,8239,64608,Production Technician I,Technician,No,Fully Meets
+10055,30/12/1989,33,Rossetti,Diego,M,Single,Montevideo,2014-12-21 00:00:00,,Not provided,Active,Production,5,71254,7125,78379,Production Technician I,Technician,No,Fully Meets
+10079,08/01/1975,48,Cockel,Juan,M,Single,Buenos Aires,2015-06-07 00:00:00,,Not provided,Active,Production,5,74227,7994,82221,Production Technician I,Technician,No,Fully Meets
+10106,20/05/1972,50,Sutwell,Sonia,F,Single,Buenos Aires,2015-12-11 00:00:00,,Not provided,Active,Production,5,61185,4236,65421,Production Technician I,Technician,No,Fully Meets
+10109,22/10/1975,47,Von Massenbach,Walter,M,Single,Montevideo,2016-01-31 00:00:00,,Not provided,Active,Production,3,61157,5175,66332,Production Technician I,Technician,No,Fully Meets
+10111,03/07/1969,53,Beatrice,María,F,Single,Montevideo,2016-02-28 00:00:00,,Not provided,Active,Production,5,70074,5929,76003,Production Technician I,Technician,No,Fully Meets
+10118,09/01/1987,36,Perry,Cristina,F,Single,Montevideo,2016-03-29 00:00:00,,Not provided,Active,Production,4,61538,8994,70532,Production Technician I,Technician,No,Fully Meets
+10119,10/04/1954,68,Garcia,Emmanuel,M,Single,Lima,2016-04-02 00:00:00,,Not provided,Active,Production,3,63057,4851,67908,Production Technician I,Technician,No,Fully Meets
+10136,19/09/1968,54,Mahoney,Victor,M,Single,Lima,2016-08-04 00:00:00,,Not provided,Active,Production,4,64939,9991,74930,Production Technician I,Technician,No,Fully Meets
+10143,21/02/1972,51,Gold,Juan,M,Single,Buenos Aires,2016-10-11 00:00:00,,Not provided,Active,Production,5,73810,6813,80623,Production Technician I,Technician,No,Fully Meets
+10144,17/01/1975,48,Dickinson,Leandro,M,Single,Buenos Aires,2016-10-23 00:00:00,,Not provided,Active,Production,4,73025,10673,83698,Production Technician I,Technician,No,Fully Meets
+10149,19/07/1986,36,Chace,Rita,F,Single,Lima,2016-11-24 00:00:00,,Not provided,Active,Production,4,70430,9210,79640,Production Technician I,Technician,No,Fully Meets
+10152,24/11/1990,32,Williams,Justo,M,Single,Lima,2016-12-15 00:00:00,,Not provided,Active,Production,4,70298,10815,81113,Production Technician I,Technician,No,Fully Meets
+10153,01/10/1960,62,Crimmings,Lautaro,M,Single,Montevideo,2016-12-16 00:00:00,,Not provided,Active,Production,5,69151,4255,73406,Production Technician I,Technician,No,Fully Meets
+10155,05/04/1991,31,Garneau,Ezequiel,M,Single,Lima,2016-12-30 00:00:00,,Not provided,Active,Production,4,71608,9364,80972,Production Technician I,Technician,No,Fully Meets
+10163,10/08/1962,60,Nguyen,Roberto,M,Single,Montevideo,2017-02-25 00:00:00,,Not provided,Active,Production,5,58867,6792,65659,Production Technician I,Technician,No,Fully Meets
+10167,27/03/1976,46,Pitt,Alejandro,M,Single,Buenos Aires,2017-03-13 00:00:00,,Not provided,Active,Production,3,65265,8535,73800,Production Technician I,Technician,No,Fully Meets
+10173,20/03/1981,41,Barone,Julieta,F,Single,Montevideo,2017-04-13 00:00:00,,Not provided,Active,Production,4,55424,3837,59261,Production Technician I,Technician,No,Fully Meets
+10174,18/03/1959,63,Chang,Emanuel,M,Single,Buenos Aires,2017-04-13 00:00:00,,Not provided,Active,Production,5,59734,5514,65248,Production Technician I,Technician,No,Fully Meets
+10207,13/12/1992,30,Gaul,Barbara,F,Single,Buenos Aires,2018-01-24 00:00:00,,Not provided,Active,Production,4,67460,8822,76282,Production Technician I,Technician,No,Fully Meets
+10211,29/03/1977,45,Dobrin,Denise,F,Single,Montevideo,2018-03-16 00:00:00,,Not provided,Active,Production,5,55306,5531,60837,Production Technician I,Technician,No,Fully Meets
+10215,01/01/1980,43,Keatts,Martín,M,Single,Buenos Aires,2018-03-31 00:00:00,,Not provided,Active,Production,4,74263,9711,83974,Production Technician I,Technician,No,Fully Meets
+10221,06/03/1953,70,Heitzman,Antonio,M,Single,Lima,2018-05-26 00:00:00,,Not provided,Active,Production,4,73311,5639,78950,Production Technician I,Technician,No,Fully Meets
+10224,23/03/1972,50,Meads,Elizabeth,F,Single,Buenos Aires,2018-06-06 00:00:00,,Not provided,Active,Production,4,56256,8655,64911,Production Technician I,Technician,No,Fully Meets
+10225,03/10/1956,66,Knapp,Brian,M,Single,Lima,2018-06-08 00:00:00,,Not provided,Active,Production,3,56677,8284,64961,Production Technician I,Technician,No,Fully Meets
+10226,10/10/1985,37,Ndzi,Bautista,M,Single,Montevideo,2018-06-19 00:00:00,,Not provided,Active,Production,3,77305,11298,88603,Production Technician I,Technician,No,Fully Meets
+10247,16/11/1952,70,Ivey,Rosa,F,Single,Buenos Aires,2018-12-08 00:00:00,,Not provided,Active,Production,3,69772,8051,77823,Production Technician I,Technician,No,Fully Meets
+10253,18/06/1952,70,Engdahl,Gonzalo,M,Single,Montevideo,2019-01-12 00:00:00,,Not provided,Active,Production,5,67235,10344,77579,Production Technician I,Technician,No,Fully Meets
+10267,06/07/1971,51,Punjabhi,Luis,M,Single,Buenos Aires,2019-04-20 00:00:00,,Not provided,Active,Production,3,77887,11383,89270,Production Technician I,Technician,No,Fully Meets
+10268,17/10/1976,46,Cierpiszewski,Carolina,F,Single,Lima,2019-04-22 00:00:00,,Not provided,Active,Production,5,71165,6569,77734,Production Technician I,Technician,No,Fully Meets
+10274,27/08/1954,68,Smith,Paula,F,Single,Montevideo,2019-05-26 00:00:00,,Not provided,Active,Production,3,58356,5387,63743,Production Technician I,Technician,No,Fully Meets
+10304,24/11/1973,49,Medeiros,Jennifer,F,Single,Buenos Aires,2019-11-26 00:00:00,,Not provided,Active,Production,4,70711,3808,74519,Production Technician I,Technician,No,Fully Meets
+10001,05/12/1955,67,Stoica,Juan,M,Married,Lima,2014-01-08 00:00:00,,Not provided,Active,Production,3,57615,10947,68562,Production Technician I,Technician,No,Fully Meets
+10018,16/05/1978,44,England,Ana,F,Married,Lima,2014-05-18 00:00:00,,Not provided,Active,Production,3,41435,4558,45993,Production Technician I,Technician,No,Fully Meets
+10024,03/11/1972,50,Jhaveri,Silvana,F,Partners,Lima,2014-07-26 00:00:00,,Not provided,Active,Production,5,57890,4052,61942,Production Technician I,Technician,No,Fully Meets
+10028,20/06/1968,54,Gordon,Santiago,M,Married,Montevideo,2014-08-12 00:00:00,,Not provided,Active,Production,3,43464,4781,48245,Production Technician I,Technician,No,Fully Meets
+10029,04/05/1977,45,Rose,Juvencio,M,Partners,Lima,2014-08-15 00:00:00,,Not provided,Active,Production,4,42309,2115,44424,Production Technician I,Technician,No,Fully Meets
+10030,08/04/1963,59,Power,Adriana,F,Divorced,Lima,2014-08-25 00:00:00,,Not provided,Active,Production,4,49337,3454,52791,Production Technician I,Technician,No,Fully Meets
+10051,03/11/1954,68,Motlagh,Oscar,M,Divorced,Buenos Aires,2014-12-14 00:00:00,,Not provided,Active,Production,4,46723,3271,49994,Production Technician I,Technician,No,Fully Meets
+10054,23/09/1977,45,Langton,Daniel,M,Married,Buenos Aires,2014-12-19 00:00:00,,Not provided,Active,Production,5,54727,9304,64031,Production Technician I,Technician,No,Fully Meets
+10065,03/03/1958,65,Robinson,Rocio,F,Married,Buenos Aires,2015-03-02 00:00:00,,Not provided,Active,Production,3,54996,6050,61046,Production Technician I,Technician,No,Fully Meets
+10100,06/06/1953,69,Wilber,Lidia,F,Married,Buenos Aires,2015-11-19 00:00:00,,Not provided,Active,Production,3,43255,7353,50608,Production Technician I,Technician,No,Fully Meets
+10102,05/11/1987,35,Peterson,Sebastian,M,Married,Buenos Aires,2015-11-28 00:00:00,,Not provided,Active,Production,3,47514,4751,52265,Production Technician I,Technician,No,Fully Meets
+10113,05/11/1978,44,Jacobi,Nicolas,M,Divorced,Lima,2016-02-29 00:00:00,,Not provided,Active,Production,5,58132,2907,61039,Production Technician I,Technician,No,Fully Meets
+10117,12/08/1972,50,Athwal,Nelson,M,Widower,Buenos Aires,2016-03-23 00:00:00,,Not provided,Active,Production,4,47657,2383,50040,Production Technician I,Technician,No,Fully Meets
+10120,19/12/1991,31,Gentry,Milena,F,Married,Lima,2016-04-16 00:00:00,,Not provided,Active,Production,3,44180,3534,47714,Production Technician I,Technician,No,Fully Meets
+10125,15/04/1983,39,Tavares,Leonardo,M,Married,Montevideo,2016-05-26 00:00:00,,Not provided,Active,Production,5,50594,8601,59195,Production Technician I,Technician,No,Fully Meets
+10128,11/09/1962,60,Mangal,Josue,M,Married,Buenos Aires,2016-06-16 00:00:00,,Not provided,Active,Production,3,42418,3818,46236,Production Technician I,Technician,No,Fully Meets
+10147,24/05/1959,63,Darson,Ana,F,Married,Lima,2016-11-04 00:00:00,,Not provided,Active,Production,3,57984,11017,69001,Production Technician I,Technician,No,Fully Meets
+10156,21/03/1978,44,Tinto,María,F,Divorced,Montevideo,2017-01-03 00:00:00,,Not provided,Active,Production,5,59238,10663,69901,Production Technician I,Technician,No,Fully Meets
+10160,29/10/1985,37,Shields,Silvia,F,Married,Buenos Aires,2017-02-09 00:00:00,,Not provided,Active,Production,4,56557,3393,59950,Production Technician I,Technician,No,Fully Meets
+10166,06/03/1967,56,Mckenna,Romina,F,Married,Montevideo,2017-03-07 00:00:00,,Not provided,Active,Production,3,56884,6826,63710,Production Technician I,Technician,No,Fully Meets
+10181,10/09/1977,45,Maurice,Ignacio,M,Married,Lima,2017-05-21 00:00:00,,Not provided,Active,Production,4,50707,8113,58820,Production Technician I,Technician,No,Fully Meets
+10194,01/08/1959,63,Purinton,Agustin,M,Divorced,Montevideo,2017-10-12 00:00:00,,Not provided,Active,Production,5,47109,8951,56060,Production Technician I,Technician,No,Fully Meets
+10199,14/01/1970,53,Barbara,María,F,Married,Buenos Aires,2017-11-23 00:00:00,,Not provided,Active,Production,3,53417,3205,56622,Production Technician I,Technician,No,Fully Meets
+10202,20/07/1958,64,Sander,Marcos,M,Married,Montevideo,2017-12-18 00:00:00,,Not provided,Active,Production,3,49947,8990,58937,Production Technician I,Technician,No,Fully Meets
+10018,16/05/1978,44,England,Ana,F,Married,Lima,2014-05-18 00:00:00,,Not provided,Active,Production,3,45579,4558,50137,Production Technician I,Technician,No,Fully Meets
+10024,03/11/1972,50,Jhaveri,Silvana,F,Partners,Lima,2014-07-26 00:00:00,,Not provided,Active,Production,5,63679,4052,67731,Production Technician I,Technician,No,Fully Meets
+10028,20/06/1968,54,Gordon,Santiago,M,Married,Montevideo,2014-08-12 00:00:00,,Not provided,Active,Production,3,47810,4781,52591,Production Technician I,Technician,No,Fully Meets
+10029,04/05/1977,45,Rose,Juvencio,M,Partners,Lima,2014-08-15 00:00:00,,Not provided,Active,Production,4,46540,2115,48655,Production Technician I,Technician,No,Fully Meets
+10030,08/04/1963,59,Power,Adriana,F,Divorced,Lima,2014-08-25 00:00:00,,Not provided,Active,Production,4,54271,3454,57725,Production Technician I,Technician,No,Fully Meets
+10051,03/11/1954,68,Motlagh,Oscar,M,Divorced,Buenos Aires,2014-12-14 00:00:00,,Not provided,Active,Production,4,51395,3271,54666,Production Technician I,Technician,No,Fully Meets
+10054,23/09/1977,45,Langton,Daniel,M,Married,Buenos Aires,2014-12-19 00:00:00,,Not provided,Active,Production,5,60200,9304,69504,Production Technician I,Technician,No,Fully Meets
+10065,03/03/1958,65,Robinson,Rocio,F,Married,Buenos Aires,2015-03-02 00:00:00,,Not provided,Active,Production,3,60496,6050,66546,Production Technician I,Technician,No,Fully Meets
+10100,06/06/1953,69,Wilber,Lidia,F,Married,Buenos Aires,2015-11-19 00:00:00,,Not provided,Active,Production,3,47581,7353,54934,Production Technician I,Technician,No,Fully Meets
+10102,05/11/1987,35,Peterson,Sebastian,M,Married,Buenos Aires,2015-11-28 00:00:00,,Not provided,Active,Production,3,52265,4751,57016,Production Technician I,Technician,No,Fully Meets
+10113,05/11/1978,44,Jacobi,Nicolas,M,Divorced,Lima,2016-02-29 00:00:00,,Not provided,Active,Production,5,63945,2907,66852,Production Technician I,Technician,No,Fully Meets
+10117,12/08/1972,50,Athwal,Nelson,M,Widower,Buenos Aires,2016-03-23 00:00:00,,Not provided,Active,Production,4,52423,2383,54806,Production Technician I,Technician,No,Fully Meets
+10120,19/12/1991,31,Gentry,Milena,F,Married,Lima,2016-04-16 00:00:00,,Not provided,Active,Production,3,48598,3534,52132,Production Technician I,Technician,No,Fully Meets
+10125,15/04/1983,39,Tavares,Leonardo,M,Married,Montevideo,2016-05-26 00:00:00,,Not provided,Active,Production,5,55653,8601,64254,Production Technician I,Technician,No,Fully Meets
+10128,11/09/1962,60,Mangal,Josue,M,Married,Buenos Aires,2016-06-16 00:00:00,,Not provided,Active,Production,3,46660,3818,50478,Production Technician I,Technician,No,Fully Meets
+10147,24/05/1959,63,Darson,Ana,F,Married,Lima,2016-11-04 00:00:00,,Not provided,Active,Production,3,63782,11017,74799,Production Technician I,Technician,No,Fully Meets
+10156,21/03/1978,44,Tinto,María,F,Divorced,Montevideo,2017-01-03 00:00:00,,Not provided,Active,Production,5,65162,10663,75825,Production Technician I,Technician,No,Fully Meets
+10160,29/10/1985,37,Shields,Silvia,F,Married,Buenos Aires,2017-02-09 00:00:00,,Not provided,Active,Production,4,62213,3393,65606,Production Technician I,Technician,No,Fully Meets
+10166,06/03/1967,56,Mckenna,Romina,F,Married,Montevideo,2017-03-07 00:00:00,,Not provided,Active,Production,3,62572,6826,69398,Production Technician I,Technician,No,Fully Meets
+10178,15/03/1956,66,Zima,Laura,F,Widower,Montevideo,2017-05-01 00:00:00,,Not provided,Active,Production,5,51778,2354,54132,Production Technician I,Technician,No,Fully Meets
+10181,10/09/1977,45,Maurice,Ignacio,M,Married,Lima,2017-05-21 00:00:00,,Not provided,Active,Production,4,55778,8113,63891,Production Technician I,Technician,No,Fully Meets
+10182,23/08/1959,63,Pham,Juana,F,Married,Montevideo,2017-05-25 00:00:00,,Not provided,Active,Production,3,55369,2517,57886,Production Technician I,Technician,No,Fully Meets
+10194,01/08/1959,63,Purinton,Agustin,M,Divorced,Montevideo,2017-10-12 00:00:00,,Not provided,Active,Production,5,51820,8951,60771,Production Technician I,Technician,No,Fully Meets
+10199,14/01/1970,53,Barbara,María,F,Married,Buenos Aires,2017-11-23 00:00:00,,Not provided,Active,Production,3,58759,3205,61964,Production Technician I,Technician,No,Fully Meets
+10202,20/07/1958,64,Sander,Marcos,M,Married,Montevideo,2017-12-18 00:00:00,,Not provided,Active,Production,3,54942,8990,63932,Production Technician I,Technician,No,Fully Meets
+10219,12/01/1991,32,Rarrick,Fernando,M,Divorced,Buenos Aires,2018-05-08 00:00:00,,Not provided,Active,Production,5,62291,8494,70785,Production Technician I,Technician,No,Fully Meets
+10239,24/09/1951,71,Alagbe,Julieta,F,Married,Buenos Aires,2018-09-17 00:00:00,,Not provided,Active,Production,5,48864,4886,53750,Production Technician I,Technician,No,Fully Meets
+10250,27/01/1978,45,DeGweck,Luis,M,Married,Lima,2018-12-25 00:00:00,,Not provided,Active,Production,4,62073,5643,67716,Production Technician I,Technician,No,Fully Meets
+10272,09/06/1980,42,Biden,Lisa,F,Divorced,Montevideo,2019-05-18 00:00:00,,Not provided,Active,Production,2,37500,77147,77150,Production Technician I,Technician,No,Fully Meets
+10282,01/10/1961,61,Kretschmer,John,M,Married,Buenos Aires,2019-07-19 00:00:00,,Not provided,Active,Production,4,43520,75487,75490,Production Technician I,Technician,No,Fully Meets
+10285,29/12/1980,42,Handschiegl,Joanne,F,Married,Montevideo,2019-07-29 00:00:00,,Not provided,Active,Production,3,47500,62612,62616,Production Technician I,Technician,No,Fully Meets
+10286,29/02/1956,67,Stanford,Barbara,F,Divorced,Montevideo,2019-08-01 00:00:00,,Not provided,Active,Production,2,42750,76024,76028,Production Technician I,Technician,No,Fully Meets
+10292,23/10/1963,59,Fidelia,Linda,F,Married,Montevideo,2019-08-26 00:00:00,,Not provided,Active,Production,5,72851,0,72851,Production Technician I,Technician,No,Fully Meets
+10296,09/04/1981,41,Sullivan,Alberto,M,Married,Montevideo,2019-10-08 00:00:00,,Not provided,Active,Production,5,60211,0,60211,Production Technician I,Technician,No,Fully Meets
+10297,13/04/1975,47,Harrell,Mariano,M,Married,Lima,2019-10-18 00:00:00,,Not provided,Active,Production,3,72584,0,72584,Production Technician I,Technician,No,Fully Meets
+10299,06/09/1972,50,Cornett,Lisa,F,Married,Montevideo,2019-10-29 00:00:00,,Not provided,Active,Production,5,57008,0,57008,Production Technician I,Technician,No,Fully Meets
+10308,10/09/1978,44,Tippett,Jeanette,F,Divorced,Lima,2019-12-19 00:00:00,,Not provided,Active,Production,2,50250,76488,76493,Production Technician I,Technician,No,Fully Meets
+10001,05/12/1955,67,Stoica,Juan,M,Married,Lima,2014-01-08 00:00:00,,Not provided,Active,Production,3,74900,10947,85847,Production Technician I,Technician,No,Fully Meets
+10018,16/05/1978,44,England,Ana,F,Married,Lima,2014-05-18 00:00:00,,Not provided,Active,Production,3,53866,4558,58424,Production Technician I,Technician,No,Fully Meets
+10024,03/11/1972,50,Jhaveri,Silvana,F,Partners,Lima,2014-07-26 00:00:00,,Not provided,Active,Production,5,75257,4052,79309,Production Technician I,Technician,No,Fully Meets
+10028,20/06/1968,54,Gordon,Santiago,M,Married,Montevideo,2014-08-12 00:00:00,,Not provided,Active,Production,3,56503,4781,61284,Production Technician I,Technician,No,Fully Meets
+10030,08/04/1963,59,Power,Adriana,F,Divorced,Lima,2014-08-25 00:00:00,,Not provided,Active,Production,4,64138,3454,67592,Production Technician I,Technician,No,Fully Meets
+10051,03/11/1954,68,Motlagh,Oscar,M,Divorced,Buenos Aires,2014-12-14 00:00:00,,Not provided,Active,Production,4,60740,3271,64011,Production Technician I,Technician,No,Fully Meets
+10054,23/09/1977,45,Langton,Daniel,M,Married,Buenos Aires,2014-12-19 00:00:00,,Not provided,Active,Production,5,71145,9304,80449,Production Technician I,Technician,No,Fully Meets
+10065,03/03/1958,65,Robinson,Rocio,F,Married,Buenos Aires,2015-03-02 00:00:00,,Not provided,Active,Production,3,71495,6050,77545,Production Technician I,Technician,No,Fully Meets
+10102,05/11/1987,35,Peterson,Sebastian,M,Married,Buenos Aires,2015-11-28 00:00:00,,Not provided,Active,Production,3,61768,4751,66519,Production Technician I,Technician,No,Fully Meets
+10113,05/11/1978,44,Jacobi,Nicolas,M,Divorced,Lima,2016-02-29 00:00:00,,Not provided,Active,Production,5,75572,2907,78479,Production Technician I,Technician,No,Fully Meets
+10117,12/08/1972,50,Athwal,Nelson,M,Widower,Buenos Aires,2016-03-23 00:00:00,,Not provided,Active,Production,4,61954,2383,64337,Production Technician I,Technician,No,Fully Meets
+10120,19/12/1991,31,Gentry,Milena,F,Married,Lima,2016-04-16 00:00:00,,Not provided,Active,Production,3,57434,3534,60968,Production Technician I,Technician,No,Fully Meets
+10128,11/09/1962,60,Mangal,Josue,M,Married,Buenos Aires,2016-06-16 00:00:00,,Not provided,Active,Production,3,55143,3818,58961,Production Technician I,Technician,No,Fully Meets
+10147,24/05/1959,63,Darson,Ana,F,Married,Lima,2016-11-04 00:00:00,,Not provided,Active,Production,3,75379,11017,86396,Production Technician I,Technician,No,Fully Meets
+10156,21/03/1978,44,Tinto,María,F,Divorced,Montevideo,2017-01-03 00:00:00,,Not provided,Active,Production,5,77009,10663,87672,Production Technician I,Technician,No,Fully Meets
+10160,29/10/1985,37,Shields,Silvia,F,Married,Buenos Aires,2017-02-09 00:00:00,,Not provided,Active,Production,4,73524,3393,76917,Production Technician I,Technician,No,Fully Meets
+10166,06/03/1967,56,Mckenna,Romina,F,Married,Montevideo,2017-03-07 00:00:00,,Not provided,Active,Production,3,73949,6826,80775,Production Technician I,Technician,No,Fully Meets
+10178,15/03/1956,66,Zima,Laura,F,Widower,Montevideo,2017-05-01 00:00:00,,Not provided,Active,Production,5,61192,2354,63546,Production Technician I,Technician,No,Fully Meets
+10181,10/09/1977,45,Maurice,Ignacio,M,Married,Lima,2017-05-21 00:00:00,,Not provided,Active,Production,4,65919,8113,74032,Production Technician I,Technician,No,Fully Meets
+10194,01/08/1959,63,Purinton,Agustin,M,Divorced,Montevideo,2017-10-12 00:00:00,,Not provided,Active,Production,5,61242,8951,70193,Production Technician I,Technician,No,Fully Meets
+10199,14/01/1970,53,Barbara,María,F,Married,Buenos Aires,2017-11-23 00:00:00,,Not provided,Active,Production,3,69442,3205,72647,Production Technician I,Technician,No,Fully Meets
+10202,20/07/1958,64,Sander,Marcos,M,Married,Montevideo,2017-12-18 00:00:00,,Not provided,Active,Production,3,64931,8990,73921,Production Technician I,Technician,No,Fully Meets
+10219,12/01/1991,32,Rarrick,Fernando,M,Divorced,Lima,2018-05-08 00:00:00,,Not provided,Active,Production,5,73616,8494,82110,Production Technician I,Technician,No,Fully Meets
+10239,24/09/1951,71,Alagbe,Julieta,F,Married,Montevideo,2018-09-17 00:00:00,,Not provided,Active,Production,5,57749,4886,62635,Production Technician I,Technician,No,Fully Meets
+10250,27/01/1978,45,DeGweck,Luis,M,Married,Lima,2018-12-25 00:00:00,,Not provided,Active,Production,4,73359,5643,79002,Production Technician I,Technician,No,Fully Meets
+10272,09/06/1980,42,Biden,Lisa,F,Divorced,Montevideo,2019-05-18 00:00:00,,Not provided,Active,Production,3,77147,10682,87829,Production Technician I,Technician,No,Fully Meets
+10282,01/10/1961,61,Kretschmer,John,M,Married,Buenos Aires,2019-07-19 00:00:00,,Not provided,Active,Production,3,75487,9871,85358,Production Technician I,Technician,No,Fully Meets
+10285,29/12/1980,42,Handschiegl,Joanne,F,Married,Montevideo,2019-07-29 00:00:00,,Not provided,Active,Production,4,62612,8669,71281,Production Technician I,Technician,No,Fully Meets
+10286,29/02/1956,67,Stanford,Barbara,F,Divorced,Montevideo,2019-08-01 00:00:00,,Not provided,Active,Production,4,76024,9942,85966,Production Technician I,Technician,No,Fully Meets
+10292,23/10/1963,59,Fidelia,Linda,F,Married,Montevideo,2019-08-26 00:00:00,,Not provided,Active,Production,5,72851,8966,81817,Production Technician I,Technician,No,Fully Meets
+10296,09/04/1981,41,Sullivan,Alberto,M,Married,Montevideo,2019-10-08 00:00:00,,Not provided,Active,Production,5,60211,6021,66232,Production Technician I,Technician,No,Fully Meets
+10297,13/04/1975,47,Harrell,Mariano,M,Married,Lima,2019-10-18 00:00:00,,Not provided,Active,Production,3,72584,6700,79284,Production Technician I,Technician,No,Fully Meets
+10299,06/09/1972,50,Cornett,Lisa,F,Married,Montevideo,2019-10-29 00:00:00,,Not provided,Active,Production,5,57008,8770,65778,Production Technician I,Technician,No,Fully Meets
+10308,10/09/1978,44,Tippett,Jeanette,F,Divorced,Lima,2019-12-19 00:00:00,,Not provided,Active,Production,5,76488,10002,86490,Production Technician I,Technician,No,Fully Meets
+10000,09/08/1989,33,Gonzalez,Fernando,M,Divorced,Montevideo,2014-01-02 00:00:00,,Not provided,Active,Production,4,41924,2096,44020,Production Technician I,Technician,No,Exceeds
+10038,19/04/1967,55,Owad,Eduardo,M,Single,Buenos Aires,2014-09-29 00:00:00,,Not provided,Active,Production,3,45075,6761,51836,Production Technician I,Technician,No,Needs Improvement
+10042,08/10/1962,60,Lynch,Rosario,F,Single,Montevideo,2014-10-23 00:00:00,,Not provided,Active,Production,4,57313,5731,63044,Production Technician I,Technician,No,Exceeds
+10044,16/11/1956,66,Sparks,Sergio,M,Married,Montevideo,2014-11-10 00:00:00,,Not provided,Active,Production,2,48061,4806,52867,Production Technician I,Technician,No,PIP
+10071,27/07/1990,32,Estremera,Camila,F,Single,Lima,2015-04-09 00:00:00,,Not provided,Active,Production,4,46028,2762,48790,Production Technician I,Technician,No,Needs Improvement
+10075,16/01/1974,49,Johnson,Clara,F,Married,Lima,2015-05-09 00:00:00,,Not provided,Active,Production,4,41802,7942,49744,Production Technician I,Technician,No,Exceeds
+10077,06/04/1975,47,Adinolfi,Alejandro,M,Single,Buenos Aires,2015-05-23 00:00:00,,Not provided,Active,Production,5,44993,8999,53992,Production Technician I,Technician,No,Exceeds
+10087,09/11/1955,67,Trang,Jesus,M,Single,Lima,2015-07-19 00:00:00,,Not provided,Active,Production,5,57201,6864,64065,Production Technician I,Technician,No,Needs Improvement
+10115,27/04/1983,39,Robinson,Gabriel,M,Widower,Buenos Aires,2016-03-04 00:00:00,,Not provided,Active,Production,5,42532,5529,48061,Production Technician I,Technician,No,Exceeds
+10124,17/10/1969,53,DiNocco,Sandra,F,Married,Buenos Aires,2016-05-02 00:00:00,,Not provided,Active,Production,4,59322,2966,62288,Production Technician I,Technician,No,Needs Improvement
+10139,04/08/1979,43,Fernandes,Maria,F,Married,Lima,2016-08-17 00:00:00,,Not provided,Active,Production,5,45093,4960,50053,Production Technician I,Technician,No,PIP
+10158,18/04/1979,43,Harrison,Jose,M,Married,Buenos Aires,2017-01-18 00:00:00,,Not provided,Active,Production,4,47101,7065,54166,Production Technician I,Technician,No,Exceeds
+10164,31/10/1981,41,Saar-Beckles,Marina,F,Single,Lima,2017-03-04 00:00:00,,Not provided,Active,Production,4,52618,2631,55249,Production Technician I,Technician,No,Needs Improvement
+10198,23/01/1991,32,Desimone,Gabriela,F,Married,Montevideo,2017-10-26 00:00:00,,Not provided,Active,Production,2,50551,6066,56617,Production Technician I,Technician,No,PIP
+10000,09/08/1989,33,Gonzalez,Fernando,M,Divorced,Montevideo,2014-01-02 00:00:00,,Not provided,Active,Production,4,46116,2096,48212,Production Technician I,Technician,No,Exceeds
+10038,19/04/1967,55,Owad,Eduardo,M,Single,Buenos Aires,2014-09-29 00:00:00,,Not provided,Active,Production,3,49583,6761,56344,Production Technician I,Technician,No,Needs Improvement
+10042,08/10/1962,60,Lynch,Rosario,F,Single,Montevideo,2014-10-23 00:00:00,,Not provided,Active,Production,4,63044,5731,68775,Production Technician I,Technician,No,Exceeds
+10044,16/11/1956,66,Sparks,Sergio,M,Married,Montevideo,2014-11-10 00:00:00,,Not provided,Active,Production,2,52867,4806,57673,Production Technician I,Technician,No,PIP
+10071,27/07/1990,32,Estremera,Camila,F,Single,Lima,2015-04-09 00:00:00,,Not provided,Active,Production,4,50631,2762,53393,Production Technician I,Technician,No,Needs Improvement
+10075,16/01/1974,49,Johnson,Clara,F,Married,Lima,2015-05-09 00:00:00,,Not provided,Active,Production,4,45982,7942,53924,Production Technician I,Technician,No,Exceeds
+10077,06/04/1975,47,Adinolfi,Alejandro,M,Single,Buenos Aires,2015-05-23 00:00:00,,Not provided,Active,Production,5,49492,8999,58491,Production Technician I,Technician,No,Exceeds
+10087,09/11/1955,67,Trang,Jesus,M,Single,Lima,2015-07-19 00:00:00,,Not provided,Active,Production,5,62921,6864,69785,Production Technician I,Technician,No,Needs Improvement
+10115,27/04/1983,39,Robinson,Gabriel,M,Widower,Buenos Aires,2016-03-04 00:00:00,,Not provided,Active,Production,5,46785,5529,52314,Production Technician I,Technician,No,Exceeds
+10124,17/10/1969,53,DiNocco,Sandra,F,Married,Buenos Aires,2016-05-02 00:00:00,,Not provided,Active,Production,4,65254,2966,68220,Production Technician I,Technician,No,Needs Improvement
+10139,04/08/1979,43,Fernandes,Maria,F,Married,Lima,2016-08-17 00:00:00,,Not provided,Active,Production,5,49602,4960,54562,Production Technician I,Technician,No,PIP
+10158,18/04/1979,43,Harrison,Jose,M,Married,Buenos Aires,2017-01-18 00:00:00,,Not provided,Active,Production,4,51811,7065,58876,Production Technician I,Technician,No,Exceeds
+10164,31/10/1981,41,Saar-Beckles,Marina,F,Single,Lima,2017-03-04 00:00:00,,Not provided,Active,Production,4,57880,2631,60511,Production Technician I,Technician,No,Needs Improvement
+10192,31/05/1951,71,Rivera,Rosana,F,Married,Lima,2017-09-20 00:00:00,,Not provided,Active,Production,5,64714,3530,68244,Production Technician I,Technician,No,Exceeds
+10198,23/01/1991,32,Desimone,Gabriela,F,Married,Montevideo,2017-10-26 00:00:00,,Not provided,Active,Production,2,55606,6066,61672,Production Technician I,Technician,No,PIP
+10209,30/05/1956,66,Girifalco,Evelyn,F,Single,Buenos Aires,2018-02-20 00:00:00,,Not provided,Active,Production,4,53835,4405,58240,Production Technician I,Technician,No,Exceeds
+10227,20/09/1961,61,Robinson,Brenda,F,Married,Lima,2018-06-20 00:00:00,,Not provided,Active,Production,3,55679,5568,61247,Production Technician I,Technician,No,Needs Improvement
+10232,01/04/1982,40,Anderson,Linda,F,Single,Lima,2018-08-19 00:00:00,,Not provided,Active,Production,5,45855,2918,48773,Production Technician I,Technician,No,Exceeds
+10248,25/07/1961,61,Volk,Constanza,F,Married,Buenos Aires,2018-12-08 00:00:00,,Not provided,Active,Production,5,64580,11742,76322,Production Technician I,Technician,No,Exceeds
+10271,02/06/1986,36,Clukey,Jose Luis,M,Married,Buenos Aires,2019-05-14 00:00:00,,Not provided,Active,Production,3,47500,68039,68043,Production Technician I,Technician,No,Exceeds
+10300,11/02/1982,41,Billis,Helena,F,Married,Montevideo,2019-10-31 00:00:00,,Not provided,Active,Production,3,60496,0,60496,Production Technician I,Technician,No,Exceeds
+10000,09/08/1989,33,Gonzalez,Fernando,M,Divorced,Montevideo,2014-01-02 00:00:00,,Not provided,Active,Production,4,54501,2096,56597,Production Technician I,Technician,No,Exceeds
+10038,19/04/1967,55,Owad,Eduardo,M,Single,Buenos Aires,2014-09-29 00:00:00,,Not provided,Active,Production,3,58598,6761,65359,Production Technician I,Technician,No,Needs Improvement
+10042,08/10/1962,60,Lynch,Rosario,F,Single,Montevideo,2014-10-23 00:00:00,,Not provided,Active,Production,4,74507,5731,80238,Production Technician I,Technician,No,Exceeds
+10044,16/11/1956,66,Sparks,Sergio,M,Married,Montevideo,2014-11-10 00:00:00,,Not provided,Active,Production,2,62479,4806,67285,Production Technician I,Technician,No,PIP
+10075,16/01/1974,49,Johnson,Clara,F,Married,Lima,2015-05-09 00:00:00,,Not provided,Active,Production,4,54343,7942,62285,Production Technician I,Technician,No,Exceeds
+10077,06/04/1975,47,Adinolfi,Alejandro,M,Single,Buenos Aires,2015-05-23 00:00:00,,Not provided,Active,Production,5,58491,8999,67490,Production Technician I,Technician,No,Exceeds
+10087,09/11/1955,67,Trang,Jesus,M,Single,Lima,2015-07-19 00:00:00,,Not provided,Active,Production,5,74361,6864,81225,Production Technician I,Technician,No,Needs Improvement
+10115,27/04/1983,39,Robinson,Gabriel,M,Widower,Buenos Aires,2016-03-04 00:00:00,,Not provided,Active,Production,5,55292,5529,60821,Production Technician I,Technician,No,Exceeds
+10124,17/10/1969,53,DiNocco,Sandra,F,Married,Buenos Aires,2016-05-02 00:00:00,,Not provided,Active,Production,4,77119,2966,80085,Production Technician I,Technician,No,Needs Improvement
+10139,04/08/1979,43,Fernandes,Maria,F,Married,Lima,2016-08-17 00:00:00,,Not provided,Active,Production,5,58621,4960,63581,Production Technician I,Technician,No,PIP
+10158,18/04/1979,43,Harrison,Jose,M,Married,Buenos Aires,2017-01-18 00:00:00,,Not provided,Active,Production,4,61231,7065,68296,Production Technician I,Technician,No,Exceeds
+10164,31/10/1981,41,Saar-Beckles,Marina,F,Single,Lima,2017-03-04 00:00:00,,Not provided,Active,Production,4,68403,2631,71034,Production Technician I,Technician,No,Needs Improvement
+10192,31/05/1951,71,Rivera,Rosana,F,Married,Lima,2017-09-20 00:00:00,,Not provided,Active,Production,5,76480,3530,80010,Production Technician I,Technician,No,Exceeds
+10198,23/01/1991,32,Desimone,Gabriela,F,Married,Montevideo,2017-10-26 00:00:00,,Not provided,Active,Production,2,65716,6066,71782,Production Technician I,Technician,No,PIP
+10209,30/05/1956,66,Girifalco,Evelyn,F,Single,Buenos Aires,2018-02-20 00:00:00,,Not provided,Active,Production,4,63623,4405,68028,Production Technician I,Technician,No,Exceeds
+10227,20/09/1961,61,Robinson,Brenda,F,Married,Montevideo,2018-06-20 00:00:00,,Not provided,Active,Production,3,65802,5568,71370,Production Technician I,Technician,No,Needs Improvement
+10232,01/04/1982,40,Anderson,Linda,F,Single,Montevideo,2018-08-19 00:00:00,,Not provided,Active,Production,5,54192,2918,57110,Production Technician I,Technician,No,Exceeds
+10248,25/07/1961,61,Volk,Constanza,F,Married,Montevideo,2018-12-08 00:00:00,,Not provided,Active,Production,5,76322,11742,88064,Production Technician I,Technician,No,Exceeds
+10265,28/07/1959,63,Ngodup,Lara,F,Partners,Montevideo,2019-04-06 00:00:00,,Not provided,Active,Production,3,63096,7280,70376,Production Technician I,Technician,No,Exceeds
+10269,04/09/1966,56,Osturnka,Abel,M,Married,Montevideo,2019-05-09 00:00:00,,Not provided,Active,Production,3,75040,4618,79658,Production Technician I,Technician,No,Exceeds
+10271,02/06/1986,36,Clukey,Jose Luis,M,Married,Buenos Aires,2019-05-14 00:00:00,,Not provided,Active,Production,4,68039,8897,76936,Production Technician I,Technician,No,Exceeds
+10300,11/02/1982,41,Billis,Helena,F,Married,Montevideo,2019-10-31 00:00:00,,Not provided,Active,Production,3,60496,9307,69803,Production Technician I,Technician,No,Exceeds
+10011,31/01/1959,64,Jeannite,Maria,F,Divorced,Lima,2014-04-13 00:00:00,,Not provided,Active,Production,4,61297,3678,64975,Production Technician II,Technician,No,Exceeds
+10045,03/03/1958,65,Monroe,Victor,M,Married,Montevideo,2014-11-27 00:00:00,,Not provided,Active,IT/IS,3,84696,11010,95706,IT Manager - Infra,Manager,Yes,Needs Improvement
+10047,01/12/1958,64,Erilus,Christian,M,Partners,Buenos Aires,2014-12-05 00:00:00,,Not provided,Active,Production,1,66207,5297,71504,Production Technician II,Technician,No,PIP
+10057,08/08/1990,32,Dougall,Luis,M,Single,Buenos Aires,2014-12-29 00:00:00,,Not provided,Active,IT/IS,5,83993,10079,94072,IT Manager - Support,Manager,Yes,Exceeds
+10080,02/06/1975,47,Zamora,Pedro,M,Single,Montevideo,2015-06-09 00:00:00,,Not provided,Active,Z Management,5,102280,20456,122736,CIO,Director,Yes,Exceeds
+10086,17/07/1955,67,Lindsay,Edmundo,M,Single,Lima,2015-07-12 00:00:00,,Not provided,Active,IT/IS,4,35423,1771,37194,IT Support,Technician,No,Exceeds
+10092,19/01/1987,36,Riordan,Ruben,M,Partners,Buenos Aires,2015-08-31 00:00:00,,Not provided,Active,Sales,3,78733,11810,90543,Area Sales Manager,Manager,Yes,Exceeds
+10095,11/07/1974,48,Lunquist,Patricia,F,Single,Buenos Aires,2015-10-23 00:00:00,,Not provided,Active,Production,4,62470,4373,66843,Production Technician II,Technician,No,Exceeds
+10096,30/03/1975,47,Prater,David,M,Married,Lima,2015-10-30 00:00:00,,Not provided,Active,Sales,2,42000,4141,46141,Administrative Assistant,Analyst,No,PIP
+10123,18/01/1961,62,Smith,Jorge,M,Divorced,Montevideo,2016-04-29 00:00:00,,Not provided,Active,Sales,4,39500,8247,47747,Administrative Assistant,Analyst,No,Needs Improvement
+10140,30/05/1968,54,Liebig,Pablo,M,Married,Buenos Aires,2016-08-20 00:00:00,,Not provided,Active,Production,3,94549,15128,109677,Production Manager,Manager,Yes,Exceeds
+10145,30/03/1958,64,Johnston,Ivan,M,Single,Montevideo,2016-10-25 00:00:00,,Not provided,Active,Production,3,67431,10789,78220,Production Technician II,Technician,No,Exceeds
+10159,11/04/1968,54,Butler,Sergio,M,Single,Buenos Aires,2017-01-25 00:00:00,,Not provided,Active,Production,3,83744,6700,90444,Production Manager,Manager,Yes,Exceeds
+10161,27/04/1977,45,Petrowsky,Laura,F,Married,Buenos Aires,2017-02-16 00:00:00,,Not provided,Active,IT/IS,5,58908,9425,68333,Data Analyst,Analyst,No,Exceeds
+10170,10/05/1978,44,Murray,Ariana,F,Divorced,Montevideo,2017-03-29 00:00:00,,Not provided,Active,IT/IS,4,64419,6442,70861,Data Analyst,Analyst,No,Exceeds
+10186,09/01/1977,46,Immediato,Lucas,M,Married,Montevideo,2017-07-09 00:00:00,,Not provided,Active,Production,2,96939,10663,107602,Production Manager,Manager,Yes,Needs Improvement
+10193,23/12/1969,53,Stanley,Delfina,F,Divorced,Lima,2017-10-08 00:00:00,,Not provided,Active,Production,2,81352,13830,95182,Production Manager,Manager,Yes,Needs Improvement
+10201,19/07/1970,52,Winthrop,Mercedes,F,Single,Lima,2017-12-06 00:00:00,,Not provided,Active,Production,3,74563,12676,87239,Production Technician II,Technician,No,Exceeds
+10203,04/11/1979,43,Beak,Ezequiel,M,Married,Buenos Aires,2017-12-23 00:00:00,,Not provided,Active,Production,3,80583,12893,93476,Production Technician II,Technician,No,Exceeds
+10011,31/01/1959,64,Jeannite,Maria,F,Divorced,Lima,2014-04-13 00:00:00,,Not provided,Active,Production,4,67427,3678,71105,Production Technician II,Technician,No,Exceeds
+10045,03/03/1958,65,Monroe,Victor,M,Married,Montevideo,2014-11-27 00:00:00,,Not provided,Active,IT/IS,3,93166,11010,104176,IT Manager - Infra,Manager,Yes,Needs Improvement
+10047,01/12/1958,64,Erilus,Christian,M,Partners,Buenos Aires,2014-12-05 00:00:00,,Not provided,Active,Production,1,72828,5297,78125,Production Technician II,Technician,No,PIP
+10057,08/08/1990,32,Dougall,Luis,M,Single,Buenos Aires,2014-12-29 00:00:00,,Not provided,Active,IT/IS,5,92392,10079,102471,IT Manager - Support,Manager,Yes,Exceeds
+10080,02/06/1975,47,Zamora,Pedro,M,Single,Montevideo,2015-06-09 00:00:00,,Not provided,Active,Z Management,5,112508,20456,132964,CIO,Director,Yes,Exceeds
+10086,17/07/1955,67,Lindsay,Edmundo,M,Single,Lima,2015-07-12 00:00:00,,Not provided,Active,IT/IS,4,38965,1771,40736,IT Support,Technician,No,Exceeds
+10092,19/01/1987,36,Riordan,Ruben,M,Partners,Buenos Aires,2015-08-31 00:00:00,,Not provided,Active,Sales,3,56000,11810,67810,Administrative Assistant,Analyst,No,Exceeds
+10095,11/07/1974,48,Lunquist,Patricia,F,Single,Buenos Aires,2015-10-23 00:00:00,,Not provided,Active,Production,4,68717,4373,73090,Production Technician II,Technician,No,Exceeds
+10096,30/03/1975,47,Prater,David,M,Married,Lima,2015-10-30 00:00:00,,Not provided,Active,Sales,2,50100,4141,54241,Administrative Assistant,Analyst,No,PIP
+10123,18/01/1961,62,Smith,Jorge,M,Divorced,Montevideo,2016-04-29 00:00:00,,Not provided,Active,Sales,4,48500,8247,56747,Administrative Assistant,Analyst,No,Needs Improvement
+10140,30/05/1968,54,Liebig,Pablo,M,Married,Buenos Aires,2016-08-20 00:00:00,,Not provided,Active,Production,3,104004,15128,119132,Production Manager,Manager,Yes,Exceeds
+10145,30/03/1958,64,Johnston,Ivan,M,Single,Montevideo,2016-10-25 00:00:00,,Not provided,Active,Production,3,74174,10789,84963,Production Technician II,Technician,No,Exceeds
+10159,11/04/1968,54,Butler,Sergio,M,Single,Buenos Aires,2017-01-25 00:00:00,,Not provided,Active,Production,3,92118,6700,98818,Production Manager,Manager,Yes,Exceeds
+10161,27/04/1977,45,Petrowsky,Laura,F,Married,Buenos Aires,2017-02-16 00:00:00,,Not provided,Active,IT/IS,5,64799,9425,74224,Data Analyst,Analyst,No,Exceeds
+10170,10/05/1978,44,Murray,Ariana,F,Divorced,Montevideo,2017-03-29 00:00:00,,Not provided,Active,IT/IS,4,70861,6442,77303,Data Analyst,Analyst,No,Exceeds
+10180,02/06/1986,36,Monterro,Hector,M,Single,Montevideo,2017-05-05 00:00:00,,Not provided,Active,Production,3,82557,12008,94565,Production Technician II,Technician,No,Exceeds
+10186,09/01/1977,46,Immediato,Lucas,M,Married,Montevideo,2017-07-09 00:00:00,,Not provided,Active,Production,2,106633,10663,117296,Production Manager,Manager,Yes,Needs Improvement
+10188,14/12/1955,67,Exantus,Marina,F,Married,Montevideo,2017-08-16 00:00:00,,Not provided,Active,IT/IS,5,88448,5628,94076,Software Engineer,Expert,No,Needs Improvement
+10193,23/12/1969,53,Stanley,Delfina,F,Divorced,Lima,2017-10-08 00:00:00,,Not provided,Active,Production,2,89487,13830,103317,Production Manager,Manager,Yes,Needs Improvement
+10201,19/07/1970,52,Winthrop,Mercedes,F,Single,Lima,2017-12-06 00:00:00,,Not provided,Active,Production,3,82019,12676,94695,Production Technician II,Technician,No,Exceeds
+10203,04/11/1979,43,Beak,Ezequiel,M,Married,Buenos Aires,2017-12-23 00:00:00,,Not provided,Active,Production,3,88641,12893,101534,Production Technician II,Technician,No,Exceeds
+10206,31/08/1989,33,Merlos,Carlos,M,Single,Lima,2018-01-16 00:00:00,,Not provided,Active,IT/IS,3,47897,6967,54864,Network Engineer,Expert,No,PIP
+10213,14/02/1966,57,Foss,Juan,M,Single,Buenos Aires,2018-03-18 00:00:00,,Not provided,Active,Z Management,5,140390,24249,164639,IT Director,Director,Yes,Exceeds
+10231,26/02/1963,60,Szabo,Andres,M,Single,Buenos Aires,2018-08-12 00:00:00,,Not provided,Active,IT/IS,5,77393,4925,82318,Software Engineer,Expert,No,Exceeds
+10235,17/06/1956,66,Bramante,Jose Luis,M,Single,Lima,2018-08-23 00:00:00,,Not provided,Active,Z Management,5,163788,23824,187612,Director of Operations,Director,Yes,Exceeds
+10243,28/07/1978,44,Miller,Nestor,M,Single,Lima,2018-09-29 00:00:00,,Not provided,Active,Production,2,63507,7505,71012,Production Technician II,Technician,No,PIP
+10270,16/06/1992,30,Smith,Joe,M,Single,Buenos Aires,2019-05-12 00:00:00,,Not provided,Active,Production,2,37500,104928,104931,Production Technician II,Technician,No,Exceeds
+10309,28/07/1953,69,Blount,Dianna,F,Single,Lima,2019-12-30 00:00:00,,Not provided,Active,Production,2,37500,81237,81240,Production Technician II,Technician,No,Needs Improvement
+10045,03/03/1958,65,Monroe,Victor,M,Married,Montevideo,2014-11-27 00:00:00,,Not provided,Active,IT/IS,3,110105,11010,121115,IT Manager - Infra,Manager,Yes,Needs Improvement
+10047,01/12/1958,64,Erilus,Christian,M,Partners,Buenos Aires,2014-12-05 00:00:00,,Not provided,Active,Production,1,86069,5297,91366,Production Technician II,Technician,No,PIP
+10057,08/08/1990,32,Dougall,Luis,M,Single,Buenos Aires,2014-12-29 00:00:00,,Not provided,Active,IT/IS,5,109191,10079,119270,IT Manager - Support,Manager,Yes,Exceeds
+10080,02/06/1975,47,Zamora,Pedro,M,Single,Montevideo,2015-06-09 00:00:00,,Not provided,Active,Z Management,5,132964,20456,153420,CIO,Director,Yes,Exceeds
+10086,17/07/1955,67,Lindsay,Edmundo,M,Single,Lima,2015-07-12 00:00:00,,Not provided,Active,IT/IS,4,46050,1771,47821,IT Support,Technician,No,Exceeds
+10092,19/01/1987,36,Riordan,Ruben,M,Partners,Buenos Aires,2015-08-31 00:00:00,,Not provided,Active,Sales,3,62000,11810,73810,Administrative Assistant,Analyst,No,Exceeds
+10095,11/07/1974,48,Lunquist,Patricia,F,Single,Buenos Aires,2015-10-23 00:00:00,,Not provided,Active,Production,4,81211,4373,85584,Production Technician II,Technician,No,Exceeds
+10096,30/03/1975,47,Prater,David,M,Married,Lima,2015-10-30 00:00:00,,Not provided,Active,Sales,2,54200,4141,58341,Administrative Assistant,Analyst,No,PIP
+10123,18/01/1961,62,Smith,Jorge,M,Divorced,Montevideo,2016-04-29 00:00:00,,Not provided,Active,Sales,4,49000,8247,57247,Administrative Assistant,Analyst,No,Needs Improvement
+10140,30/05/1968,54,Liebig,Pablo,M,Married,Buenos Aires,2016-08-20 00:00:00,,Not provided,Active,Production,3,122914,15128,138042,Production Manager,Manager,Yes,Exceeds
+10145,30/03/1958,64,Johnston,Ivan,M,Single,Montevideo,2016-10-25 00:00:00,,Not provided,Active,Production,3,87660,10789,98449,Production Technician II,Technician,No,Exceeds
+10159,11/04/1968,54,Butler,Sergio,M,Single,Buenos Aires,2017-01-25 00:00:00,,Not provided,Active,Production,3,108867,6700,115567,Production Manager,Manager,Yes,Exceeds
+10161,27/04/1977,45,Petrowsky,Laura,F,Married,Buenos Aires,2017-02-16 00:00:00,,Not provided,Active,IT/IS,5,76580,9425,86005,Data Analyst,Analyst,No,Exceeds
+10170,10/05/1978,44,Murray,Ariana,F,Divorced,Montevideo,2017-03-29 00:00:00,,Not provided,Active,IT/IS,4,83745,6442,90187,Data Analyst,Analyst,No,Exceeds
+10180,02/06/1986,36,Monterro,Hector,M,Single,Montevideo,2017-05-05 00:00:00,,Not provided,Active,Production,3,97568,12008,109576,Production Technician II,Technician,No,Exceeds
+10203,04/11/1979,43,Beak,Ezequiel,M,Married,Buenos Aires,2017-12-23 00:00:00,,Not provided,Active,Production,3,104758,12893,117651,Production Technician II,Technician,No,Exceeds
+10206,31/08/1989,33,Merlos,Carlos,M,Single,Lima,2018-01-16 00:00:00,,Not provided,Active,IT/IS,3,56606,6967,63573,Network Engineer,Expert,No,PIP
+10213,14/02/1966,57,Foss,Juan,M,Single,Buenos Aires,2018-03-18 00:00:00,,Not provided,Active,Z Management,5,165915,24249,190164,IT Director,Director,Yes,Exceeds
+10231,26/02/1963,60,Szabo,Andres,M,Single,Lima,2018-08-12 00:00:00,,Not provided,Active,IT/IS,5,91464,4925,96389,Software Engineer,Expert,No,Exceeds
+10235,17/06/1956,66,Bramante,Jose Luis,M,Single,Lima,2018-08-23 00:00:00,,Not provided,Active,Z Management,5,193567,23824,217391,Director of Operations,Director,Yes,Exceeds
+10243,28/07/1978,44,Miller,Nestor,M,Single,Buenos Aires,2018-09-29 00:00:00,,Not provided,Active,Production,2,75054,7505,82559,Production Technician II,Technician,No,PIP
+10270,16/06/1992,30,Smith,Joe,M,Single,Buenos Aires,2019-05-12 00:00:00,,Not provided,Active,Production,3,104928,7264,112192,Production Technician II,Technician,No,Exceeds
+10309,28/07/1953,69,Blount,Dianna,F,Single,Lima,2019-12-30 00:00:00,,Not provided,Active,Production,3,81237,9998,91235,Production Technician II,Technician,No,Needs Improvement
+10002,24/04/1986,36,LeBlanc,Ricardo,M,Married,Buenos Aires,2014-01-08 00:00:00,,Not provided,Active,Administration,4,106344,5317,111661,Shared Services Manager,Manager,Yes,Fully Meets
+10006,14/10/1953,69,King,Juan,M,Married,Buenos Aires,2014-02-02 00:00:00,,Not provided,Active,Z Management,3,167230,10034,177264,President & CEO,Director,Yes,Fully Meets
+10013,13/10/1977,45,LaRotonda,Luis,M,Divorced,Lima,2014-04-18 00:00:00,,Not provided,Active,Administration,4,42855,6428,49283,Accountant I,Analyst,No,Fully Meets
+10017,07/06/1990,32,Daneault,Cristian,M,Single,Lima,2014-05-13 00:00:00,,Not provided,Active,Sales,4,83190,13310,96500,Sales Manager,Manager,Yes,Fully Meets
+10019,01/10/1958,64,Albert,Leonardo,M,Divorced,Lima,2014-06-10 00:00:00,,Not provided,Active,Production,3,83634,8363,91997,Production Manager,Manager,Yes,Fully Meets
+10021,24/08/1960,62,Howard,Karina,F,Married,Buenos Aires,2014-06-21 00:00:00,,Not provided,Active,Administration,3,34381,4813,39194,Administrative Assistant,Analyst,No,Fully Meets
+10034,06/08/1970,52,Houlihan,Sergio,M,Married,Lima,2014-09-04 00:00:00,,Not provided,Active,Z Management,4,150757,16583,167340,Director of Sales,Director,Yes,Fully Meets
+10035,02/09/1987,35,Givens,Daniel,M,Single,Montevideo,2014-09-17 00:00:00,,Not provided,Active,Sales,5,100680,8054,108734,Area Sales Manager,Manager,Yes,Fully Meets
+10039,29/08/1979,43,Boutwell,Laura,F,Married,Buenos Aires,2014-09-29 00:00:00,,Not provided,Active,Administration,4,76874,12300,89174,Sr. Accountant,Expert,No,Fully Meets
+10041,13/11/1974,48,Nguyen,Laura,F,Single,Buenos Aires,2014-10-13 00:00:00,,Not provided,Active,Sales,5,42000,10218,52218,Administrative Assistant,Analyst,No,Fully Meets
+10052,23/08/1964,58,Foster-Baker,Santiago,M,Married,Lima,2014-12-14 00:00:00,,Not provided,Active,Administration,3,74904,5243,80147,Sr. Accountant,Expert,No,Fully Meets
+10066,16/11/1964,58,Brown,Carla,F,Married,Lima,2015-03-07 00:00:00,,Not provided,Active,Administration,2,57460,9194,66654,Accountant I,Analyst,No,Fully Meets
+10099,26/02/1966,57,Leruth,Marcos,M,Partners,Buenos Aires,2015-11-19 00:00:00,,Not provided,Active,Sales,3,42100,11663,53763,Administrative Assistant,Analyst,No,Fully Meets
+10101,10/06/1984,38,Dunn,Ayelen,F,Single,Buenos Aires,2015-11-20 00:00:00,,Not provided,Active,Production,4,100481,12058,112539,Production Manager,Manager,Yes,Fully Meets
+10103,12/10/1952,70,Spirea,Belen,F,Married,Buenos Aires,2015-12-08 00:00:00,,Not provided,Active,Production,5,106644,11731,118375,Production Manager,Manager,Yes,Fully Meets
+10104,29/07/1960,62,Onque,Enrique,M,Single,Buenos Aires,2015-12-09 00:00:00,,Not provided,Active,Sales,3,46000,18187,64187,Administrative Assistant,Analyst,No,Fully Meets
+10112,12/04/1961,61,McKinzie,Fernando,M,Married,Montevideo,2016-02-29 00:00:00,,Not provided,Active,Sales,4,43050,6623,49673,Administrative Assistant,Analyst,No,Fully Meets
+10131,03/10/1951,71,Smith,Marina,F,Married,Lima,2016-07-19 00:00:00,,Not provided,Active,Administration,4,34948,6291,41239,Administrative Assistant,Analyst,No,Fully Meets
+10137,06/08/1976,46,Quinn,Nicolas,M,Married,Lima,2016-08-06 00:00:00,,Not provided,Active,Administration,4,78453,3923,82376,Shared Services Manager,Manager,Yes,Fully Meets
+10141,27/05/1989,33,Digitale,Denise,F,Married,Buenos Aires,2016-09-26 00:00:00,,Not provided,Active,Sales,5,43050,13337,56387,Administrative Assistant,Analyst,No,Fully Meets
+10148,21/06/1972,50,Wallace,Luis,M,Married,Montevideo,2016-11-16 00:00:00,,Not provided,Active,Production,3,80231,12035,92266,Production Manager,Manager,Yes,Fully Meets
+10171,31/01/1988,35,Carter,Pablo,M,Single,Buenos Aires,2017-04-01 00:00:00,,Not provided,Active,Sales,5,42000,4141,46141,Administrative Assistant,Analyst,No,Fully Meets
+10175,01/11/1984,38,Valentin,María,F,Married,Lima,2017-04-15 00:00:00,,Not provided,Active,Sales,3,42100,11663,53763,Administrative Assistant,Analyst,No,Fully Meets
+10176,17/02/1974,49,Gonzales,Pedro,M,Married,Lima,2017-04-22 00:00:00,,Not provided,Active,Sales,3,46000,18187,64187,Administrative Assistant,Analyst,No,Fully Meets
+10179,22/08/1966,56,Champaigne,Pablo,M,Married,Buenos Aires,2017-05-05 00:00:00,,Not provided,Active,Z Management,5,156605,12528,169133,BI Director,Director,Yes,Fully Meets
+10185,14/03/1986,36,Khemmich,Lucas,M,Single,Montevideo,2017-07-02 00:00:00,,Not provided,Active,Sales,5,43050,6623,49673,Administrative Assistant,Analyst,No,Fully Meets
+10189,04/06/1958,64,Steans,Fernando,M,Single,Buenos Aires,2017-08-20 00:00:00,,Not provided,Active,Administration,5,51110,2556,53666,Accountant I,Analyst,No,Fully Meets
+10196,11/05/1983,39,Terry,Natalia,F,Single,Montevideo,2017-10-13 00:00:00,,Not provided,Active,Sales,3,98456,19691,118147,Area Sales Manager,Manager,Yes,Fully Meets
+10200,22/04/1970,52,Miller,Ramon,M,Single,Montevideo,2017-12-02 00:00:00,,Not provided,Active,Production,3,101026,12123,113149,Production Manager,Manager,Yes,Fully Meets
+10002,24/04/1986,36,LeBlanc,Ricardo,M,Married,Buenos Aires,2014-01-08 00:00:00,,Not provided,Active,Administration,4,116978,5317,122295,Shared Services Manager,Manager,Yes,Fully Meets
+10006,14/10/1953,69,King,Juan,M,Married,Buenos Aires,2014-02-02 00:00:00,,Not provided,Active,Z Management,3,183953,10034,193987,President & CEO,Director,Yes,Fully Meets
+10013,13/10/1977,45,LaRotonda,Luis,M,Divorced,Lima,2014-04-18 00:00:00,,Not provided,Active,Administration,4,47141,6428,53569,Accountant I,Analyst,No,Fully Meets
+10017,07/06/1990,32,Daneault,Cristian,M,Single,Lima,2014-05-13 00:00:00,,Not provided,Active,Sales,4,83190,13310,96500,Sales Manager,Manager,Yes,Fully Meets
+10019,01/10/1958,64,Albert,Leonardo,M,Divorced,Lima,2014-06-10 00:00:00,,Not provided,Active,Production,3,91997,8363,100360,Production Manager,Manager,Yes,Fully Meets
+10021,24/08/1960,62,Howard,Karina,F,Married,Buenos Aires,2014-06-21 00:00:00,,Not provided,Active,Administration,3,37819,4813,42632,Administrative Assistant,Analyst,No,Fully Meets
+10034,06/08/1970,52,Houlihan,Sergio,M,Married,Lima,2014-09-04 00:00:00,,Not provided,Active,Z Management,4,165833,16583,182416,Director of Sales,Director,Yes,Fully Meets
+10035,02/09/1987,35,Givens,Daniel,M,Single,Montevideo,2014-09-17 00:00:00,,Not provided,Active,Sales,5,100680,8054,108734,Area Sales Manager,Manager,Yes,Fully Meets
+10037,29/11/1985,37,Guilianno,Solange,F,Single,Lima,2018-09-25 00:00:00,,Not provided,Active,Sales,5,42000,4914,46914,Administrative Assistant,Analyst,No,Fully Meets
+10039,29/08/1979,43,Boutwell,Laura,F,Married,Buenos Aires,2014-09-29 00:00:00,,Not provided,Active,Administration,4,84561,12300,96861,Sr. Accountant,Expert,No,Fully Meets
+10041,13/11/1974,48,Nguyen,Laura,F,Single,Buenos Aires,2014-10-13 00:00:00,,Not provided,Active,Sales,5,78733,10218,88951,Area Sales Manager,Manager,Yes,Fully Meets
+10052,23/08/1964,58,Foster-Baker,Santiago,M,Married,Lima,2014-12-14 00:00:00,,Not provided,Active,Administration,3,82394,5243,87637,Sr. Accountant,Expert,No,Fully Meets
+10066,16/11/1964,58,Brown,Carla,F,Married,Lima,2015-03-07 00:00:00,,Not provided,Active,Administration,2,63206,9194,72400,Accountant I,Analyst,No,Fully Meets
+10099,26/02/1966,57,Leruth,Marcos,M,Partners,Buenos Aires,2015-11-19 00:00:00,,Not provided,Active,Sales,3,52013,11663,63676,Administrative Assistant,Analyst,No,Fully Meets
+10101,10/06/1984,38,Dunn,Ayelen,F,Single,Buenos Aires,2015-11-20 00:00:00,,Not provided,Active,Production,4,110529,12058,122587,Production Manager,Manager,Yes,Fully Meets
+10103,12/10/1952,70,Spirea,Belen,F,Married,Buenos Aires,2015-12-08 00:00:00,,Not provided,Active,Production,5,117308,11731,129039,Production Manager,Manager,Yes,Fully Meets
+10104,29/07/1960,62,Onque,Enrique,M,Single,Buenos Aires,2015-12-09 00:00:00,,Not provided,Active,Sales,3,49000,18187,67187,Administrative Assistant,Analyst,No,Fully Meets
+10112,12/04/1961,61,McKinzie,Fernando,M,Married,Montevideo,2016-02-29 00:00:00,,Not provided,Active,Sales,4,42000,6623,48623,Administrative Assistant,Analyst,No,Fully Meets
+10131,03/10/1951,71,Smith,Marina,F,Married,Lima,2016-07-19 00:00:00,,Not provided,Active,Administration,4,38443,6291,44734,Administrative Assistant,Analyst,No,Fully Meets
+10137,06/08/1976,46,Quinn,Nicolas,M,Married,Lima,2016-08-06 00:00:00,,Not provided,Active,Administration,4,86298,3923,90221,Shared Services Manager,Manager,Yes,Fully Meets
+10141,27/05/1989,33,Digitale,Denise,F,Married,Buenos Aires,2016-09-26 00:00:00,,Not provided,Active,Sales,5,43050,13337,56387,Administrative Assistant,Analyst,No,Fully Meets
+10148,21/06/1972,50,Wallace,Luis,M,Married,Montevideo,2016-11-16 00:00:00,,Not provided,Active,Production,3,88254,12035,100289,Production Manager,Manager,Yes,Fully Meets
+10171,31/01/1988,35,Carter,Pablo,M,Single,Buenos Aires,2017-04-01 00:00:00,,Not provided,Active,Sales,5,83190,15260,98450,Sales Manager,Manager,Yes,Fully Meets
+10175,01/11/1984,38,Valentin,María,F,Married,Lima,2017-10-13 00:00:00,,Not provided,Active,Sales,3,42000,12354,54354,Administrative Assistant,Analyst,No,Fully Meets
+10176,17/02/1974,49,Gonzales,Pedro,M,Married,Lima,2017-04-22 00:00:00,,Not provided,Active,Sales,3,42100,16726,58826,Administrative Assistant,Analyst,No,Fully Meets
+10179,22/08/1966,56,Champaigne,Pablo,M,Married,Buenos Aires,2017-05-05 00:00:00,,Not provided,Active,Z Management,5,172266,12528,184794,BI Director,Director,Yes,Fully Meets
+10185,14/03/1986,36,Khemmich,Lucas,M,Single,Montevideo,2017-07-02 00:00:00,,Not provided,Active,Sales,5,46000,11474,57474,Administrative Assistant,Analyst,No,Fully Meets
+10189,04/06/1958,64,Steans,Fernando,M,Single,Buenos Aires,2017-08-20 00:00:00,,Not provided,Active,Administration,5,56221,2556,58777,Accountant I,Analyst,No,Fully Meets
+10196,11/05/1983,39,Terry,Natalia,F,Single,Montevideo,2017-10-13 00:00:00,,Not provided,Active,Sales,3,43050,19691,62741,Administrative Assistant,Analyst,No,Fully Meets
+10200,22/04/1970,52,Miller,Ramon,M,Single,Montevideo,2017-12-02 00:00:00,,Not provided,Active,Production,3,111129,12123,123252,Production Manager,Manager,Yes,Fully Meets
+10214,09/04/1978,44,Villanueva,Pedro,M,Single,Lima,2018-03-30 00:00:00,,Not provided,Active,Sales,4,79188,11015,90203,Area Sales Manager,Manager,Yes,Fully Meets
+10228,06/04/1988,34,Buck,Eduardo,M,Married,Lima,2018-08-10 00:00:00,,Not provided,Active,Sales,5,97788,6359,104147,Area Sales Manager,Manager,Yes,Fully Meets
+10284,07/03/1991,32,Singh,Nadia,F,Single,Montevideo,2019-07-21 00:00:00,,Not provided,Active,Administration,2,37500,46584,46587,Administrative Assistant,Analyst,No,Fully Meets
+10289,18/08/1965,57,Friedman,Gerry,M,Single,Buenos Aires,2018-08-10 00:00:00,,Not provided,Active,Sales,5,98456,5320,103776,Area Sales Manager,Manager,Yes,Fully Meets
+10294,14/11/1977,45,Strong,Carina,F,Married,Lima,2018-08-10 00:00:00,,Not provided,Active,Sales,4,63020,6359,69379,Administrative Assistant,Analyst,No,Fully Meets
+10295,17/10/1969,53,Fraval,Mirko,M,Single,Lima,2017-10-13 00:00:00,,Not provided,Active,Sales,3,61020,6359,67379,Area Sales Manager,Manager,Yes,Fully Meets
+10307,18/02/1954,69,Ozark,Travis,M,Single,Montevideo,2017-04-22 00:00:00,,Not provided,Active,Sales,5,147174,6359,153533,Area Sales Manager,Manager,Yes,Fully Meets
+10002,24/04/1986,36,LeBlanc,Ricardo,M,Married,Buenos Aires,2014-01-08 00:00:00,,Not provided,Active,Administration,4,138247,5317,143564,Shared Services Manager,Manager,Yes,Fully Meets
+10006,14/10/1953,69,King,Juan,M,Married,Buenos Aires,2014-02-02 00:00:00,,Not provided,Active,Z Management,3,217399,10034,227433,President & CEO,Director,Yes,Fully Meets
+10013,13/10/1977,45,LaRotonda,Luis,M,Divorced,Lima,2014-04-18 00:00:00,,Not provided,Active,Administration,4,55712,6428,62140,Accountant I,Analyst,No,Fully Meets
+10017,07/06/1990,32,Daneault,Cristian,M,Single,Lima,2014-05-13 00:00:00,,Not provided,Active,Sales,4,96050,13310,109360,Sales Manager,Manager,Yes,Fully Meets
+10019,01/10/1958,64,Albert,Leonardo,M,Divorced,Lima,2014-06-10 00:00:00,,Not provided,Active,Production,3,108724,8363,117087,Production Manager,Manager,Yes,Fully Meets
+10037,29/11/1985,37,Guilianno,Solange,F,Single,Lima,2014-09-25 00:00:00,,Not provided,Active,Sales,5,56000,4914,60914,Administrative Assistant,Analyst,No,Fully Meets
+10039,29/08/1979,43,Boutwell,Laura,F,Married,Buenos Aires,2014-09-29 00:00:00,,Not provided,Active,Administration,4,99936,12300,112236,Sr. Accountant,Expert,No,Fully Meets
+10041,13/11/1974,48,Nguyen,Laura,F,Single,Buenos Aires,2014-10-13 00:00:00,,Not provided,Active,Sales,5,82000,10218,92218,Area Sales Manager,Manager,Yes,Fully Meets
+10052,23/08/1964,58,Foster-Baker,Santiago,M,Married,Lima,2014-12-14 00:00:00,,Not provided,Active,Administration,3,97375,5243,102618,Sr. Accountant,Expert,No,Fully Meets
+10066,16/11/1964,58,Brown,Carla,F,Married,Lima,2015-03-07 00:00:00,,Not provided,Active,Administration,2,74698,9194,83892,Accountant I,Analyst,No,Fully Meets
+10099,26/02/1966,57,Leruth,Marcos,M,Partners,Buenos Aires,2015-11-19 00:00:00,,Not provided,Active,Sales,3,56010,11663,67673,Administrative Assistant,Analyst,No,Fully Meets
+10101,10/06/1984,38,Dunn,Ayelen,F,Single,Buenos Aires,2015-11-20 00:00:00,,Not provided,Active,Production,4,130625,12058,142683,Production Manager,Manager,Yes,Fully Meets
+10104,29/07/1960,62,Onque,Enrique,M,Single,Buenos Aires,2015-12-09 00:00:00,,Not provided,Active,Sales,3,52000,18187,70187,Administrative Assistant,Analyst,No,Fully Meets
+10112,12/04/1961,61,McKinzie,Fernando,M,Married,Montevideo,2016-02-29 00:00:00,,Not provided,Active,Sales,4,44000,6623,50623,Administrative Assistant,Analyst,No,Fully Meets
+10137,06/08/1976,46,Quinn,Nicolas,M,Married,Lima,2016-08-06 00:00:00,,Not provided,Active,Administration,4,101989,3923,105912,Shared Services Manager,Manager,Yes,Fully Meets
+10141,27/05/1989,33,Digitale,Denise,F,Married,Buenos Aires,2016-09-26 00:00:00,,Not provided,Active,Sales,5,46000,13337,59337,Administrative Assistant,Analyst,No,Fully Meets
+10148,21/06/1972,50,Wallace,Luis,M,Married,Montevideo,2016-11-16 00:00:00,,Not provided,Active,Production,3,104300,12035,116335,Production Manager,Manager,Yes,Fully Meets
+10171,31/01/1988,35,Carter,Pablo,M,Single,Buenos Aires,2017-04-01 00:00:00,,Not provided,Active,Sales,5,93020,15260,108280,Sales Manager,Manager,Yes,Fully Meets
+10175,01/11/1984,38,Valentin,María,F,Married,Lima,2017-04-15 00:00:00,,Not provided,Active,Sales,3,45010,12354,57364,Administrative Assistant,Analyst,No,Fully Meets
+10176,17/02/1974,49,Gonzales,Pedro,M,Married,Lima,2017-04-22 00:00:00,,Not provided,Active,Sales,3,44200,16726,60926,Administrative Assistant,Analyst,No,Fully Meets
+10179,22/08/1966,56,Champaigne,Pablo,M,Married,Buenos Aires,2017-05-05 00:00:00,,Not provided,Active,Z Management,5,203587,12528,216115,BI Director,Director,Yes,Fully Meets
+10185,14/03/1986,36,Khemmich,Lucas,M,Single,Montevideo,2017-07-02 00:00:00,,Not provided,Active,Sales,5,48000,11474,59474,Administrative Assistant,Analyst,No,Fully Meets
+10189,04/06/1958,64,Steans,Fernando,M,Single,Buenos Aires,2017-08-20 00:00:00,,Not provided,Active,Administration,5,66443,2556,68999,Accountant I,Analyst,No,Fully Meets
+10196,11/05/1983,39,Terry,Natalia,F,Single,Montevideo,2017-10-13 00:00:00,,Not provided,Active,Sales,3,46020,19691,65711,Administrative Assistant,Analyst,No,Fully Meets
+10200,22/04/1970,52,Miller,Ramon,M,Single,Montevideo,2017-12-02 00:00:00,,Not provided,Active,Production,3,131334,12123,143457,Production Manager,Manager,Yes,Fully Meets
+10214,09/04/1978,44,Villanueva,Pedro,M,Single,Lima,2018-03-30 00:00:00,,Not provided,Active,Sales,4,81020,11015,92035,Area Sales Manager,Manager,Yes,Fully Meets
+10228,06/04/1988,34,Buck,Eduardo,M,Married,Montevideo,2018-08-10 00:00:00,,Not provided,Active,Sales,5,99000,6359,105359,Area Sales Manager,Manager,Yes,Fully Meets
+10251,19/05/1958,64,Gray,Ignacio,M,Divorced,Buenos Aires,2019-01-02 00:00:00,,Not provided,Active,Production,3,118552,11855,130407,Production Manager,Manager,Yes,Fully Meets
+10255,18/05/1986,36,Potts,Dana,F,Married,Lima,2019-01-15 00:00:00,,Not provided,Active,Sales,5,109200,15120,124320,Area Sales Manager,Manager,Yes,Fully Meets
+10257,05/04/1971,51,Sullivan,Laura,F,Married,Lima,2019-02-02 00:00:00,,Not provided,Active,Production,4,121070,7450,128520,Production Manager,Manager,Yes,Fully Meets
+10260,08/03/1958,65,Martins,Mariano,M,Single,Lima,2019-02-22 00:00:00,,Not provided,Active,Sales,5,72000,16888,88888,Administrative Assistant,Analyst,No,Fully Meets
+10284,07/03/1991,32,Singh,Nadia,F,Single,Montevideo,2019-07-21 00:00:00,,Not provided,Active,Administration,3,46584,2867,49451,Administrative Assistant,Analyst,No,Fully Meets
+10289,18/08/1965,57,Friedman,Gerry,M,Single,Buenos Aires,2019-08-08 00:00:00,,Not provided,Active,Sales,5,68000,14821,82821,Area Sales Manager,Manager,Yes,Fully Meets
+10294,14/11/1977,45,Strong,Carina,F,Married,Lima,2019-09-08 00:00:00,,Not provided,Active,Sales,4,98000,10589,108589,Area Sales Manager,Manager,Yes,Fully Meets
+10295,17/10/1969,53,Fraval,Mirko,M,Single,Lima,2019-09-25 00:00:00,,Not provided,Active,Sales,3,148000,20687,168687,Area Sales Manager,Manager,Yes,Fully Meets
+10307,18/02/1954,69,Ozark,Travis,M,Single,Montevideo,2019-12-12 00:00:00,,Not provided,Active,Sales,5,56800,10189,66989,Administrative Assistant,Analyst,No,Fully Meets
+10008,24/04/1957,65,Warfield,Martina,F,Widower,Montevideo,2014-02-08 00:00:00,,Not provided,Active,IT/IS,4,62198,11196,73394,Sr. Network Engineer,Expert,No,Fully Meets
+10014,29/09/1989,33,Semizoglou,Diego,M,Married,Montevideo,2014-04-21 00:00:00,,Not provided,Active,IT/IS,4,58883,4122,63005,Sr. Network Engineer,Expert,No,Fully Meets
+10022,06/07/1983,39,Shepard,Maria,F,Married,Montevideo,2014-06-27 00:00:00,,Not provided,Active,IT/IS,3,42782,8129,50911,Network Engineer,Expert,No,Fully Meets
+10025,08/01/1952,71,Rogers,Javier,M,Married,Lima,2014-08-04 00:00:00,,Not provided,Active,IT/IS,3,63200,10112,73312,Data Analyst,Analyst,No,Fully Meets
+10032,04/06/1962,60,Horton,Monica,F,Single,Buenos Aires,2014-08-31 00:00:00,,Not provided,Active,IT/IS,5,80618,12093,92711,Database Administrator,Analyst,No,Fully Meets
+10058,24/01/1979,44,Hubert,Mirta,F,Married,Buenos Aires,2015-01-08 00:00:00,,Not provided,Active,IT/IS,5,62017,6822,68839,BI Developer,Analyst,No,Fully Meets
+10063,01/06/1991,31,Tredinnick,Juana,F,Married,Montevideo,2015-02-15 00:00:00,,Not provided,Active,IT/IS,3,51895,6746,58641,Network Engineer,Expert,No,Fully Meets
+10073,29/06/1971,51,Dolan,Mariel,F,Married,Buenos Aires,2015-05-07 00:00:00,,Not provided,Active,IT/IS,4,34787,4870,39657,IT Support,Technician,No,Fully Meets
+10076,13/03/1984,38,Bacong,Jose,M,Divorced,Lima,2015-05-14 00:00:00,,Not provided,Active,IT/IS,5,39648,3965,43613,IT Support,Technician,No,Fully Meets
+10078,07/09/1961,61,Roby,Luciano,M,Married,Buenos Aires,2015-06-04 00:00:00,,Not provided,Active,IT/IS,5,82325,10702,93027,Data Analyst,Analyst,No,Fully Meets
+10082,30/07/1969,53,Navathe,Diego,M,Single,Montevideo,2015-06-18 00:00:00,,Not provided,Active,IT/IS,3,69607,9049,78656,Senior BI Developer,Expert,No,Fully Meets
+10083,18/01/1952,71,Salter,Ruben,M,Divorced,Lima,2015-06-20 00:00:00,,Not provided,Active,IT/IS,3,66454,7310,73764,Data Analyst,Analyst,No,Fully Meets
+10085,29/07/1970,52,Roup,Sebastian,M,Single,Lima,2015-06-29 00:00:00,,Not provided,Active,IT/IS,5,92019,11962,103981,IT Manager - DB,Manager,Yes,Fully Meets
+10094,05/03/1988,35,Saada,Jose,M,Married,Lima,2015-09-30 00:00:00,,Not provided,Active,IT/IS,3,67523,9453,76976,Software Engineer,Expert,No,Fully Meets
+10114,08/03/1958,65,Martin,Ezequiel,M,Single,Montevideo,2016-03-01 00:00:00,,Not provided,Active,IT/IS,5,64209,6421,70630,Software Engineer,Expert,No,Fully Meets
+10122,11/07/1979,43,Ait Sidi,Hector,M,Married,Buenos Aires,2016-04-27 00:00:00,,Not provided,Active,IT/IS,3,77634,13974,91608,Sr. DBA,Expert,No,Fully Meets
+10126,15/11/1989,33,Wang,Daniel,M,Single,Buenos Aires,2016-05-28 00:00:00,,Not provided,Active,IT/IS,4,67598,4732,72330,Senior BI Developer,Expert,No,Fully Meets
+10130,12/12/1977,45,Del Bosque,Diego,M,Single,Montevideo,2016-07-02 00:00:00,,Not provided,Active,IT/IS,5,64606,5168,69774,Software Engineer,Expert,No,Fully Meets
+10133,26/04/1983,39,Turpin,Ana,F,Married,Montevideo,2016-07-30 00:00:00,,Not provided,Active,IT/IS,4,50910,6109,57019,Network Engineer,Expert,No,Fully Meets
+10138,08/12/1981,41,Sweetwater,Juan,M,Single,Montevideo,2016-08-13 00:00:00,,Not provided,Active,IT/IS,3,89572,8957,98529,Software Engineering Manager,Manager,Yes,Fully Meets
+10142,20/09/1957,65,Gonzalez,Delfina,F,Partners,Buenos Aires,2016-09-29 00:00:00,,Not provided,Active,IT/IS,4,39884,4387,44271,IT Support,Technician,No,Fully Meets
+10150,03/12/1956,66,Le,Ana,F,Single,Buenos Aires,2016-11-25 00:00:00,,Not provided,Active,IT/IS,5,72828,9468,82296,Senior BI Developer,Expert,No,Fully Meets
+10172,22/02/1958,65,Becker,Claudio,M,Single,Buenos Aires,2017-04-05 00:00:00,,Not provided,Active,IT/IS,4,59745,2987,62732,Database Administrator,Analyst,No,Fully Meets
+10183,13/10/1991,31,Roehrich,Javier,M,Single,Montevideo,2017-06-13 00:00:00,,Not provided,Active,IT/IS,3,89566,8957,98523,Principal Data Architect,Expert,No,Fully Meets
+10184,26/01/1983,40,Clayton,Leandro,M,Single,Lima,2017-06-15 00:00:00,,Not provided,Active,IT/IS,3,36397,6187,42584,IT Support,Technician,No,Fully Meets
+10204,21/09/1956,66,Soto,Alberto,M,Married,Lima,2017-12-30 00:00:00,,Not provided,Active,IT/IS,3,30178,1509,31687,IT Support,Technician,No,Fully Meets
+10008,24/04/1957,65,Warfield,Martina,F,Widower,Montevideo,2014-02-08 00:00:00,,Not provided,Active,IT/IS,4,68418,11196,79614,Sr. Network Engineer,Expert,No,Fully Meets
+10014,29/09/1989,33,Semizoglou,Diego,M,Married,Montevideo,2014-04-21 00:00:00,,Not provided,Active,IT/IS,4,64771,4122,68893,Sr. Network Engineer,Expert,No,Fully Meets
+10022,06/07/1983,39,Shepard,Maria,F,Married,Montevideo,2014-06-27 00:00:00,,Not provided,Active,IT/IS,3,47060,8129,55189,Network Engineer,Expert,No,Fully Meets
+10025,08/01/1952,71,Rogers,Javier,M,Married,Lima,2014-08-04 00:00:00,,Not provided,Active,IT/IS,3,69520,10112,79632,Data Analyst,Analyst,No,Fully Meets
+10032,04/06/1962,60,Horton,Monica,F,Single,Buenos Aires,2014-08-31 00:00:00,,Not provided,Active,IT/IS,5,88680,12093,100773,Database Administrator,Analyst,No,Fully Meets
+10058,24/01/1979,44,Hubert,Mirta,F,Married,Buenos Aires,2015-01-08 00:00:00,,Not provided,Active,IT/IS,5,68219,6822,75041,BI Developer,Analyst,No,Fully Meets
+10063,01/06/1991,31,Tredinnick,Juana,F,Married,Montevideo,2015-02-15 00:00:00,,Not provided,Active,IT/IS,3,57085,6746,63831,Network Engineer,Expert,No,Fully Meets
+10073,29/06/1971,51,Dolan,Mariel,F,Married,Buenos Aires,2015-05-07 00:00:00,,Not provided,Active,IT/IS,4,38266,4870,43136,IT Support,Technician,No,Fully Meets
+10076,13/03/1984,38,Bacong,Jose,M,Divorced,Lima,2015-05-14 00:00:00,,Not provided,Active,IT/IS,5,43613,3965,47578,IT Support,Technician,No,Fully Meets
+10078,07/09/1961,61,Roby,Luciano,M,Married,Buenos Aires,2015-06-04 00:00:00,,Not provided,Active,IT/IS,5,90558,10702,101260,Data Analyst,Analyst,No,Fully Meets
+10082,30/07/1969,53,Navathe,Diego,M,Single,Montevideo,2015-06-18 00:00:00,,Not provided,Active,IT/IS,3,76568,9049,85617,Senior BI Developer,Expert,No,Fully Meets
+10083,18/01/1952,71,Salter,Ruben,M,Divorced,Lima,2015-06-20 00:00:00,,Not provided,Active,IT/IS,3,73099,7310,80409,Data Analyst,Analyst,No,Fully Meets
+10085,29/07/1970,52,Roup,Sebastian,M,Single,Lima,2015-06-29 00:00:00,,Not provided,Active,IT/IS,5,101221,11962,113183,IT Manager - DB,Manager,Yes,Fully Meets
+10094,05/03/1988,35,Saada,Jose,M,Married,Lima,2015-09-30 00:00:00,,Not provided,Active,IT/IS,3,74275,9453,83728,Software Engineer,Expert,No,Fully Meets
+10114,08/03/1958,65,Martin,Ezequiel,M,Single,Montevideo,2016-03-01 00:00:00,,Not provided,Active,IT/IS,5,70630,6421,77051,Software Engineer,Expert,No,Fully Meets
+10122,11/07/1979,43,Ait Sidi,Hector,M,Married,Buenos Aires,2016-04-27 00:00:00,,Not provided,Active,IT/IS,3,85397,13974,99371,Sr. DBA,Expert,No,Fully Meets
+10126,15/11/1989,33,Wang,Daniel,M,Single,Buenos Aires,2016-05-28 00:00:00,,Not provided,Active,IT/IS,4,74358,4732,79090,Senior BI Developer,Expert,No,Fully Meets
+10130,12/12/1977,45,Del Bosque,Diego,M,Single,Montevideo,2016-07-02 00:00:00,,Not provided,Active,IT/IS,5,71067,5168,76235,Software Engineer,Expert,No,Fully Meets
+10133,26/04/1983,39,Turpin,Ana,F,Married,Montevideo,2016-07-30 00:00:00,,Not provided,Active,IT/IS,4,56001,6109,62110,Network Engineer,Expert,No,Fully Meets
+10138,08/12/1981,41,Sweetwater,Juan,M,Single,Montevideo,2016-08-13 00:00:00,,Not provided,Active,IT/IS,3,98529,8957,107486,Software Engineering Manager,Manager,Yes,Fully Meets
+10142,20/09/1957,65,Gonzalez,Delfina,F,Partners,Buenos Aires,2016-09-29 00:00:00,,Not provided,Active,IT/IS,4,43872,4387,48259,IT Support,Technician,No,Fully Meets
+10150,03/12/1956,66,Le,Ana,F,Single,Buenos Aires,2016-11-25 00:00:00,,Not provided,Active,IT/IS,5,80111,9468,89579,Senior BI Developer,Expert,No,Fully Meets
+10172,22/02/1958,65,Becker,Claudio,M,Single,Buenos Aires,2017-04-05 00:00:00,,Not provided,Active,IT/IS,4,65720,2987,68707,Database Administrator,Analyst,No,Fully Meets
+10183,13/10/1991,31,Roehrich,Javier,M,Single,Montevideo,2017-06-13 00:00:00,,Not provided,Active,IT/IS,3,98523,8957,107480,Principal Data Architect,Expert,No,Fully Meets
+10184,26/01/1983,40,Clayton,Leandro,M,Single,Lima,2017-06-15 00:00:00,,Not provided,Active,IT/IS,3,40037,6187,46224,IT Support,Technician,No,Fully Meets
+10204,21/09/1956,66,Soto,Alberto,M,Married,Lima,2017-12-30 00:00:00,,Not provided,Active,IT/IS,3,33196,1509,34705,IT Support,Technician,No,Fully Meets
+10223,10/01/1956,67,Zhou,Julia,F,Single,Buenos Aires,2018-05-28 00:00:00,,Not provided,Active,IT/IS,3,85700,6233,91933,Data Analyst,Analyst,No,Fully Meets
+10234,02/02/1981,42,Goble,Tania,F,Single,Lima,2018-08-23 00:00:00,,Not provided,Active,IT/IS,4,75897,10350,86247,Database Administrator,Analyst,No,Fully Meets
+10237,27/08/1977,45,Hernandez,Daniel,M,Married,Lima,2018-08-27 00:00:00,,Not provided,Active,IT/IS,3,86334,13342,99676,Database Administrator,Analyst,No,Fully Meets
+10240,10/02/1970,53,Simard,Marcelo,M,Married,Montevideo,2018-09-20 00:00:00,,Not provided,Active,IT/IS,3,71937,3270,75207,Data Analyst,Analyst,No,Fully Meets
+10249,25/10/1985,37,Smith,Juan,M,Single,Buenos Aires,2018-12-23 00:00:00,,Not provided,Active,IT/IS,5,68094,10524,78618,BI Developer,Analyst,No,Fully Meets
+10275,22/11/1992,30,Morway,Tanya,F,Married,Buenos Aires,2019-05-28 00:00:00,,Not provided,Active,IT/IS,3,57890,77301,77304,Network Engineer,Expert,No,Fully Meets
+10277,01/09/1964,58,Carabbio,Judith,F,Single,Buenos Aires,2019-06-02 00:00:00,,Not provided,Active,IT/IS,2,42750,102774,102778,Software Engineer,Expert,No,Fully Meets
+10278,10/08/1965,57,Galia,Lisa,F,Single,Buenos Aires,2019-06-05 00:00:00,,Not provided,Active,IT/IS,2,42750,49631,49635,IT Support,Technician,No,Fully Meets
+10287,31/08/1986,36,Andreola,Clara,F,Single,Lima,2019-08-02 00:00:00,,Not provided,Active,IT/IS,2,37500,92717,92720,Software Engineer,Expert,No,Fully Meets
+10288,21/03/1976,46,Cisco,Antonio,M,Married,Lima,2019-08-03 00:00:00,,Not provided,Active,IT/IS,3,42000,49743,49748,IT Support,Technician,No,Fully Meets
+10293,02/02/1960,63,Westinghouse,Matias,M,Married,Lima,2019-08-30 00:00:00,,Not provided,Active,IT/IS,3,92846,0,92846,BI Developer,Analyst,No,Fully Meets
+10305,04/12/1987,35,Rachael,Maggie,F,Married,Montevideo,2019-12-03 00:00:00,,Not provided,Active,IT/IS,4,94344,0,94344,BI Developer,Analyst,No,Fully Meets
+10008,24/04/1957,65,Warfield,Martina,F,Widower,Montevideo,2014-02-08 00:00:00,,Not provided,Active,IT/IS,4,80857,11196,92053,Sr. Network Engineer,Expert,No,Fully Meets
+10014,29/09/1989,33,Semizoglou,Diego,M,Married,Montevideo,2014-04-21 00:00:00,,Not provided,Active,IT/IS,4,76548,4122,80670,Sr. Network Engineer,Expert,No,Fully Meets
+10022,06/07/1983,39,Shepard,Maria,F,Married,Montevideo,2014-06-27 00:00:00,,Not provided,Active,IT/IS,3,55617,8129,63746,Network Engineer,Expert,No,Fully Meets
+10032,04/06/1962,60,Horton,Monica,F,Single,Buenos Aires,2014-08-31 00:00:00,,Not provided,Active,IT/IS,5,104803,12093,116896,Database Administrator,Analyst,No,Fully Meets
+10058,24/01/1979,44,Hubert,Mirta,F,Married,Buenos Aires,2015-01-08 00:00:00,,Not provided,Active,IT/IS,5,80622,6822,87444,BI Developer,Analyst,No,Fully Meets
+10073,29/06/1971,51,Dolan,Mariel,F,Married,Buenos Aires,2015-05-07 00:00:00,,Not provided,Active,IT/IS,4,45223,4870,50093,IT Support,Technician,No,Fully Meets
+10076,13/03/1984,38,Bacong,Jose,M,Divorced,Lima,2015-05-14 00:00:00,,Not provided,Active,IT/IS,5,51542,3965,55507,IT Support,Technician,No,Fully Meets
+10078,07/09/1961,61,Roby,Luciano,M,Married,Buenos Aires,2015-06-04 00:00:00,,Not provided,Active,IT/IS,5,107023,10702,117725,Data Analyst,Analyst,No,Fully Meets
+10082,30/07/1969,53,Navathe,Diego,M,Single,Montevideo,2015-06-18 00:00:00,,Not provided,Active,IT/IS,3,90489,9049,99538,Senior BI Developer,Expert,No,Fully Meets
+10083,18/01/1952,71,Salter,Ruben,M,Divorced,Lima,2015-06-20 00:00:00,,Not provided,Active,IT/IS,3,86390,7310,93700,Data Analyst,Analyst,No,Fully Meets
+10085,29/07/1970,52,Roup,Sebastian,M,Single,Lima,2015-06-29 00:00:00,,Not provided,Active,IT/IS,5,119625,11962,131587,IT Manager - DB,Manager,Yes,Fully Meets
+10094,05/03/1988,35,Saada,Jose,M,Married,Lima,2015-09-30 00:00:00,,Not provided,Active,IT/IS,3,87780,9453,97233,Software Engineer,Expert,No,Fully Meets
+10114,08/03/1958,65,Martin,Ezequiel,M,Single,Montevideo,2016-03-01 00:00:00,,Not provided,Active,IT/IS,5,83472,6421,89893,Software Engineer,Expert,No,Fully Meets
+10122,11/07/1979,43,Ait Sidi,Hector,M,Married,Buenos Aires,2016-04-27 00:00:00,,Not provided,Active,IT/IS,3,100924,13974,114898,Sr. DBA,Expert,No,Fully Meets
+10126,15/11/1989,33,Wang,Daniel,M,Single,Buenos Aires,2016-05-28 00:00:00,,Not provided,Active,IT/IS,4,87877,4732,92609,Senior BI Developer,Expert,No,Fully Meets
+10130,12/12/1977,45,Del Bosque,Diego,M,Single,Montevideo,2016-07-02 00:00:00,,Not provided,Active,IT/IS,5,83988,5168,89156,Software Engineer,Expert,No,Fully Meets
+10133,26/04/1983,39,Turpin,Ana,F,Married,Montevideo,2016-07-30 00:00:00,,Not provided,Active,IT/IS,4,66183,6109,72292,Network Engineer,Expert,No,Fully Meets
+10138,08/12/1981,41,Sweetwater,Juan,M,Single,Montevideo,2016-08-13 00:00:00,,Not provided,Active,IT/IS,3,116444,8957,125401,Software Engineering Manager,Manager,Yes,Fully Meets
+10142,20/09/1957,65,Gonzalez,Delfina,F,Partners,Buenos Aires,2016-09-29 00:00:00,,Not provided,Active,IT/IS,4,51849,4387,56236,IT Support,Technician,No,Fully Meets
+10150,03/12/1956,66,Le,Ana,F,Single,Buenos Aires,2016-11-25 00:00:00,,Not provided,Active,IT/IS,5,94676,9468,104144,Senior BI Developer,Expert,No,Fully Meets
+10172,22/02/1958,65,Becker,Claudio,M,Single,Buenos Aires,2017-04-05 00:00:00,,Not provided,Active,IT/IS,4,77669,2987,80656,Database Administrator,Analyst,No,Fully Meets
+10184,26/01/1983,40,Clayton,Leandro,M,Single,Lima,2017-06-15 00:00:00,,Not provided,Active,IT/IS,3,47316,6187,53503,IT Support,Technician,No,Fully Meets
+10204,21/09/1956,66,Soto,Alberto,M,Married,Lima,2017-12-30 00:00:00,,Not provided,Active,IT/IS,3,39231,1509,40740,IT Support,Technician,No,Fully Meets
+10223,10/01/1956,67,Zhou,Julia,F,Single,Buenos Aires,2018-05-28 00:00:00,,Not provided,Active,IT/IS,3,101282,6233,107515,Data Analyst,Analyst,No,Fully Meets
+10234,02/02/1981,42,Goble,Tania,F,Single,Montevideo,2018-08-23 00:00:00,,Not provided,Active,IT/IS,4,89696,10350,100046,Database Administrator,Analyst,No,Fully Meets
+10237,27/08/1977,45,Hernandez,Daniel,M,Married,Buenos Aires,2018-08-27 00:00:00,,Not provided,Active,IT/IS,3,102031,13342,115373,Database Administrator,Analyst,No,Fully Meets
+10240,10/02/1970,53,Simard,Marcelo,M,Married,Buenos Aires,2018-09-20 00:00:00,,Not provided,Active,IT/IS,3,85016,3270,88286,Data Analyst,Analyst,No,Fully Meets
+10249,25/10/1985,37,Smith,Juan,M,Single,Lima,2018-12-23 00:00:00,,Not provided,Active,IT/IS,5,80475,10524,90999,BI Developer,Analyst,No,Fully Meets
+10252,05/09/1987,35,Carr,Claudia,F,Single,Montevideo,2019-01-07 00:00:00,,Not provided,Active,IT/IS,5,104121,12815,116936,Sr. DBA,Expert,No,Fully Meets
+10259,25/05/1951,71,Roper,Maria,F,Single,Lima,2019-02-20 00:00:00,,Not provided,Active,IT/IS,3,94624,9462,104086,Data Architect,Analyst,No,Fully Meets
+10264,18/03/1962,60,South,Martín,M,Single,Montevideo,2019-04-05 00:00:00,,Not provided,Active,IT/IS,3,101559,4687,106246,Sr. Network Engineer,Expert,No,Fully Meets
+10275,22/11/1992,30,Morway,Tanya,F,Married,Buenos Aires,2019-05-28 00:00:00,,Not provided,Active,IT/IS,3,77301,11892,89193,Network Engineer,Expert,No,Fully Meets
+10277,01/09/1964,58,Carabbio,Judith,F,Single,Buenos Aires,2019-06-02 00:00:00,,Not provided,Active,IT/IS,4,102774,10277,113051,Software Engineer,Expert,No,Fully Meets
+10278,10/08/1965,57,Galia,Lisa,F,Single,Buenos Aires,2019-06-05 00:00:00,,Not provided,Active,IT/IS,4,49631,6490,56121,IT Support,Technician,No,Fully Meets
+10287,31/08/1986,36,Andreola,Clara,F,Single,Lima,2019-08-02 00:00:00,,Not provided,Active,IT/IS,3,92717,10698,103415,Software Engineer,Expert,No,Fully Meets
+10288,21/03/1976,46,Cisco,Antonio,M,Married,Lima,2019-08-03 00:00:00,,Not provided,Active,IT/IS,5,49743,2678,52421,IT Support,Technician,No,Fully Meets
+10293,02/02/1960,63,Westinghouse,Matias,M,Married,Lima,2019-08-30 00:00:00,,Not provided,Active,IT/IS,3,92846,9285,102131,BI Developer,Analyst,No,Fully Meets
+10305,04/12/1987,35,Rachael,Maggie,F,Married,Montevideo,2019-12-03 00:00:00,,Not provided,Active,IT/IS,4,94344,6531,100875,BI Developer,Analyst,No,Fully Meets
+10036,28/06/1968,54,Hankard,Alejandra,F,Single,Lima,2014-09-22 00:00:00,,Not provided,Active,Production,3,68934,13787,82721,Production Technician II,Technician,No,Fully Meets
+10046,31/03/1992,30,Lundy,Claudio,M,Widower,Lima,2014-12-04 00:00:00,,Not provided,Active,Production,4,80154,9618,89772,Production Technician II,Technician,No,Fully Meets
+10049,07/02/1961,62,Roberson,Nicolas,M,Divorced,Lima,2014-12-10 00:00:00,,Not provided,Active,Production,4,64469,8381,72850,Production Technician II,Technician,No,Fully Meets
+10053,22/09/1967,55,Hunts,Laura,F,Single,Buenos Aires,2014-12-16 00:00:00,,Not provided,Active,Production,5,82478,4124,86602,Production Technician II,Technician,No,Fully Meets
+10068,13/05/1991,31,Hutter,Alejandro,M,Partners,Buenos Aires,2015-03-19 00:00:00,,Not provided,Active,Production,3,76358,3818,80176,Production Technician II,Technician,No,Fully Meets
+10070,14/10/1990,32,Akinkuolie,Tatiana,F,Married,Lima,2015-03-27 00:00:00,,Not provided,Active,Production,3,68278,4097,72375,Production Technician II,Technician,No,Fully Meets
+10072,17/01/1976,47,McCarthy,Silvio,M,Single,Buenos Aires,2015-04-25 00:00:00,,Not provided,Active,Production,5,73432,7343,80775,Production Technician II,Technician,No,Fully Meets
+10098,17/12/1959,63,Moumanil,Gaston,M,Partners,Lima,2015-11-16 00:00:00,,Not provided,Active,Production,5,61468,10450,71918,Production Technician II,Technician,No,Fully Meets
+10105,12/03/1969,53,Oliver,Emiliano,M,Married,Lima,2015-12-09 00:00:00,,Not provided,Active,Production,3,80309,7228,87537,Production Technician II,Technician,No,Fully Meets
+10110,23/02/1980,43,Petingill,Leandro,M,Married,Buenos Aires,2016-02-08 00:00:00,,Not provided,Active,Production,3,69797,9772,79569,Production Technician II,Technician,No,Fully Meets
+10121,08/11/1955,67,Foreman,Ludmila,F,Married,Buenos Aires,2016-04-21 00:00:00,,Not provided,Active,Production,3,75696,5299,80995,Production Technician II,Technician,No,Fully Meets
+10127,03/01/1990,33,Burke,Edith,F,Single,Buenos Aires,2016-05-29 00:00:00,,Not provided,Active,Production,4,72918,8750,81668,Production Technician II,Technician,No,Fully Meets
+10132,16/05/1961,61,Sahoo,Claudia,F,Married,Buenos Aires,2016-07-20 00:00:00,,Not provided,Active,Production,3,70159,11225,81384,Production Technician II,Technician,No,Fully Meets
+10135,21/06/1985,37,Burkett,Raul,M,Married,Buenos Aires,2016-08-02 00:00:00,,Not provided,Active,Production,5,78148,6252,84400,Production Technician II,Technician,No,Fully Meets
+10146,08/03/1971,52,Nowlan,Franco,M,Single,Lima,2016-10-31 00:00:00,,Not provided,Active,Production,5,69062,8978,78040,Production Technician II,Technician,No,Fully Meets
+10157,12/04/1955,67,Woodson,Jorge,M,Single,Lima,2017-01-13 00:00:00,,Not provided,Active,Production,4,78048,14049,92097,Production Technician II,Technician,No,Fully Meets
+10177,25/12/1983,39,Wolk,Ernesto,M,Single,Buenos Aires,2017-04-23 00:00:00,,Not provided,Active,Production,4,69982,11197,81179,Production Technician II,Technician,No,Fully Meets
+10190,06/05/1952,70,Cloninger,Laura,F,Married,Montevideo,2017-09-06 00:00:00,,Not provided,Active,Production,5,75490,6039,81529,Production Technician II,Technician,No,Fully Meets
+10191,06/03/1955,68,Davis,Romina,F,Single,Buenos Aires,2017-09-16 00:00:00,,Not provided,Active,Production,4,60606,12121,72727,Production Technician II,Technician,No,Fully Meets
+10036,28/06/1968,54,Hankard,Alejandra,F,Single,Lima,2014-09-22 00:00:00,,Not provided,Active,Production,3,75827,13787,89614,Production Technician II,Technician,No,Fully Meets
+10046,31/03/1992,30,Lundy,Claudio,M,Widower,Lima,2014-12-04 00:00:00,,Not provided,Active,Production,4,88169,9618,97787,Production Technician II,Technician,No,Fully Meets
+10049,07/02/1961,62,Roberson,Nicolas,M,Divorced,Lima,2014-12-10 00:00:00,,Not provided,Active,Production,4,70916,8381,79297,Production Technician II,Technician,No,Fully Meets
+10053,22/09/1967,55,Hunts,Laura,F,Single,Buenos Aires,2014-12-16 00:00:00,,Not provided,Active,Production,5,90726,4124,94850,Production Technician II,Technician,No,Fully Meets
+10068,13/05/1991,31,Hutter,Alejandro,M,Partners,Buenos Aires,2015-03-19 00:00:00,,Not provided,Active,Production,3,83994,3818,87812,Production Technician II,Technician,No,Fully Meets
+10070,14/10/1990,32,Akinkuolie,Tatiana,F,Married,Lima,2015-03-27 00:00:00,,Not provided,Active,Production,3,75106,4097,79203,Production Technician II,Technician,No,Fully Meets
+10072,17/01/1976,47,McCarthy,Silvio,M,Single,Buenos Aires,2015-04-25 00:00:00,,Not provided,Active,Production,5,80775,7343,88118,Production Technician II,Technician,No,Fully Meets
+10098,17/12/1959,63,Moumanil,Gaston,M,Partners,Lima,2015-11-16 00:00:00,,Not provided,Active,Production,5,67615,10450,78065,Production Technician II,Technician,No,Fully Meets
+10105,12/03/1969,53,Oliver,Emiliano,M,Married,Lima,2015-12-09 00:00:00,,Not provided,Active,Production,3,88340,7228,95568,Production Technician II,Technician,No,Fully Meets
+10110,23/02/1980,43,Petingill,Leandro,M,Married,Buenos Aires,2016-02-08 00:00:00,,Not provided,Active,Production,3,76777,9772,86549,Production Technician II,Technician,No,Fully Meets
+10121,08/11/1955,67,Foreman,Ludmila,F,Married,Buenos Aires,2016-04-21 00:00:00,,Not provided,Active,Production,3,83266,5299,88565,Production Technician II,Technician,No,Fully Meets
+10127,03/01/1990,33,Burke,Edith,F,Single,Buenos Aires,2016-05-29 00:00:00,,Not provided,Active,Production,4,80210,8750,88960,Production Technician II,Technician,No,Fully Meets
+10132,16/05/1961,61,Sahoo,Claudia,F,Married,Buenos Aires,2016-07-20 00:00:00,,Not provided,Active,Production,3,77175,11225,88400,Production Technician II,Technician,No,Fully Meets
+10135,21/06/1985,37,Burkett,Raul,M,Married,Buenos Aires,2016-08-02 00:00:00,,Not provided,Active,Production,5,85963,6252,92215,Production Technician II,Technician,No,Fully Meets
+10146,08/03/1971,52,Nowlan,Franco,M,Single,Lima,2016-10-31 00:00:00,,Not provided,Active,Production,5,75968,8978,84946,Production Technician II,Technician,No,Fully Meets
+10157,12/04/1955,67,Woodson,Jorge,M,Single,Lima,2017-01-13 00:00:00,,Not provided,Active,Production,4,85853,14049,99902,Production Technician II,Technician,No,Fully Meets
+10177,25/12/1983,39,Wolk,Ernesto,M,Single,Buenos Aires,2017-04-23 00:00:00,,Not provided,Active,Production,4,76980,11197,88177,Production Technician II,Technician,No,Fully Meets
+10190,06/05/1952,70,Cloninger,Laura,F,Married,Montevideo,2017-09-06 00:00:00,,Not provided,Active,Production,5,83039,6039,89078,Production Technician II,Technician,No,Fully Meets
+10191,06/03/1955,68,Davis,Romina,F,Single,Buenos Aires,2017-09-16 00:00:00,,Not provided,Active,Production,4,66667,12121,78788,Production Technician II,Technician,No,Fully Meets
+10205,22/12/1970,52,Bondwell,Laura,F,Single,Montevideo,2018-01-13 00:00:00,,Not provided,Active,Production,5,67456,9199,76655,Production Technician II,Technician,No,Fully Meets
+10217,22/05/1964,58,Langford,Lisa,F,Divorced,Montevideo,2018-04-09 00:00:00,,Not provided,Active,Production,3,68091,12380,80471,Production Technician II,Technician,No,Fully Meets
+10220,12/07/1951,71,Robertson,Pablo,M,Married,Buenos Aires,2018-05-22 00:00:00,,Not provided,Active,Production,5,87651,7171,94822,Production Technician II,Technician,No,Fully Meets
+10229,05/08/1965,57,Sloan,Constanza,F,Single,Montevideo,2018-08-10 00:00:00,,Not provided,Active,Production,4,66701,5457,72158,Production Technician II,Technician,No,Fully Meets
+10238,19/01/1968,55,Tejeda,Leonor,F,Married,Lima,2018-09-08 00:00:00,,Not provided,Active,Production,3,68646,10609,79255,Production Technician II,Technician,No,Fully Meets
+10241,06/01/1980,43,Manchester,Ana,F,Married,Montevideo,2018-09-26 00:00:00,,Not provided,Active,Production,3,78599,5002,83601,Production Technician II,Technician,No,Fully Meets
+10242,06/07/1985,37,Demita,Carla,F,Partners,Lima,2018-09-27 00:00:00,,Not provided,Active,Production,5,80785,7344,88129,Production Technician II,Technician,No,Fully Meets
+10244,10/09/1976,46,Buccheri,Jose,M,Single,Montevideo,2018-09-30 00:00:00,,Not provided,Active,Production,3,86618,6300,92918,Production Technician II,Technician,No,Fully Meets
+10246,29/03/1951,71,Huynh,Mirna,F,Divorced,Buenos Aires,2018-10-17 00:00:00,,Not provided,Active,Production,3,84542,5380,89922,Production Technician II,Technician,No,Fully Meets
+10291,28/11/1967,55,Fancett,Nicole,F,Single,Montevideo,2019-08-21 00:00:00,,Not provided,Active,Production,4,104806,0,104806,Production Technician II,Technician,No,Fully Meets
+10053,22/09/1967,55,Hunts,Laura,F,Single,Buenos Aires,2014-12-16 00:00:00,,Not provided,Active,Production,5,107221,4124,111345,Production Technician II,Technician,No,Fully Meets
+10068,13/05/1991,31,Hutter,Alejandro,M,Partners,Buenos Aires,2015-03-19 00:00:00,,Not provided,Active,Production,3,99265,3818,103083,Production Technician II,Technician,No,Fully Meets
+10098,17/12/1959,63,Moumanil,Gaston,M,Partners,Lima,2015-11-16 00:00:00,,Not provided,Active,Production,5,79908,10450,90358,Production Technician II,Technician,No,Fully Meets
+10105,12/03/1969,53,Oliver,Emiliano,M,Married,Lima,2015-12-09 00:00:00,,Not provided,Active,Production,3,104402,7228,111630,Production Technician II,Technician,No,Fully Meets
+10110,23/02/1980,43,Petingill,Leandro,M,Married,Buenos Aires,2016-02-08 00:00:00,,Not provided,Active,Production,3,90736,9772,100508,Production Technician II,Technician,No,Fully Meets
+10121,08/11/1955,67,Foreman,Ludmila,F,Married,Buenos Aires,2016-04-21 00:00:00,,Not provided,Active,Production,3,98405,5299,103704,Production Technician II,Technician,No,Fully Meets
+10127,03/01/1990,33,Burke,Edith,F,Single,Buenos Aires,2016-05-29 00:00:00,,Not provided,Active,Production,4,94793,8750,103543,Production Technician II,Technician,No,Fully Meets
+10132,16/05/1961,61,Sahoo,Claudia,F,Married,Buenos Aires,2016-07-20 00:00:00,,Not provided,Active,Production,3,91207,11225,102432,Production Technician II,Technician,No,Fully Meets
+10135,21/06/1985,37,Burkett,Raul,M,Married,Buenos Aires,2016-08-02 00:00:00,,Not provided,Active,Production,5,101592,6252,107844,Production Technician II,Technician,No,Fully Meets
+10146,08/03/1971,52,Nowlan,Franco,M,Single,Lima,2016-10-31 00:00:00,,Not provided,Active,Production,5,89781,8978,98759,Production Technician II,Technician,No,Fully Meets
+10157,12/04/1955,67,Woodson,Jorge,M,Single,Lima,2017-01-13 00:00:00,,Not provided,Active,Production,4,101462,14049,115511,Production Technician II,Technician,No,Fully Meets
+10177,25/12/1983,39,Wolk,Ernesto,M,Single,Buenos Aires,2017-04-23 00:00:00,,Not provided,Active,Production,4,90977,11197,102174,Production Technician II,Technician,No,Fully Meets
+10190,06/05/1952,70,Cloninger,Laura,F,Married,Montevideo,2017-09-06 00:00:00,,Not provided,Active,Production,5,98137,6039,104176,Production Technician II,Technician,No,Fully Meets
+10191,06/03/1955,68,Davis,Romina,F,Single,Buenos Aires,2017-09-16 00:00:00,,Not provided,Active,Production,4,78788,12121,90909,Production Technician II,Technician,No,Fully Meets
+10205,22/12/1970,52,Bondwell,Laura,F,Single,Lima,2018-01-13 00:00:00,,Not provided,Active,Production,5,79721,9199,88920,Production Technician II,Technician,No,Fully Meets
+10217,22/05/1964,58,Langford,Lisa,F,Divorced,Montevideo,2018-04-09 00:00:00,,Not provided,Active,Production,3,80471,12380,92851,Production Technician II,Technician,No,Fully Meets
+10220,12/07/1951,71,Robertson,Pablo,M,Married,Lima,2018-05-22 00:00:00,,Not provided,Active,Production,5,103588,7171,110759,Production Technician II,Technician,No,Fully Meets
+10229,05/08/1965,57,Sloan,Constanza,F,Single,Lima,2018-08-10 00:00:00,,Not provided,Active,Production,4,78828,5457,84285,Production Technician II,Technician,No,Fully Meets
+10238,19/01/1968,55,Tejeda,Leonor,F,Married,Montevideo,2018-09-08 00:00:00,,Not provided,Active,Production,3,81127,10609,91736,Production Technician II,Technician,No,Fully Meets
+10241,06/01/1980,43,Manchester,Ana,F,Married,Lima,2018-09-26 00:00:00,,Not provided,Active,Production,3,92890,5002,97892,Production Technician II,Technician,No,Fully Meets
+10242,06/07/1985,37,Demita,Carla,F,Partners,Lima,2018-09-27 00:00:00,,Not provided,Active,Production,5,95473,7344,102817,Production Technician II,Technician,No,Fully Meets
+10244,10/09/1976,46,Buccheri,Jose,M,Single,Buenos Aires,2018-09-30 00:00:00,,Not provided,Active,Production,3,102367,6300,108667,Production Technician II,Technician,No,Fully Meets
+10246,29/03/1951,71,Huynh,Mirna,F,Divorced,Lima,2018-10-17 00:00:00,,Not provided,Active,Production,3,99913,5380,105293,Production Technician II,Technician,No,Fully Meets
+10254,28/05/1988,34,Walker,Agustín,M,Single,Lima,2019-01-13 00:00:00,,Not provided,Active,Production,5,93639,12245,105884,Production Technician II,Technician,No,Fully Meets
+10256,19/02/1951,72,Faller,Marisa,F,Married,Montevideo,2019-01-24 00:00:00,,Not provided,Active,Production,5,84535,3251,87786,Production Technician II,Technician,No,Fully Meets
+10266,05/01/1980,43,Monkfish,Baltazar,M,Married,Lima,2019-04-11 00:00:00,,Not provided,Active,Production,3,100831,6205,107036,Production Technician II,Technician,No,Fully Meets
+10291,28/11/1967,55,Fancett,Nicole,F,Single,Montevideo,2019-08-21 00:00:00,,Not provided,Active,Production,4,104806,12093,116899,Production Technician II,Technician,No,Fully Meets
+10004,04/06/1964,58,Evensen,Martin,M,Single,Montevideo,2014-01-24 00:00:00,2017-09-10 00:00:00,Absenteeism,Other,Production,3,45849,8253,54102,Production Technician I,Technician,No,Needs Improvement
+10010,27/03/1960,62,Bugali,Cristian,M,Partners,Montevideo,2014-04-10 00:00:00,2017-06-10 00:00:00,Performance,HR Termination,Production,5,44954,3147,48101,Production Technician I,Technician,No,Fully Meets
+10012,07/12/1951,71,Jung,Ana,F,Married,Buenos Aires,2014-04-16 00:00:00,2017-10-13 00:00:00,Toxic Enviroment,Resignation,Production,4,42683,3415,46098,Production Technician I,Technician,No,Fully Meets
+10016,21/05/1959,63,Bachiochi,Guillermo,M,Single,Lima,2014-05-09 00:00:00,2017-10-05 00:00:00,Performance,HR Termination,Production,3,55491,3329,58820,Production Technician I,Technician,No,Fully Meets
+10020,06/05/1959,63,Linares,Iris,F,Married,Buenos Aires,2014-06-12 00:00:00,2017-02-11 00:00:00,Toxic Enviroment,Resignation,Production,4,43864,7018,50882,Production Technician I,Technician,No,Fully Meets
+10026,14/05/1980,42,Goyal,Ana,F,Married,Lima,2014-08-08 00:00:00,2017-10-03 00:00:00,Performance,HR Termination,Production,5,58969,2948,61917,Production Technician I,Technician,No,Fully Meets
+10031,22/07/1983,39,Favis,Barney,M,Single,Buenos Aires,2014-08-28 00:00:00,2017-06-02 00:00:00,Absenteeism,Other,IT/IS,5,72142,14428,86570,Enterprise Architect,Expert,No,Fully Meets
+10056,31/10/1980,42,Panjwani,Jose,M,Married,Montevideo,2014-12-28 00:00:00,2017-11-06 00:00:00,Higher Salary,Resignation,Production,4,48428,5811,54239,Production Technician I,Technician,No,Fully Meets
+10064,05/12/1964,58,Wallace,Gaston,M,Single,Buenos Aires,2015-02-22 00:00:00,2017-11-05 00:00:00,Higher Salary,Resignation,Production,3,50984,5098,56082,Production Technician I,Technician,No,Needs Improvement
+10069,26/08/1955,67,Peters,Yamila,F,Married,Lima,2015-03-24 00:00:00,2017-01-01 00:00:00,Higher Salary,Resignation,Production,5,57175,7433,64608,Production Technician II,Technician,No,Exceeds
+10074,24/06/1962,60,Moran,Danilo,M,Single,Buenos Aires,2015-05-08 00:00:00,2017-10-15 00:00:00,Performance,HR Termination,Production,4,69643,8357,78000,Production Technician II,Technician,No,Fully Meets
+10089,31/05/1954,68,Newman,Mirta,F,Married,Buenos Aires,2015-08-16 00:00:00,2017-10-13 00:00:00,Performance,HR Termination,Production,5,50193,9537,59730,Production Technician I,Technician,No,Fully Meets
+10093,19/02/1987,36,Baczenski,Micaela,F,Married,Montevideo,2015-08-31 00:00:00,2017-03-27 00:00:00,New Job,Resignation,Production,4,56130,11226,67356,Production Technician I,Technician,No,Fully Meets
+10097,26/06/1975,47,Lajiri,Alejandra,F,Married,Montevideo,2015-11-07 00:00:00,2017-07-13 00:00:00,Performance,HR Termination,IT/IS,5,77770,15554,93324,Sr. Network Engineer,Expert,No,Fully Meets
+10107,18/02/1989,34,Bono,Maria,F,Single,Lima,2016-01-13 00:00:00,2017-03-14 00:00:00,Higher Salary,Resignation,IT/IS,3,67571,4054,71625,Software Engineer,Expert,No,Fully Meets
+10108,23/09/1984,38,Pearson,Santiago,M,Married,Montevideo,2016-01-24 00:00:00,2017-04-06 00:00:00,Higher Salary,Resignation,IT/IS,4,66377,13275,79652,Data Analyst,Analyst,No,Fully Meets
+10129,11/08/1981,41,Chivukula,Luz,F,Single,Buenos Aires,2016-06-30 00:00:00,2017-01-05 00:00:00,Higher Salary,Resignation,Production,4,44750,7608,52358,Production Technician I,Technician,No,Fully Meets
+10134,25/02/1961,62,Bunbury,Martin,M,Married,Montevideo,2016-08-01 00:00:00,2017-10-14 00:00:00,Higher Salary,Resignation,Sales,5,43050,10178,53228,Administrative Assistant,Analyst,No,Fully Meets
+10151,11/10/1988,34,Kampew,Jimena,F,Single,Montevideo,2016-12-06 00:00:00,2017-05-05 00:00:00,Maternity,Resignation,Sales,5,83190,17302,100492,Sales Manager,Manager,Yes,Fully Meets
+10154,01/09/1964,58,Pelech,Lili,F,Single,Lima,2016-12-28 00:00:00,2017-06-30 00:00:00,Relocation,Resignation,Production,5,53209,7449,60658,Production Technician I,Technician,No,Needs Improvement
+10162,08/07/1980,42,Johnson,Paula,F,Married,Lima,2017-02-20 00:00:00,2017-11-22 00:00:00,Performance,HR Termination,IT/IS,3,60928,10967,71895,Database Administrator,Analyst,No,Fully Meets
+10165,12/05/1986,36,Rhoads,Yessica,F,Divorced,Buenos Aires,2017-03-07 00:00:00,2017-05-25 00:00:00,Toxic Enviroment,Resignation,Production,4,59353,4748,64101,Production Technician I,Technician,No,Fully Meets
+10168,09/07/1979,43,Leach,Ciro,M,Single,Montevideo,2017-03-20 00:00:00,2017-07-29 00:00:00,Relocation,Resignation,Production,3,41367,6205,47572,Production Technician I,Technician,No,Fully Meets
+10169,31/05/1953,69,Sadki,Estela,F,Single,Lima,2017-03-24 00:00:00,2017-09-02 00:00:00,Higher Salary,Resignation,Production,5,59132,4139,63271,Production Technician I,Technician,No,Fully Meets
+10178,15/03/1956,66,Zima,Laura,F,Widower,Montevideo,2017-05-01 00:00:00,2018-05-07 00:00:00,Not provided,Resignation,Production,5,47071,2354,49425,Production Technician I,Technician,No,Fully Meets
+10180,02/06/1986,36,Monterro,Hector,M,Single,Montevideo,2017-05-05 00:00:00,2018-04-19 00:00:00,Relocation,Resignation,Production,3,75052,12008,87060,Production Technician II,Technician,No,Exceeds
+10182,23/08/1959,63,Pham,Juana,F,Married,Montevideo,2017-05-25 00:00:00,2018-09-11 00:00:00,Not provided,Resignation,Production,3,50335,2517,52852,Production Technician I,Technician,No,Fully Meets
+10187,12/04/1960,62,Costa,Ana,F,Single,Lima,2017-07-13 00:00:00,2017-09-05 00:00:00,Maternity,Resignation,Sales,5,79188,15046,94234,Area Sales Manager,Manager,Yes,Exceeds
+10188,14/12/1955,67,Exantus,Marina,F,Married,Montevideo,2017-08-16 00:00:00,2018-05-26 00:00:00,Retirement,Resignation,IT/IS,5,80407,5628,86035,Software Engineer,Expert,No,Needs Improvement
+10192,31/05/1951,71,Rivera,Rosana,F,Married,Lima,2017-09-20 00:00:00,2018-08-27 00:00:00,Retirement,Resignation,Production,5,58831,3530,62361,Production Technician I,Technician,No,Exceeds
+10195,07/09/1962,60,Mullaney,Analia,F,Single,Montevideo,2017-10-13 00:00:00,2017-10-03 00:00:00,Higher Salary,Resignation,Sales,3,97788,15646,113434,Area Sales Manager,Manager,Yes,PIP
+10197,24/04/1958,64,Sewkumar,Gisela,F,Single,Buenos Aires,2017-10-22 00:00:00,2018-05-20 00:00:00,Performance,HR Termination,Production,5,53674,5904,59578,Production Technician I,Technician,No,Fully Meets
+10001,05/12/1955,67,Stoica,Juan,M,Married,Lima,2014-01-08 00:00:00,2018-12-14 00:00:00,Not provided,Resignation,Production,3,63377,10947,74324,Production Technician I,Technician,No,Fully Meets
+10010,27/03/1960,62,Bugali,Cristian,M,Partners,Montevideo,2014-04-10 00:00:00,2018-05-21 00:00:00,Performance,HR Termination,Production,5,49449,3147,52596,Production Technician I,Technician,No,Fully Meets
+10016,21/05/1959,63,Bachiochi,Guillermo,M,Single,Lima,2014-05-09 00:00:00,2018-04-28 00:00:00,Performance,HR Termination,Production,3,61040,3329,64369,Production Technician I,Technician,No,Fully Meets
+10026,14/05/1980,42,Goyal,Ana,F,Married,Lima,2014-08-08 00:00:00,2018-07-12 00:00:00,Performance,HR Termination,Production,5,64866,2948,67814,Production Technician I,Technician,No,Fully Meets
+10074,24/06/1962,60,Moran,Danilo,M,Single,Buenos Aires,2015-05-08 00:00:00,2018-02-20 00:00:00,Performance,HR Termination,Production,4,76607,8357,84964,Production Technician II,Technician,No,Fully Meets
+10089,31/05/1954,68,Newman,Mirta,F,Married,Buenos Aires,2015-08-16 00:00:00,2018-01-28 00:00:00,Performance,HR Termination,Production,5,55212,9537,64749,Production Technician I,Technician,No,Fully Meets
+10097,26/06/1975,47,Lajiri,Alejandra,F,Married,Montevideo,2015-11-07 00:00:00,2018-06-22 00:00:00,Performance,HR Termination,IT/IS,5,85547,15554,101101,Sr. Network Engineer,Expert,No,Fully Meets
+10162,08/07/1980,42,Johnson,Paula,F,Married,Lima,2017-02-20 00:00:00,2018-08-14 00:00:00,Performance,HR Termination,IT/IS,3,67021,10967,77988,Database Administrator,Analyst,No,Fully Meets
+10197,24/04/1958,64,Sewkumar,Gisela,F,Single,Buenos Aires,2017-10-22 00:00:00,2018-08-12 00:00:00,Performance,HR Termination,Production,5,59041,5904,64945,Production Technician I,Technician,No,Fully Meets
+10208,16/05/1972,50,Hogland,Marcelo,M,Married,Montevideo,2018-02-05 00:00:00,2018-05-07 00:00:00,Absenteeism,Other,Production,4,88417,8038,96455,Production Manager,Manager,Yes,Fully Meets
+10210,19/07/1954,68,Bozzi,Luis,M,Single,Buenos Aires,2018-03-10 00:00:00,2018-04-19 00:00:00,Not provided,Resignation,Production,3,89448,7318,96766,Production Manager,Manager,Yes,Fully Meets
+10212,18/02/1990,33,Ferguson,Lara,F,Married,Lima,2018-03-17 00:00:00,2018-09-11 00:00:00,Not provided,Resignation,Production,3,58917,10177,69094,Production Technician I,Technician,No,Fully Meets
+10216,20/05/1989,33,Good,Susana,F,Married,Buenos Aires,2018-04-07 00:00:00,2018-04-29 00:00:00,Performance,HR Termination,Production,3,66315,8440,74755,Production Technician II,Technician,No,Fully Meets
+10218,18/05/1965,57,Harrington,Clara,F,Single,Montevideo,2018-04-14 00:00:00,2018-05-26 00:00:00,Not provided,Resignation,Production,4,59811,4894,64705,Production Technician I,Technician,No,Fully Meets
+10222,17/02/1976,47,Eaton,Marta,F,Married,Montevideo,2018-05-26 00:00:00,2018-08-27 00:00:00,Not provided,Resignation,Production,3,47003,5982,52985,Production Technician I,Technician,No,Fully Meets
+10230,14/02/1968,55,Fitzpatrick,Jorge,M,Single,Montevideo,2018-08-12 00:00:00,2018-08-19 00:00:00,Not provided,Resignation,Production,5,89628,5704,95332,Production Technician II,Technician,No,Fully Meets
+10233,19/07/1965,57,Daniele,Ana,F,Married,Lima,2018-08-20 00:00:00,2018-09-24 00:00:00,Performance,HR Termination,IT/IS,5,77897,6373,84270,Sr. Network Engineer,Expert,No,Fully Meets
+10236,08/09/1981,41,Thibaud,Diego,M,Widower,Lima,2018-08-26 00:00:00,2018-12-14 00:00:00,Retirement,Resignation,Production,4,64012,11057,75069,Production Technician II,Technician,No,Fully Meets
+10245,18/01/1976,47,Becker,Dario,M,Single,Lima,2018-10-07 00:00:00,2018-03-09 00:00:00,Performance,HR Termination,Production,4,57357,9907,67264,Production Technician I,Technician,No,Fully Meets
+10273,30/01/1973,50,Pelletier,Martina,F,Married,Buenos Aires,2019-05-21 00:00:00,2019-11-23 00:00:00,Too much Work,Resignation,Production,3,37500,91438,91443,Production Technician II,Technician,No,Needs Improvement
+10276,09/08/1988,34,Mancuso,Karina,F,Married,Lima,2019-05-30 00:00:00,2019-09-08 00:00:00,Higher Salary,Resignation,Production,5,42800,75919,75923,Production Technician II,Technician,No,Fully Meets
+10279,13/03/1960,62,Homberger,Adriana,F,Married,Lima,2019-06-28 00:00:00,2019-10-21 00:00:00,Higher Salary,Resignation,Production,4,42800,77856,77861,Production Technician II,Technician,No,Fully Meets
+10280,06/02/1961,62,Ndzi,Roberto,M,Married,Lima,2019-07-01 00:00:00,2019-08-14 00:00:00,Higher Salary,Resignation,Production,5,52500,73927,73930,Production Technician I,Technician,No,Fully Meets
+10281,08/11/1992,30,Kirill,Rosana,F,Married,Buenos Aires,2019-07-03 00:00:00,2019-10-16 00:00:00,Maternity,Resignation,Production,3,62750,55614,55618,Production Technician I,Technician,No,Fully Meets
+10283,14/11/1991,31,Linden,Mathew,M,Married,Lima,2019-07-19 00:00:00,2019-02-26 00:00:00,Performance,HR Termination,Production,3,37500,89103,89106,Production Technician II,Technician,No,Fully Meets
+10290,20/03/1952,70,Hendrickson,Trina,F,Single,Buenos Aires,2019-08-20 00:00:00,2019-09-17 00:00:00,Too much Work,Resignation,Production,3,92010,0,92010,Production Technician II,Technician,No,Fully Meets
+10298,03/05/1969,53,Lydon,Carla,F,Married,Montevideo,2019-10-19 00:00:00,2019-03-05 00:00:00,Performance,HR Termination,Production,3,77329,0,77329,Production Technician I,Technician,No,Fully Meets
+10301,06/12/1966,56,Gosciminski,Alicia,F,Partners,Lima,2019-11-03 00:00:00,2019-06-01 00:00:00,Performance,HR Termination,Production,5,76843,0,76843,Production Technician II,Technician,No,Fully Meets
+10302,21/11/1977,45,Anderson,Carol,F,Divorced,Montevideo,2019-11-14 00:00:00,2019-12-15 00:00:00,Too much Work,Resignation,Production,4,65157,0,65157,Production Technician I,Technician,No,Fully Meets
+10303,13/08/1956,66,Veera,Abel,M,Divorced,Buenos Aires,2019-11-26 00:00:00,2019-12-10 00:00:00,Maternity,Resignation,Production,5,77822,0,77822,Production Technician I,Technician,No,Exceeds
+10306,19/05/1984,38,Dietrich,Jenna,F,Single,Montevideo,2016-09-26 00:00:00,2019-12-25 00:00:00,Higher Salary,Resignation,Sales,1,96050,6359,102409,Area Sales Manager,Manager,Yes,PIP
+10009,06/02/1968,55,Chan,Lucas,M,Single,Buenos Aires,2014-02-09 00:00:00,2019-08-22 00:00:00,Unclear Duties,Resignation,Production,4,54644,6305,60949,Production Technician I,Technician,No,Fully Meets
+10010,27/03/1960,62,Bugali,Cristian,M,Partners,Montevideo,2014-04-10 00:00:00,2019-08-24 00:00:00,Performance,HR Termination,Production,5,58440,3147,61587,Production Technician I,Technician,No,Fully Meets
+10011,31/01/1959,64,Jeannite,Maria,F,Divorced,Lima,2014-04-13 00:00:00,2019-05-13 00:00:00,Unclear Duties,Resignation,Production,4,79686,3678,83364,Production Technician II,Technician,No,Exceeds
+10016,21/05/1959,63,Bachiochi,Guillermo,M,Single,Lima,2014-05-09 00:00:00,2019-07-18 00:00:00,Performance,HR Termination,Production,3,72138,3329,75467,Production Technician I,Technician,No,Fully Meets
+10025,08/01/1952,71,Rogers,Javier,M,Married,Lima,2014-08-04 00:00:00,2019-11-23 00:00:00,Unclear Duties,Resignation,IT/IS,3,82160,10112,92272,Data Analyst,Analyst,No,Fully Meets
+10026,14/05/1980,42,Goyal,Ana,F,Married,Lima,2014-08-08 00:00:00,2019-03-20 00:00:00,Performance,HR Termination,Production,5,76660,2948,79608,Production Technician I,Technician,No,Fully Meets
+10029,04/05/1977,45,Rose,Juvencio,M,Partners,Lima,2014-08-15 00:00:00,2019-09-08 00:00:00,Unclear Duties,Resignation,Production,4,55002,2115,57117,Production Technician I,Technician,No,Fully Meets
+10034,06/08/1970,52,Houlihan,Sergio,M,Married,Lima,2014-09-04 00:00:00,2019-10-21 00:00:00,Unclear Duties,Resignation,Z Management,4,195984,16583,212567,Director of Sales,Director,Yes,Fully Meets
+10035,02/09/1987,35,Givens,Daniel,M,Single,Montevideo,2014-09-17 00:00:00,2019-08-14 00:00:00,Higher Salary,Resignation,Sales,5,110000,8054,118054,Area Sales Manager,Manager,Yes,Fully Meets
+10036,28/06/1968,54,Hankard,Alejandra,F,Single,Lima,2014-09-22 00:00:00,2019-10-16 00:00:00,Higher Salary,Resignation,Production,3,89614,13787,103401,Production Technician II,Technician,No,Fully Meets
+10046,31/03/1992,30,Lundy,Claudio,M,Widower,Lima,2014-12-04 00:00:00,2019-09-17 00:00:00,Higher Salary,Resignation,Production,4,104200,9618,113818,Production Technician II,Technician,No,Fully Meets
+10071,27/07/1990,32,Estremera,Camila,F,Single,Lima,2015-04-09 00:00:00,2019-12-15 00:00:00,Higher Salary,Resignation,Production,4,59836,2762,62598,Production Technician I,Technician,No,Needs Improvement
+10072,17/01/1976,47,McCarthy,Silvio,M,Single,Buenos Aires,2015-04-25 00:00:00,2019-12-10 00:00:00,Higher Salary,Resignation,Production,5,95462,7343,102805,Production Technician II,Technician,No,Fully Meets
+10074,24/06/1962,60,Moran,Danilo,M,Single,Buenos Aires,2015-05-08 00:00:00,2019-07-25 00:00:00,Performance,HR Termination,Production,4,90536,8357,98893,Production Technician II,Technician,No,Fully Meets
+10089,31/05/1954,68,Newman,Mirta,F,Married,Buenos Aires,2015-08-16 00:00:00,2019-03-30 00:00:00,Performance,HR Termination,Production,5,65251,9537,74788,Production Technician I,Technician,No,Fully Meets
+10097,26/06/1975,47,Lajiri,Alejandra,F,Married,Montevideo,2015-11-07 00:00:00,2019-04-11 00:00:00,Performance,HR Termination,IT/IS,5,101101,15554,116655,Sr. Network Engineer,Expert,No,Fully Meets
+10103,12/10/1952,70,Spirea,Belen,F,Married,Buenos Aires,2015-12-08 00:00:00,2019-06-10 00:00:00,Higher Salary,Resignation,Production,5,138637,11731,150368,Production Manager,Manager,Yes,Fully Meets
+10162,08/07/1980,42,Johnson,Paula,F,Married,Lima,2017-02-20 00:00:00,2019-05-03 00:00:00,Performance,HR Termination,IT/IS,3,79206,10967,90173,Database Administrator,Analyst,No,Fully Meets
+10193,23/12/1969,53,Stanley,Delfina,F,Divorced,Lima,2017-10-08 00:00:00,2019-06-06 00:00:00,Too much Work,Resignation,Production,2,105758,13830,119588,Production Manager,Manager,Yes,Needs Improvement
+10197,24/04/1958,64,Sewkumar,Gisela,F,Single,Buenos Aires,2017-10-22 00:00:00,2019-04-14 00:00:00,Performance,HR Termination,Production,5,69776,5904,75680,Production Technician I,Technician,No,Fully Meets
+10216,20/05/1989,33,Good,Susana,F,Married,Lima,2018-04-07 00:00:00,2019-01-09 00:00:00,Performance,HR Termination,Production,3,78372,8440,86812,Production Technician II,Technician,No,Fully Meets
+10233,19/07/1965,57,Daniele,Ana,F,Married,Montevideo,2018-08-20 00:00:00,2019-03-04 00:00:00,Performance,HR Termination,IT/IS,5,92060,6373,98433,Sr. Network Engineer,Expert,No,Fully Meets
+10245,18/01/1976,47,Becker,Dario,M,Single,Lima,2018-10-07 00:00:00,2019-01-31 00:00:00,Performance,HR Termination,Production,4,67786,9907,77693,Production Technician I,Technician,No,Fully Meets
+10258,10/01/1951,72,Patronick,Agustín,M,Single,Montevideo,2019-02-02 00:00:00,2019-08-19 00:00:00,Unclear Duties,Resignation,IT/IS,5,103124,10312,113436,Software Engineer,Expert,No,Exceeds
+10261,29/01/1957,66,Gross,Paula,F,Divorced,Buenos Aires,2019-02-23 00:00:00,2019-08-22 00:00:00,Higher Salary,Resignation,Production,5,70714,9791,80505,Production Technician I,Technician,No,Fully Meets
+10262,18/04/1964,58,LeBel,Juan,M,Single,Lima,2019-03-30 00:00:00,2019-08-24 00:00:00,Absenteeism,Other,Production,4,60011,6001,66012,Production Technician I,Technician,No,Fully Meets
+10263,23/05/1984,38,Barton,Pedro,M,Divorced,Lima,2019-04-03 00:00:00,2019-05-13 00:00:00,Higher Salary,Resignation,Production,5,64238,2471,66709,Production Technician I,Technician,No,Fully Meets
+10273,30/01/1973,50,Pelletier,Martina,F,Married,Buenos Aires,2019-05-21 00:00:00,2019-11-23 00:00:00,Too much Work,Resignation,Production,5,91438,4220,95658,Production Technician II,Technician,No,Needs Improvement
+10276,09/08/1988,34,Mancuso,Karina,F,Married,Lima,2019-05-30 00:00:00,2019-09-08 00:00:00,Higher Salary,Resignation,Production,4,75919,7592,83511,Production Technician II,Technician,No,Fully Meets
+10279,13/03/1960,62,Homberger,Adriana,F,Married,Lima,2019-06-28 00:00:00,2019-10-21 00:00:00,Higher Salary,Resignation,Production,5,77856,8384,86240,Production Technician II,Technician,No,Fully Meets
+10280,06/02/1961,62,Ndzi,Roberto,M,Married,Lima,2019-07-01 00:00:00,2019-08-14 00:00:00,Higher Salary,Resignation,Production,3,73927,6255,80182,Production Technician I,Technician,No,Fully Meets
+10281,08/11/1992,30,Kirill,Rosana,F,Married,Buenos Aires,2019-07-03 00:00:00,2019-10-16 00:00:00,Maternity,Resignation,Production,4,55614,8128,63742,Production Technician I,Technician,No,Fully Meets
+10283,14/11/1991,31,Linden,Mathew,M,Married,Lima,2019-07-19 00:00:00,2019-02-26 00:00:00,Performance,HR Termination,Production,3,89103,13708,102811,Production Technician II,Technician,No,Fully Meets
+10290,20/03/1952,70,Hendrickson,Trina,F,Single,Buenos Aires,2019-08-20 00:00:00,2019-09-17 00:00:00,Too much Work,Resignation,Production,3,92010,12032,104042,Production Technician II,Technician,No,Fully Meets
+10298,03/05/1969,53,Lydon,Carla,F,Married,Montevideo,2019-10-19 00:00:00,2019-03-05 00:00:00,Performance,HR Termination,Production,3,77329,11897,89226,Production Technician I,Technician,No,Fully Meets
+10301,06/12/1966,56,Gosciminski,Alicia,F,Partners,Lima,2019-11-03 00:00:00,2019-06-01 00:00:00,Performance,HR Termination,Production,5,76843,8867,85710,Production Technician II,Technician,No,Fully Meets
+10302,21/11/1977,45,Anderson,Carol,F,Divorced,Montevideo,2019-11-14 00:00:00,2019-12-15 00:00:00,Too much Work,Resignation,Production,4,65157,6015,71172,Production Technician I,Technician,No,Fully Meets
+10303,13/08/1956,66,Veera,Abel,M,Divorced,Buenos Aires,2019-11-26 00:00:00,2019-12-10 00:00:00,Maternity,Resignation,Production,5,77822,9578,87400,Production Technician I,Technician,No,Exceeds
+10306,19/05/1984,38,Dietrich,Jenna,F,Single,Montevideo,2019-12-10 00:00:00,2019-12-25 00:00:00,Higher Salary,Resignation,Sales,1,56200,18309,74509,Administrative Assistant,Analyst,No,PIP
