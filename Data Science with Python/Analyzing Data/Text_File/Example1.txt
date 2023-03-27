@@ -1,9 +1,0 @@
-Example File
-Fichero de prueba
-Test Datei
-Practicando Python
-True
-Example File
-Fichero de prueba
-Test Datei
-Practicando Python
