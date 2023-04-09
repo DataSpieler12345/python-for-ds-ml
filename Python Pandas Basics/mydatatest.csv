@@ -1,0 +1,11 @@
+,abcdario,animales,edad,visitantes,prioridad,nacion
+0,a,cat,2.5,1,yes,USA
+1,b,cat,3.0,3,yes,USA
+2,c,snake,0.5,2,no,USA
+3,d,dog,,3,yes,USA
+4,e,dog,5.0,2,no,USA
+5,f,cat,1.5,3,no,USA
+6,g,snake,4.5,1,no,USA
+7,h,cat,,1,yes,USA
+8,i,dog,7.0,2,no,USA
+9,j,dog,3.0,1,no,USA
