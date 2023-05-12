@@ -1,0 +1,10 @@
+The functions we have shown so far are not all that the calendar module offers. In addition to them, we can use the following classes:
+
+calendar.Calendar - provides methods for preparing calendar data and formatting.
+calendar.TextCalendar - used for creating regular text calendars.
+calendar.HTMLCalendar - used to create HTML calendars.
+calendar.LocalTextCalendar - it is a subclass of the calendar.TextCalendar class. The constructor of this class takes the locale parameter, which is used to return the appropriate names of the months and days of the week.
+calendar.LocalHTMLCalendar - is a subclass of the calendar.HTMLCalendar class. The constructor of this class takes the locale parameter, which is used to return the appropriate names of the months and days of the week.
+During this course, you already had the opportunity to create text calendars by discussing the functions of the calendar module.
+
+It's time to try something new. Let's take a closer look at the methods of the calendar class.

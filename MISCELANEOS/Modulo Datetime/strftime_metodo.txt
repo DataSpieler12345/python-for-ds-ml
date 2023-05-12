@@ -1,0 +1,8 @@
+The strftime method takes only one argument in the form of a string specifying a format that may consist of directives. A directive is a string consisting of the % (percentage) character and a lowercase or uppercase letter. Some useful directives are shown below:
+
+%Y: returns the year with the century as a decimal number.
+%m: returns the month as a decimal number with padded zeros.
+%d: returns the day as a decimal number with padded zeros.
+%H: returns the hour as a decimal number with zero padding.
+%M: returns the minute as a decimal number with padded zeros.
+%S: returns the second as a decimal number with zero padding.
