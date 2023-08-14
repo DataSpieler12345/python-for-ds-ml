@@ -1,0 +1,889 @@
+,Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,Survival_Status
+0,0,3,male,22.0,1,0,7.25,S,Did Not Survived
+1,1,1,female,38.0,1,0,71.2833,C,Survived
+2,1,3,female,26.0,0,0,7.925,S,Survived
+3,1,1,female,35.0,1,0,53.1,S,Survived
+4,0,3,male,35.0,0,0,8.05,S,Did Not Survived
+5,0,3,male,,0,0,8.4583,Q,Did Not Survived
+6,0,1,male,54.0,0,0,51.8625,S,Did Not Survived
+7,0,3,male,2.0,3,1,21.075,S,Did Not Survived
+8,1,3,female,27.0,0,2,11.1333,S,Survived
+9,1,2,female,14.0,1,0,30.0708,C,Survived
+10,1,3,female,4.0,1,1,16.7,S,Survived
+11,1,1,female,58.0,0,0,26.55,S,Survived
+12,0,3,male,20.0,0,0,8.05,S,Did Not Survived
+13,0,3,male,39.0,1,5,31.275,S,Did Not Survived
+14,0,3,female,14.0,0,0,7.8542,S,Did Not Survived
+15,1,2,female,55.0,0,0,16.0,S,Survived
+16,0,3,male,2.0,4,1,29.125,Q,Did Not Survived
+17,1,2,male,,0,0,13.0,S,Survived
+18,0,3,female,31.0,1,0,18.0,S,Did Not Survived
+19,1,3,female,,0,0,7.225,C,Survived
+20,0,2,male,35.0,0,0,26.0,S,Did Not Survived
+21,1,2,male,34.0,0,0,13.0,S,Survived
+22,1,3,female,15.0,0,0,8.0292,Q,Survived
+23,1,1,male,28.0,0,0,35.5,S,Survived
+24,0,3,female,8.0,3,1,21.075,S,Did Not Survived
+25,1,3,female,38.0,1,5,31.3875,S,Survived
+26,0,3,male,,0,0,7.225,C,Did Not Survived
+27,0,1,male,19.0,3,2,263.0,S,Did Not Survived
+28,1,3,female,,0,0,7.8792,Q,Survived
+29,0,3,male,,0,0,7.8958,S,Did Not Survived
+30,0,1,male,40.0,0,0,27.7208,C,Did Not Survived
+31,1,1,female,,1,0,146.5208,C,Survived
+32,1,3,female,,0,0,7.75,Q,Survived
+33,0,2,male,66.0,0,0,10.5,S,Did Not Survived
+34,0,1,male,28.0,1,0,82.1708,C,Did Not Survived
+35,0,1,male,42.0,1,0,52.0,S,Did Not Survived
+36,1,3,male,,0,0,7.2292,C,Survived
+37,0,3,male,21.0,0,0,8.05,S,Did Not Survived
+38,0,3,female,18.0,2,0,18.0,S,Did Not Survived
+39,1,3,female,14.0,1,0,11.2417,C,Survived
+40,0,3,female,40.0,1,0,9.475,S,Did Not Survived
+41,0,2,female,27.0,1,0,21.0,S,Did Not Survived
+42,0,3,male,,0,0,7.8958,C,Did Not Survived
+43,1,2,female,3.0,1,2,41.5792,C,Survived
+44,1,3,female,19.0,0,0,7.8792,Q,Survived
+45,0,3,male,,0,0,8.05,S,Did Not Survived
+46,0,3,male,,1,0,15.5,Q,Did Not Survived
+47,1,3,female,,0,0,7.75,Q,Survived
+48,0,3,male,,2,0,21.6792,C,Did Not Survived
+49,0,3,female,18.0,1,0,17.8,S,Did Not Survived
+50,0,3,male,7.0,4,1,39.6875,S,Did Not Survived
+51,0,3,male,21.0,0,0,7.8,S,Did Not Survived
+52,1,1,female,49.0,1,0,76.7292,C,Survived
+53,1,2,female,29.0,1,0,26.0,S,Survived
+54,0,1,male,65.0,0,1,61.9792,C,Did Not Survived
+55,1,1,male,,0,0,35.5,S,Survived
+56,1,2,female,21.0,0,0,10.5,S,Survived
+57,0,3,male,28.5,0,0,7.2292,C,Did Not Survived
+58,1,2,female,5.0,1,2,27.75,S,Survived
+59,0,3,male,11.0,5,2,46.9,S,Did Not Survived
+60,0,3,male,22.0,0,0,7.2292,C,Did Not Survived
+61,1,1,female,38.0,0,0,80.0,,Survived
+62,0,1,male,45.0,1,0,83.475,S,Did Not Survived
+63,0,3,male,4.0,3,2,27.9,S,Did Not Survived
+64,0,1,male,,0,0,27.7208,C,Did Not Survived
+65,1,3,male,,1,1,15.2458,C,Survived
+66,1,2,female,29.0,0,0,10.5,S,Survived
+67,0,3,male,19.0,0,0,8.1583,S,Did Not Survived
+68,1,3,female,17.0,4,2,7.925,S,Survived
+69,0,3,male,26.0,2,0,8.6625,S,Did Not Survived
+70,0,2,male,32.0,0,0,10.5,S,Did Not Survived
+71,0,3,female,16.0,5,2,46.9,S,Did Not Survived
+72,0,2,male,21.0,0,0,73.5,S,Did Not Survived
+73,0,3,male,26.0,1,0,14.4542,C,Did Not Survived
+74,1,3,male,32.0,0,0,56.4958,S,Survived
+75,0,3,male,25.0,0,0,7.65,S,Did Not Survived
+76,0,3,male,,0,0,7.8958,S,Did Not Survived
+77,0,3,male,,0,0,8.05,S,Did Not Survived
+78,1,2,male,0.83,0,2,29.0,S,Survived
+79,1,3,female,30.0,0,0,12.475,S,Survived
+80,0,3,male,22.0,0,0,9.0,S,Did Not Survived
+81,1,3,male,29.0,0,0,9.5,S,Survived
+82,1,3,female,,0,0,7.7875,Q,Survived
+83,0,1,male,28.0,0,0,47.1,S,Did Not Survived
+84,1,2,female,17.0,0,0,10.5,S,Survived
+85,1,3,female,33.0,3,0,15.85,S,Survived
+86,0,3,male,16.0,1,3,34.375,S,Did Not Survived
+87,0,3,male,,0,0,8.05,S,Did Not Survived
+88,1,1,female,23.0,3,2,263.0,S,Survived
+89,0,3,male,24.0,0,0,8.05,S,Did Not Survived
+90,0,3,male,29.0,0,0,8.05,S,Did Not Survived
+91,0,3,male,20.0,0,0,7.8542,S,Did Not Survived
+92,0,1,male,46.0,1,0,61.175,S,Did Not Survived
+93,0,3,male,26.0,1,2,20.575,S,Did Not Survived
+94,0,3,male,59.0,0,0,7.25,S,Did Not Survived
+95,0,3,male,,0,0,8.05,S,Did Not Survived
+96,0,1,male,71.0,0,0,34.6542,C,Did Not Survived
+97,1,1,male,23.0,0,1,63.3583,C,Survived
+98,1,2,female,34.0,0,1,23.0,S,Survived
+99,0,2,male,34.0,1,0,26.0,S,Did Not Survived
+100,0,3,female,28.0,0,0,7.8958,S,Did Not Survived
+101,0,3,male,,0,0,7.8958,S,Did Not Survived
+102,0,1,male,21.0,0,1,77.2875,S,Did Not Survived
+103,0,3,male,33.0,0,0,8.6542,S,Did Not Survived
+104,0,3,male,37.0,2,0,7.925,S,Did Not Survived
+105,0,3,male,28.0,0,0,7.8958,S,Did Not Survived
+106,1,3,female,21.0,0,0,7.65,S,Survived
+107,1,3,male,,0,0,7.775,S,Survived
+108,0,3,male,38.0,0,0,7.8958,S,Did Not Survived
+109,1,3,female,,1,0,24.15,Q,Survived
+110,0,1,male,47.0,0,0,52.0,S,Did Not Survived
+111,0,3,female,14.5,1,0,14.4542,C,Did Not Survived
+112,0,3,male,22.0,0,0,8.05,S,Did Not Survived
+113,0,3,female,20.0,1,0,9.825,S,Did Not Survived
+114,0,3,female,17.0,0,0,14.4583,C,Did Not Survived
+115,0,3,male,21.0,0,0,7.925,S,Did Not Survived
+116,0,3,male,70.5,0,0,7.75,Q,Did Not Survived
+117,0,2,male,29.0,1,0,21.0,S,Did Not Survived
+118,0,1,male,24.0,0,1,247.5208,C,Did Not Survived
+119,0,3,female,2.0,4,2,31.275,S,Did Not Survived
+120,0,2,male,21.0,2,0,73.5,S,Did Not Survived
+121,0,3,male,,0,0,8.05,S,Did Not Survived
+122,0,2,male,32.5,1,0,30.0708,C,Did Not Survived
+123,1,2,female,32.5,0,0,13.0,S,Survived
+124,0,1,male,54.0,0,1,77.2875,S,Did Not Survived
+125,1,3,male,12.0,1,0,11.2417,C,Survived
+126,0,3,male,,0,0,7.75,Q,Did Not Survived
+127,1,3,male,24.0,0,0,7.1417,S,Survived
+128,1,3,female,,1,1,22.3583,C,Survived
+129,0,3,male,45.0,0,0,6.975,S,Did Not Survived
+130,0,3,male,33.0,0,0,7.8958,C,Did Not Survived
+131,0,3,male,20.0,0,0,7.05,S,Did Not Survived
+132,0,3,female,47.0,1,0,14.5,S,Did Not Survived
+133,1,2,female,29.0,1,0,26.0,S,Survived
+134,0,2,male,25.0,0,0,13.0,S,Did Not Survived
+135,0,2,male,23.0,0,0,15.0458,C,Did Not Survived
+136,1,1,female,19.0,0,2,26.2833,S,Survived
+137,0,1,male,37.0,1,0,53.1,S,Did Not Survived
+138,0,3,male,16.0,0,0,9.2167,S,Did Not Survived
+139,0,1,male,24.0,0,0,79.2,C,Did Not Survived
+140,0,3,female,,0,2,15.2458,C,Did Not Survived
+141,1,3,female,22.0,0,0,7.75,S,Survived
+142,1,3,female,24.0,1,0,15.85,S,Survived
+143,0,3,male,19.0,0,0,6.75,Q,Did Not Survived
+144,0,2,male,18.0,0,0,11.5,S,Did Not Survived
+145,0,2,male,19.0,1,1,36.75,S,Did Not Survived
+146,1,3,male,27.0,0,0,7.7958,S,Survived
+147,0,3,female,9.0,2,2,34.375,S,Did Not Survived
+148,0,2,male,36.5,0,2,26.0,S,Did Not Survived
+149,0,2,male,42.0,0,0,13.0,S,Did Not Survived
+150,0,2,male,51.0,0,0,12.525,S,Did Not Survived
+151,1,1,female,22.0,1,0,66.6,S,Survived
+152,0,3,male,55.5,0,0,8.05,S,Did Not Survived
+153,0,3,male,40.5,0,2,14.5,S,Did Not Survived
+154,0,3,male,,0,0,7.3125,S,Did Not Survived
+155,0,1,male,51.0,0,1,61.3792,C,Did Not Survived
+156,1,3,female,16.0,0,0,7.7333,Q,Survived
+157,0,3,male,30.0,0,0,8.05,S,Did Not Survived
+158,0,3,male,,0,0,8.6625,S,Did Not Survived
+159,0,3,male,,8,2,69.55,S,Did Not Survived
+160,0,3,male,44.0,0,1,16.1,S,Did Not Survived
+161,1,2,female,40.0,0,0,15.75,S,Survived
+162,0,3,male,26.0,0,0,7.775,S,Did Not Survived
+163,0,3,male,17.0,0,0,8.6625,S,Did Not Survived
+164,0,3,male,1.0,4,1,39.6875,S,Did Not Survived
+165,1,3,male,9.0,0,2,20.525,S,Survived
+166,1,1,female,,0,1,55.0,S,Survived
+167,0,3,female,45.0,1,4,27.9,S,Did Not Survived
+168,0,1,male,,0,0,25.925,S,Did Not Survived
+169,0,3,male,28.0,0,0,56.4958,S,Did Not Survived
+170,0,1,male,61.0,0,0,33.5,S,Did Not Survived
+171,0,3,male,4.0,4,1,29.125,Q,Did Not Survived
+172,1,3,female,1.0,1,1,11.1333,S,Survived
+173,0,3,male,21.0,0,0,7.925,S,Did Not Survived
+174,0,1,male,56.0,0,0,30.6958,C,Did Not Survived
+175,0,3,male,18.0,1,1,7.8542,S,Did Not Survived
+176,0,3,male,,3,1,25.4667,S,Did Not Survived
+177,0,1,female,50.0,0,0,28.7125,C,Did Not Survived
+178,0,2,male,30.0,0,0,13.0,S,Did Not Survived
+179,0,3,male,36.0,0,0,0.0,S,Did Not Survived
+180,0,3,female,,8,2,69.55,S,Did Not Survived
+181,0,2,male,,0,0,15.05,C,Did Not Survived
+182,0,3,male,9.0,4,2,31.3875,S,Did Not Survived
+183,1,2,male,1.0,2,1,39.0,S,Survived
+184,1,3,female,4.0,0,2,22.025,S,Survived
+185,0,1,male,,0,0,50.0,S,Did Not Survived
+186,1,3,female,,1,0,15.5,Q,Survived
+187,1,1,male,45.0,0,0,26.55,S,Survived
+188,0,3,male,40.0,1,1,15.5,Q,Did Not Survived
+189,0,3,male,36.0,0,0,7.8958,S,Did Not Survived
+190,1,2,female,32.0,0,0,13.0,S,Survived
+191,0,2,male,19.0,0,0,13.0,S,Did Not Survived
+192,1,3,female,19.0,1,0,7.8542,S,Survived
+193,1,2,male,3.0,1,1,26.0,S,Survived
+194,1,1,female,44.0,0,0,27.7208,C,Survived
+195,1,1,female,58.0,0,0,146.5208,C,Survived
+196,0,3,male,,0,0,7.75,Q,Did Not Survived
+197,0,3,male,42.0,0,1,8.4042,S,Did Not Survived
+198,1,3,female,,0,0,7.75,Q,Survived
+199,0,2,female,24.0,0,0,13.0,S,Did Not Survived
+200,0,3,male,28.0,0,0,9.5,S,Did Not Survived
+201,0,3,male,,8,2,69.55,S,Did Not Survived
+202,0,3,male,34.0,0,0,6.4958,S,Did Not Survived
+203,0,3,male,45.5,0,0,7.225,C,Did Not Survived
+204,1,3,male,18.0,0,0,8.05,S,Survived
+205,0,3,female,2.0,0,1,10.4625,S,Did Not Survived
+206,0,3,male,32.0,1,0,15.85,S,Did Not Survived
+207,1,3,male,26.0,0,0,18.7875,C,Survived
+208,1,3,female,16.0,0,0,7.75,Q,Survived
+209,1,1,male,40.0,0,0,31.0,C,Survived
+210,0,3,male,24.0,0,0,7.05,S,Did Not Survived
+211,1,2,female,35.0,0,0,21.0,S,Survived
+212,0,3,male,22.0,0,0,7.25,S,Did Not Survived
+213,0,2,male,30.0,0,0,13.0,S,Did Not Survived
+214,0,3,male,,1,0,7.75,Q,Did Not Survived
+215,1,1,female,31.0,1,0,113.275,C,Survived
+216,1,3,female,27.0,0,0,7.925,S,Survived
+217,0,2,male,42.0,1,0,27.0,S,Did Not Survived
+218,1,1,female,32.0,0,0,76.2917,C,Survived
+219,0,2,male,30.0,0,0,10.5,S,Did Not Survived
+220,1,3,male,16.0,0,0,8.05,S,Survived
+221,0,2,male,27.0,0,0,13.0,S,Did Not Survived
+222,0,3,male,51.0,0,0,8.05,S,Did Not Survived
+223,0,3,male,,0,0,7.8958,S,Did Not Survived
+224,1,1,male,38.0,1,0,90.0,S,Survived
+225,0,3,male,22.0,0,0,9.35,S,Did Not Survived
+226,1,2,male,19.0,0,0,10.5,S,Survived
+227,0,3,male,20.5,0,0,7.25,S,Did Not Survived
+228,0,2,male,18.0,0,0,13.0,S,Did Not Survived
+229,0,3,female,,3,1,25.4667,S,Did Not Survived
+230,1,1,female,35.0,1,0,83.475,S,Survived
+231,0,3,male,29.0,0,0,7.775,S,Did Not Survived
+232,0,2,male,59.0,0,0,13.5,S,Did Not Survived
+233,1,3,female,5.0,4,2,31.3875,S,Survived
+234,0,2,male,24.0,0,0,10.5,S,Did Not Survived
+235,0,3,female,,0,0,7.55,S,Did Not Survived
+236,0,2,male,44.0,1,0,26.0,S,Did Not Survived
+237,1,2,female,8.0,0,2,26.25,S,Survived
+238,0,2,male,19.0,0,0,10.5,S,Did Not Survived
+239,0,2,male,33.0,0,0,12.275,S,Did Not Survived
+240,0,3,female,,1,0,14.4542,C,Did Not Survived
+241,1,3,female,,1,0,15.5,Q,Survived
+242,0,2,male,29.0,0,0,10.5,S,Did Not Survived
+243,0,3,male,22.0,0,0,7.125,S,Did Not Survived
+244,0,3,male,30.0,0,0,7.225,C,Did Not Survived
+245,0,1,male,44.0,2,0,90.0,Q,Did Not Survived
+246,0,3,female,25.0,0,0,7.775,S,Did Not Survived
+247,1,2,female,24.0,0,2,14.5,S,Survived
+248,1,1,male,37.0,1,1,52.5542,S,Survived
+249,0,2,male,54.0,1,0,26.0,S,Did Not Survived
+250,0,3,male,,0,0,7.25,S,Did Not Survived
+251,0,3,female,29.0,1,1,10.4625,S,Did Not Survived
+252,0,1,male,62.0,0,0,26.55,S,Did Not Survived
+253,0,3,male,30.0,1,0,16.1,S,Did Not Survived
+254,0,3,female,41.0,0,2,20.2125,S,Did Not Survived
+255,1,3,female,29.0,0,2,15.2458,C,Survived
+256,1,1,female,,0,0,79.2,C,Survived
+257,1,1,female,30.0,0,0,86.5,S,Survived
+259,1,2,female,50.0,0,1,26.0,S,Survived
+260,0,3,male,,0,0,7.75,Q,Did Not Survived
+261,1,3,male,3.0,4,2,31.3875,S,Survived
+262,0,1,male,52.0,1,1,79.65,S,Did Not Survived
+263,0,1,male,40.0,0,0,0.0,S,Did Not Survived
+264,0,3,female,,0,0,7.75,Q,Did Not Survived
+265,0,2,male,36.0,0,0,10.5,S,Did Not Survived
+266,0,3,male,16.0,4,1,39.6875,S,Did Not Survived
+267,1,3,male,25.0,1,0,7.775,S,Survived
+268,1,1,female,58.0,0,1,153.4625,S,Survived
+269,1,1,female,35.0,0,0,135.6333,S,Survived
+270,0,1,male,,0,0,31.0,S,Did Not Survived
+271,1,3,male,25.0,0,0,0.0,S,Survived
+272,1,2,female,41.0,0,1,19.5,S,Survived
+273,0,1,male,37.0,0,1,29.7,C,Did Not Survived
+274,1,3,female,,0,0,7.75,Q,Survived
+275,1,1,female,63.0,1,0,77.9583,S,Survived
+276,0,3,female,45.0,0,0,7.75,S,Did Not Survived
+277,0,2,male,,0,0,0.0,S,Did Not Survived
+278,0,3,male,7.0,4,1,29.125,Q,Did Not Survived
+279,1,3,female,35.0,1,1,20.25,S,Survived
+280,0,3,male,65.0,0,0,7.75,Q,Did Not Survived
+281,0,3,male,28.0,0,0,7.8542,S,Did Not Survived
+282,0,3,male,16.0,0,0,9.5,S,Did Not Survived
+283,1,3,male,19.0,0,0,8.05,S,Survived
+284,0,1,male,,0,0,26.0,S,Did Not Survived
+285,0,3,male,33.0,0,0,8.6625,C,Did Not Survived
+286,1,3,male,30.0,0,0,9.5,S,Survived
+287,0,3,male,22.0,0,0,7.8958,S,Did Not Survived
+288,1,2,male,42.0,0,0,13.0,S,Survived
+289,1,3,female,22.0,0,0,7.75,Q,Survived
+290,1,1,female,26.0,0,0,78.85,S,Survived
+291,1,1,female,19.0,1,0,91.0792,C,Survived
+292,0,2,male,36.0,0,0,12.875,C,Did Not Survived
+293,0,3,female,24.0,0,0,8.85,S,Did Not Survived
+294,0,3,male,24.0,0,0,7.8958,S,Did Not Survived
+295,0,1,male,,0,0,27.7208,C,Did Not Survived
+296,0,3,male,23.5,0,0,7.2292,C,Did Not Survived
+297,0,1,female,2.0,1,2,151.55,S,Did Not Survived
+298,1,1,male,,0,0,30.5,S,Survived
+299,1,1,female,50.0,0,1,247.5208,C,Survived
+300,1,3,female,,0,0,7.75,Q,Survived
+301,1,3,male,,2,0,23.25,Q,Survived
+302,0,3,male,19.0,0,0,0.0,S,Did Not Survived
+303,1,2,female,,0,0,12.35,Q,Survived
+304,0,3,male,,0,0,8.05,S,Did Not Survived
+305,1,1,male,0.92,1,2,151.55,S,Survived
+306,1,1,female,,0,0,110.8833,C,Survived
+307,1,1,female,17.0,1,0,108.9,C,Survived
+308,0,2,male,30.0,1,0,24.0,C,Did Not Survived
+309,1,1,female,30.0,0,0,56.9292,C,Survived
+310,1,1,female,24.0,0,0,83.1583,C,Survived
+311,1,1,female,18.0,2,2,262.375,C,Survived
+312,0,2,female,26.0,1,1,26.0,S,Did Not Survived
+313,0,3,male,28.0,0,0,7.8958,S,Did Not Survived
+314,0,2,male,43.0,1,1,26.25,S,Did Not Survived
+315,1,3,female,26.0,0,0,7.8542,S,Survived
+316,1,2,female,24.0,1,0,26.0,S,Survived
+317,0,2,male,54.0,0,0,14.0,S,Did Not Survived
+318,1,1,female,31.0,0,2,164.8667,S,Survived
+319,1,1,female,40.0,1,1,134.5,C,Survived
+320,0,3,male,22.0,0,0,7.25,S,Did Not Survived
+321,0,3,male,27.0,0,0,7.8958,S,Did Not Survived
+322,1,2,female,30.0,0,0,12.35,Q,Survived
+323,1,2,female,22.0,1,1,29.0,S,Survived
+324,0,3,male,,8,2,69.55,S,Did Not Survived
+325,1,1,female,36.0,0,0,135.6333,C,Survived
+326,0,3,male,61.0,0,0,6.2375,S,Did Not Survived
+327,1,2,female,36.0,0,0,13.0,S,Survived
+328,1,3,female,31.0,1,1,20.525,S,Survived
+329,1,1,female,16.0,0,1,57.9792,C,Survived
+330,1,3,female,,2,0,23.25,Q,Survived
+331,0,1,male,45.5,0,0,28.5,S,Did Not Survived
+332,0,1,male,38.0,0,1,153.4625,S,Did Not Survived
+333,0,3,male,16.0,2,0,18.0,S,Did Not Survived
+334,1,1,female,,1,0,133.65,S,Survived
+335,0,3,male,,0,0,7.8958,S,Did Not Survived
+336,0,1,male,29.0,1,0,66.6,S,Did Not Survived
+337,1,1,female,41.0,0,0,134.5,C,Survived
+338,1,3,male,45.0,0,0,8.05,S,Survived
+339,0,1,male,45.0,0,0,35.5,S,Did Not Survived
+340,1,2,male,2.0,1,1,26.0,S,Survived
+341,1,1,female,24.0,3,2,263.0,S,Survived
+342,0,2,male,28.0,0,0,13.0,S,Did Not Survived
+343,0,2,male,25.0,0,0,13.0,S,Did Not Survived
+344,0,2,male,36.0,0,0,13.0,S,Did Not Survived
+345,1,2,female,24.0,0,0,13.0,S,Survived
+346,1,2,female,40.0,0,0,13.0,S,Survived
+347,1,3,female,,1,0,16.1,S,Survived
+348,1,3,male,3.0,1,1,15.9,S,Survived
+349,0,3,male,42.0,0,0,8.6625,S,Did Not Survived
+350,0,3,male,23.0,0,0,9.225,S,Did Not Survived
+351,0,1,male,,0,0,35.0,S,Did Not Survived
+352,0,3,male,15.0,1,1,7.2292,C,Did Not Survived
+353,0,3,male,25.0,1,0,17.8,S,Did Not Survived
+354,0,3,male,,0,0,7.225,C,Did Not Survived
+355,0,3,male,28.0,0,0,9.5,S,Did Not Survived
+356,1,1,female,22.0,0,1,55.0,S,Survived
+357,0,2,female,38.0,0,0,13.0,S,Did Not Survived
+358,1,3,female,,0,0,7.8792,Q,Survived
+359,1,3,female,,0,0,7.8792,Q,Survived
+360,0,3,male,40.0,1,4,27.9,S,Did Not Survived
+361,0,2,male,29.0,1,0,27.7208,C,Did Not Survived
+362,0,3,female,45.0,0,1,14.4542,C,Did Not Survived
+363,0,3,male,35.0,0,0,7.05,S,Did Not Survived
+364,0,3,male,,1,0,15.5,Q,Did Not Survived
+365,0,3,male,30.0,0,0,7.25,S,Did Not Survived
+366,1,1,female,60.0,1,0,75.25,C,Survived
+367,1,3,female,,0,0,7.2292,C,Survived
+368,1,3,female,,0,0,7.75,Q,Survived
+369,1,1,female,24.0,0,0,69.3,C,Survived
+370,1,1,male,25.0,1,0,55.4417,C,Survived
+371,0,3,male,18.0,1,0,6.4958,S,Did Not Survived
+372,0,3,male,19.0,0,0,8.05,S,Did Not Survived
+373,0,1,male,22.0,0,0,135.6333,C,Did Not Survived
+374,0,3,female,3.0,3,1,21.075,S,Did Not Survived
+375,1,1,female,,1,0,82.1708,C,Survived
+376,1,3,female,22.0,0,0,7.25,S,Survived
+377,0,1,male,27.0,0,2,211.5,C,Did Not Survived
+378,0,3,male,20.0,0,0,4.0125,C,Did Not Survived
+379,0,3,male,19.0,0,0,7.775,S,Did Not Survived
+380,1,1,female,42.0,0,0,227.525,C,Survived
+381,1,3,female,1.0,0,2,15.7417,C,Survived
+382,0,3,male,32.0,0,0,7.925,S,Did Not Survived
+383,1,1,female,35.0,1,0,52.0,S,Survived
+384,0,3,male,,0,0,7.8958,S,Did Not Survived
+385,0,2,male,18.0,0,0,73.5,S,Did Not Survived
+386,0,3,male,1.0,5,2,46.9,S,Did Not Survived
+387,1,2,female,36.0,0,0,13.0,S,Survived
+388,0,3,male,,0,0,7.7292,Q,Did Not Survived
+389,1,2,female,17.0,0,0,12.0,C,Survived
+390,1,1,male,36.0,1,2,120.0,S,Survived
+391,1,3,male,21.0,0,0,7.7958,S,Survived
+392,0,3,male,28.0,2,0,7.925,S,Did Not Survived
+393,1,1,female,23.0,1,0,113.275,C,Survived
+394,1,3,female,24.0,0,2,16.7,S,Survived
+395,0,3,male,22.0,0,0,7.7958,S,Did Not Survived
+396,0,3,female,31.0,0,0,7.8542,S,Did Not Survived
+397,0,2,male,46.0,0,0,26.0,S,Did Not Survived
+398,0,2,male,23.0,0,0,10.5,S,Did Not Survived
+399,1,2,female,28.0,0,0,12.65,S,Survived
+400,1,3,male,39.0,0,0,7.925,S,Survived
+401,0,3,male,26.0,0,0,8.05,S,Did Not Survived
+402,0,3,female,21.0,1,0,9.825,S,Did Not Survived
+403,0,3,male,28.0,1,0,15.85,S,Did Not Survived
+404,0,3,female,20.0,0,0,8.6625,S,Did Not Survived
+405,0,2,male,34.0,1,0,21.0,S,Did Not Survived
+406,0,3,male,51.0,0,0,7.75,S,Did Not Survived
+407,1,2,male,3.0,1,1,18.75,S,Survived
+408,0,3,male,21.0,0,0,7.775,S,Did Not Survived
+409,0,3,female,,3,1,25.4667,S,Did Not Survived
+410,0,3,male,,0,0,7.8958,S,Did Not Survived
+411,0,3,male,,0,0,6.8583,Q,Did Not Survived
+412,1,1,female,33.0,1,0,90.0,Q,Survived
+413,0,2,male,,0,0,0.0,S,Did Not Survived
+414,1,3,male,44.0,0,0,7.925,S,Survived
+415,0,3,female,,0,0,8.05,S,Did Not Survived
+416,1,2,female,34.0,1,1,32.5,S,Survived
+417,1,2,female,18.0,0,2,13.0,S,Survived
+418,0,2,male,30.0,0,0,13.0,S,Did Not Survived
+419,0,3,female,10.0,0,2,24.15,S,Did Not Survived
+420,0,3,male,,0,0,7.8958,C,Did Not Survived
+421,0,3,male,21.0,0,0,7.7333,Q,Did Not Survived
+422,0,3,male,29.0,0,0,7.875,S,Did Not Survived
+423,0,3,female,28.0,1,1,14.4,S,Did Not Survived
+424,0,3,male,18.0,1,1,20.2125,S,Did Not Survived
+425,0,3,male,,0,0,7.25,S,Did Not Survived
+426,1,2,female,28.0,1,0,26.0,S,Survived
+427,1,2,female,19.0,0,0,26.0,S,Survived
+428,0,3,male,,0,0,7.75,Q,Did Not Survived
+429,1,3,male,32.0,0,0,8.05,S,Survived
+430,1,1,male,28.0,0,0,26.55,S,Survived
+431,1,3,female,,1,0,16.1,S,Survived
+432,1,2,female,42.0,1,0,26.0,S,Survived
+433,0,3,male,17.0,0,0,7.125,S,Did Not Survived
+434,0,1,male,50.0,1,0,55.9,S,Did Not Survived
+435,1,1,female,14.0,1,2,120.0,S,Survived
+436,0,3,female,21.0,2,2,34.375,S,Did Not Survived
+437,1,2,female,24.0,2,3,18.75,S,Survived
+438,0,1,male,64.0,1,4,263.0,S,Did Not Survived
+439,0,2,male,31.0,0,0,10.5,S,Did Not Survived
+440,1,2,female,45.0,1,1,26.25,S,Survived
+441,0,3,male,20.0,0,0,9.5,S,Did Not Survived
+442,0,3,male,25.0,1,0,7.775,S,Did Not Survived
+443,1,2,female,28.0,0,0,13.0,S,Survived
+444,1,3,male,,0,0,8.1125,S,Survived
+445,1,1,male,4.0,0,2,81.8583,S,Survived
+446,1,2,female,13.0,0,1,19.5,S,Survived
+447,1,1,male,34.0,0,0,26.55,S,Survived
+448,1,3,female,5.0,2,1,19.2583,C,Survived
+449,1,1,male,52.0,0,0,30.5,S,Survived
+450,0,2,male,36.0,1,2,27.75,S,Did Not Survived
+451,0,3,male,,1,0,19.9667,S,Did Not Survived
+452,0,1,male,30.0,0,0,27.75,C,Did Not Survived
+453,1,1,male,49.0,1,0,89.1042,C,Survived
+454,0,3,male,,0,0,8.05,S,Did Not Survived
+455,1,3,male,29.0,0,0,7.8958,C,Survived
+456,0,1,male,65.0,0,0,26.55,S,Did Not Survived
+457,1,1,female,,1,0,51.8625,S,Survived
+458,1,2,female,50.0,0,0,10.5,S,Survived
+459,0,3,male,,0,0,7.75,Q,Did Not Survived
+460,1,1,male,48.0,0,0,26.55,S,Survived
+461,0,3,male,34.0,0,0,8.05,S,Did Not Survived
+462,0,1,male,47.0,0,0,38.5,S,Did Not Survived
+463,0,2,male,48.0,0,0,13.0,S,Did Not Survived
+464,0,3,male,,0,0,8.05,S,Did Not Survived
+465,0,3,male,38.0,0,0,7.05,S,Did Not Survived
+466,0,2,male,,0,0,0.0,S,Did Not Survived
+467,0,1,male,56.0,0,0,26.55,S,Did Not Survived
+468,0,3,male,,0,0,7.725,Q,Did Not Survived
+469,1,3,female,0.75,2,1,19.2583,C,Survived
+470,0,3,male,,0,0,7.25,S,Did Not Survived
+471,0,3,male,38.0,0,0,8.6625,S,Did Not Survived
+472,1,2,female,33.0,1,2,27.75,S,Survived
+473,1,2,female,23.0,0,0,13.7917,C,Survived
+474,0,3,female,22.0,0,0,9.8375,S,Did Not Survived
+475,0,1,male,,0,0,52.0,S,Did Not Survived
+476,0,2,male,34.0,1,0,21.0,S,Did Not Survived
+477,0,3,male,29.0,1,0,7.0458,S,Did Not Survived
+478,0,3,male,22.0,0,0,7.5208,S,Did Not Survived
+479,1,3,female,2.0,0,1,12.2875,S,Survived
+480,0,3,male,9.0,5,2,46.9,S,Did Not Survived
+481,0,2,male,,0,0,0.0,S,Did Not Survived
+482,0,3,male,50.0,0,0,8.05,S,Did Not Survived
+483,1,3,female,63.0,0,0,9.5875,S,Survived
+484,1,1,male,25.0,1,0,91.0792,C,Survived
+485,0,3,female,,3,1,25.4667,S,Did Not Survived
+486,1,1,female,35.0,1,0,90.0,S,Survived
+487,0,1,male,58.0,0,0,29.7,C,Did Not Survived
+488,0,3,male,30.0,0,0,8.05,S,Did Not Survived
+489,1,3,male,9.0,1,1,15.9,S,Survived
+490,0,3,male,,1,0,19.9667,S,Did Not Survived
+491,0,3,male,21.0,0,0,7.25,S,Did Not Survived
+492,0,1,male,55.0,0,0,30.5,S,Did Not Survived
+493,0,1,male,71.0,0,0,49.5042,C,Did Not Survived
+494,0,3,male,21.0,0,0,8.05,S,Did Not Survived
+495,0,3,male,,0,0,14.4583,C,Did Not Survived
+496,1,1,female,54.0,1,0,78.2667,C,Survived
+497,0,3,male,,0,0,15.1,S,Did Not Survived
+498,0,1,female,25.0,1,2,151.55,S,Did Not Survived
+499,0,3,male,24.0,0,0,7.7958,S,Did Not Survived
+500,0,3,male,17.0,0,0,8.6625,S,Did Not Survived
+501,0,3,female,21.0,0,0,7.75,Q,Did Not Survived
+502,0,3,female,,0,0,7.6292,Q,Did Not Survived
+503,0,3,female,37.0,0,0,9.5875,S,Did Not Survived
+504,1,1,female,16.0,0,0,86.5,S,Survived
+505,0,1,male,18.0,1,0,108.9,C,Did Not Survived
+506,1,2,female,33.0,0,2,26.0,S,Survived
+507,1,1,male,,0,0,26.55,S,Survived
+508,0,3,male,28.0,0,0,22.525,S,Did Not Survived
+509,1,3,male,26.0,0,0,56.4958,S,Survived
+510,1,3,male,29.0,0,0,7.75,Q,Survived
+511,0,3,male,,0,0,8.05,S,Did Not Survived
+512,1,1,male,36.0,0,0,26.2875,S,Survived
+513,1,1,female,54.0,1,0,59.4,C,Survived
+514,0,3,male,24.0,0,0,7.4958,S,Did Not Survived
+515,0,1,male,47.0,0,0,34.0208,S,Did Not Survived
+516,1,2,female,34.0,0,0,10.5,S,Survived
+517,0,3,male,,0,0,24.15,Q,Did Not Survived
+518,1,2,female,36.0,1,0,26.0,S,Survived
+519,0,3,male,32.0,0,0,7.8958,S,Did Not Survived
+520,1,1,female,30.0,0,0,93.5,S,Survived
+521,0,3,male,22.0,0,0,7.8958,S,Did Not Survived
+522,0,3,male,,0,0,7.225,C,Did Not Survived
+523,1,1,female,44.0,0,1,57.9792,C,Survived
+524,0,3,male,,0,0,7.2292,C,Did Not Survived
+525,0,3,male,40.5,0,0,7.75,Q,Did Not Survived
+526,1,2,female,50.0,0,0,10.5,S,Survived
+527,0,1,male,,0,0,221.7792,S,Did Not Survived
+528,0,3,male,39.0,0,0,7.925,S,Did Not Survived
+529,0,2,male,23.0,2,1,11.5,S,Did Not Survived
+530,1,2,female,2.0,1,1,26.0,S,Survived
+531,0,3,male,,0,0,7.2292,C,Did Not Survived
+532,0,3,male,17.0,1,1,7.2292,C,Did Not Survived
+533,1,3,female,,0,2,22.3583,C,Survived
+534,0,3,female,30.0,0,0,8.6625,S,Did Not Survived
+535,1,2,female,7.0,0,2,26.25,S,Survived
+536,0,1,male,45.0,0,0,26.55,S,Did Not Survived
+537,1,1,female,30.0,0,0,106.425,C,Survived
+538,0,3,male,,0,0,14.5,S,Did Not Survived
+539,1,1,female,22.0,0,2,49.5,C,Survived
+540,1,1,female,36.0,0,2,71.0,S,Survived
+541,0,3,female,9.0,4,2,31.275,S,Did Not Survived
+542,0,3,female,11.0,4,2,31.275,S,Did Not Survived
+543,1,2,male,32.0,1,0,26.0,S,Survived
+544,0,1,male,50.0,1,0,106.425,C,Did Not Survived
+545,0,1,male,64.0,0,0,26.0,S,Did Not Survived
+546,1,2,female,19.0,1,0,26.0,S,Survived
+547,1,2,male,,0,0,13.8625,C,Survived
+548,0,3,male,33.0,1,1,20.525,S,Did Not Survived
+549,1,2,male,8.0,1,1,36.75,S,Survived
+550,1,1,male,17.0,0,2,110.8833,C,Survived
+551,0,2,male,27.0,0,0,26.0,S,Did Not Survived
+552,0,3,male,,0,0,7.8292,Q,Did Not Survived
+553,1,3,male,22.0,0,0,7.225,C,Survived
+554,1,3,female,22.0,0,0,7.775,S,Survived
+555,0,1,male,62.0,0,0,26.55,S,Did Not Survived
+556,1,1,female,48.0,1,0,39.6,C,Survived
+557,0,1,male,,0,0,227.525,C,Did Not Survived
+558,1,1,female,39.0,1,1,79.65,S,Survived
+559,1,3,female,36.0,1,0,17.4,S,Survived
+560,0,3,male,,0,0,7.75,Q,Did Not Survived
+561,0,3,male,40.0,0,0,7.8958,S,Did Not Survived
+562,0,2,male,28.0,0,0,13.5,S,Did Not Survived
+563,0,3,male,,0,0,8.05,S,Did Not Survived
+564,0,3,female,,0,0,8.05,S,Did Not Survived
+565,0,3,male,24.0,2,0,24.15,S,Did Not Survived
+566,0,3,male,19.0,0,0,7.8958,S,Did Not Survived
+567,0,3,female,29.0,0,4,21.075,S,Did Not Survived
+568,0,3,male,,0,0,7.2292,C,Did Not Survived
+569,1,3,male,32.0,0,0,7.8542,S,Survived
+570,1,2,male,62.0,0,0,10.5,S,Survived
+571,1,1,female,53.0,2,0,51.4792,S,Survived
+572,1,1,male,36.0,0,0,26.3875,S,Survived
+573,1,3,female,,0,0,7.75,Q,Survived
+574,0,3,male,16.0,0,0,8.05,S,Did Not Survived
+575,0,3,male,19.0,0,0,14.5,S,Did Not Survived
+576,1,2,female,34.0,0,0,13.0,S,Survived
+577,1,1,female,39.0,1,0,55.9,S,Survived
+578,0,3,female,,1,0,14.4583,C,Did Not Survived
+579,1,3,male,32.0,0,0,7.925,S,Survived
+580,1,2,female,25.0,1,1,30.0,S,Survived
+581,1,1,female,39.0,1,1,110.8833,C,Survived
+582,0,2,male,54.0,0,0,26.0,S,Did Not Survived
+583,0,1,male,36.0,0,0,40.125,C,Did Not Survived
+584,0,3,male,,0,0,8.7125,C,Did Not Survived
+585,1,1,female,18.0,0,2,79.65,S,Survived
+586,0,2,male,47.0,0,0,15.0,S,Did Not Survived
+587,1,1,male,60.0,1,1,79.2,C,Survived
+588,0,3,male,22.0,0,0,8.05,S,Did Not Survived
+589,0,3,male,,0,0,8.05,S,Did Not Survived
+590,0,3,male,35.0,0,0,7.125,S,Did Not Survived
+591,1,1,female,52.0,1,0,78.2667,C,Survived
+592,0,3,male,47.0,0,0,7.25,S,Did Not Survived
+593,0,3,female,,0,2,7.75,Q,Did Not Survived
+594,0,2,male,37.0,1,0,26.0,S,Did Not Survived
+595,0,3,male,36.0,1,1,24.15,S,Did Not Survived
+596,1,2,female,,0,0,33.0,S,Survived
+597,0,3,male,49.0,0,0,0.0,S,Did Not Survived
+598,0,3,male,,0,0,7.225,C,Did Not Survived
+599,1,1,male,49.0,1,0,56.9292,C,Survived
+600,1,2,female,24.0,2,1,27.0,S,Survived
+601,0,3,male,,0,0,7.8958,S,Did Not Survived
+602,0,1,male,,0,0,42.4,S,Did Not Survived
+603,0,3,male,44.0,0,0,8.05,S,Did Not Survived
+604,1,1,male,35.0,0,0,26.55,C,Survived
+605,0,3,male,36.0,1,0,15.55,S,Did Not Survived
+606,0,3,male,30.0,0,0,7.8958,S,Did Not Survived
+607,1,1,male,27.0,0,0,30.5,S,Survived
+608,1,2,female,22.0,1,2,41.5792,C,Survived
+609,1,1,female,40.0,0,0,153.4625,S,Survived
+610,0,3,female,39.0,1,5,31.275,S,Did Not Survived
+611,0,3,male,,0,0,7.05,S,Did Not Survived
+612,1,3,female,,1,0,15.5,Q,Survived
+613,0,3,male,,0,0,7.75,Q,Did Not Survived
+614,0,3,male,35.0,0,0,8.05,S,Did Not Survived
+615,1,2,female,24.0,1,2,65.0,S,Survived
+616,0,3,male,34.0,1,1,14.4,S,Did Not Survived
+617,0,3,female,26.0,1,0,16.1,S,Did Not Survived
+618,1,2,female,4.0,2,1,39.0,S,Survived
+619,0,2,male,26.0,0,0,10.5,S,Did Not Survived
+620,0,3,male,27.0,1,0,14.4542,C,Did Not Survived
+621,1,1,male,42.0,1,0,52.5542,S,Survived
+622,1,3,male,20.0,1,1,15.7417,C,Survived
+623,0,3,male,21.0,0,0,7.8542,S,Did Not Survived
+624,0,3,male,21.0,0,0,16.1,S,Did Not Survived
+625,0,1,male,61.0,0,0,32.3208,S,Did Not Survived
+626,0,2,male,57.0,0,0,12.35,Q,Did Not Survived
+627,1,1,female,21.0,0,0,77.9583,S,Survived
+628,0,3,male,26.0,0,0,7.8958,S,Did Not Survived
+629,0,3,male,,0,0,7.7333,Q,Did Not Survived
+630,1,1,male,80.0,0,0,30.0,S,Survived
+631,0,3,male,51.0,0,0,7.0542,S,Did Not Survived
+632,1,1,male,32.0,0,0,30.5,C,Survived
+633,0,1,male,,0,0,0.0,S,Did Not Survived
+634,0,3,female,9.0,3,2,27.9,S,Did Not Survived
+635,1,2,female,28.0,0,0,13.0,S,Survived
+636,0,3,male,32.0,0,0,7.925,S,Did Not Survived
+637,0,2,male,31.0,1,1,26.25,S,Did Not Survived
+638,0,3,female,41.0,0,5,39.6875,S,Did Not Survived
+639,0,3,male,,1,0,16.1,S,Did Not Survived
+640,0,3,male,20.0,0,0,7.8542,S,Did Not Survived
+641,1,1,female,24.0,0,0,69.3,C,Survived
+642,0,3,female,2.0,3,2,27.9,S,Did Not Survived
+643,1,3,male,,0,0,56.4958,S,Survived
+644,1,3,female,0.75,2,1,19.2583,C,Survived
+645,1,1,male,48.0,1,0,76.7292,C,Survived
+646,0,3,male,19.0,0,0,7.8958,S,Did Not Survived
+647,1,1,male,56.0,0,0,35.5,C,Survived
+648,0,3,male,,0,0,7.55,S,Did Not Survived
+649,1,3,female,23.0,0,0,7.55,S,Survived
+650,0,3,male,,0,0,7.8958,S,Did Not Survived
+651,1,2,female,18.0,0,1,23.0,S,Survived
+652,0,3,male,21.0,0,0,8.4333,S,Did Not Survived
+653,1,3,female,,0,0,7.8292,Q,Survived
+654,0,3,female,18.0,0,0,6.75,Q,Did Not Survived
+655,0,2,male,24.0,2,0,73.5,S,Did Not Survived
+656,0,3,male,,0,0,7.8958,S,Did Not Survived
+657,0,3,female,32.0,1,1,15.5,Q,Did Not Survived
+658,0,2,male,23.0,0,0,13.0,S,Did Not Survived
+659,0,1,male,58.0,0,2,113.275,C,Did Not Survived
+660,1,1,male,50.0,2,0,133.65,S,Survived
+661,0,3,male,40.0,0,0,7.225,C,Did Not Survived
+662,0,1,male,47.0,0,0,25.5875,S,Did Not Survived
+663,0,3,male,36.0,0,0,7.4958,S,Did Not Survived
+664,1,3,male,20.0,1,0,7.925,S,Survived
+665,0,2,male,32.0,2,0,73.5,S,Did Not Survived
+666,0,2,male,25.0,0,0,13.0,S,Did Not Survived
+667,0,3,male,,0,0,7.775,S,Did Not Survived
+668,0,3,male,43.0,0,0,8.05,S,Did Not Survived
+669,1,1,female,,1,0,52.0,S,Survived
+670,1,2,female,40.0,1,1,39.0,S,Survived
+671,0,1,male,31.0,1,0,52.0,S,Did Not Survived
+672,0,2,male,70.0,0,0,10.5,S,Did Not Survived
+673,1,2,male,31.0,0,0,13.0,S,Survived
+674,0,2,male,,0,0,0.0,S,Did Not Survived
+675,0,3,male,18.0,0,0,7.775,S,Did Not Survived
+676,0,3,male,24.5,0,0,8.05,S,Did Not Survived
+677,1,3,female,18.0,0,0,9.8417,S,Survived
+678,0,3,female,43.0,1,6,46.9,S,Did Not Survived
+680,0,3,female,,0,0,8.1375,Q,Did Not Survived
+681,1,1,male,27.0,0,0,76.7292,C,Survived
+682,0,3,male,20.0,0,0,9.225,S,Did Not Survived
+683,0,3,male,14.0,5,2,46.9,S,Did Not Survived
+684,0,2,male,60.0,1,1,39.0,S,Did Not Survived
+685,0,2,male,25.0,1,2,41.5792,C,Did Not Survived
+686,0,3,male,14.0,4,1,39.6875,S,Did Not Survived
+687,0,3,male,19.0,0,0,10.1708,S,Did Not Survived
+688,0,3,male,18.0,0,0,7.7958,S,Did Not Survived
+689,1,1,female,15.0,0,1,211.3375,S,Survived
+690,1,1,male,31.0,1,0,57.0,S,Survived
+691,1,3,female,4.0,0,1,13.4167,C,Survived
+692,1,3,male,,0,0,56.4958,S,Survived
+693,0,3,male,25.0,0,0,7.225,C,Did Not Survived
+694,0,1,male,60.0,0,0,26.55,S,Did Not Survived
+695,0,2,male,52.0,0,0,13.5,S,Did Not Survived
+696,0,3,male,44.0,0,0,8.05,S,Did Not Survived
+697,1,3,female,,0,0,7.7333,Q,Survived
+698,0,1,male,49.0,1,1,110.8833,C,Did Not Survived
+699,0,3,male,42.0,0,0,7.65,S,Did Not Survived
+700,1,1,female,18.0,1,0,227.525,C,Survived
+701,1,1,male,35.0,0,0,26.2875,S,Survived
+702,0,3,female,18.0,0,1,14.4542,C,Did Not Survived
+703,0,3,male,25.0,0,0,7.7417,Q,Did Not Survived
+704,0,3,male,26.0,1,0,7.8542,S,Did Not Survived
+705,0,2,male,39.0,0,0,26.0,S,Did Not Survived
+706,1,2,female,45.0,0,0,13.5,S,Survived
+707,1,1,male,42.0,0,0,26.2875,S,Survived
+708,1,1,female,22.0,0,0,151.55,S,Survived
+709,1,3,male,,1,1,15.2458,C,Survived
+710,1,1,female,24.0,0,0,49.5042,C,Survived
+711,0,1,male,,0,0,26.55,S,Did Not Survived
+712,1,1,male,48.0,1,0,52.0,S,Survived
+713,0,3,male,29.0,0,0,9.4833,S,Did Not Survived
+714,0,2,male,52.0,0,0,13.0,S,Did Not Survived
+715,0,3,male,19.0,0,0,7.65,S,Did Not Survived
+716,1,1,female,38.0,0,0,227.525,C,Survived
+717,1,2,female,27.0,0,0,10.5,S,Survived
+718,0,3,male,,0,0,15.5,Q,Did Not Survived
+719,0,3,male,33.0,0,0,7.775,S,Did Not Survived
+720,1,2,female,6.0,0,1,33.0,S,Survived
+721,0,3,male,17.0,1,0,7.0542,S,Did Not Survived
+722,0,2,male,34.0,0,0,13.0,S,Did Not Survived
+723,0,2,male,50.0,0,0,13.0,S,Did Not Survived
+724,1,1,male,27.0,1,0,53.1,S,Survived
+725,0,3,male,20.0,0,0,8.6625,S,Did Not Survived
+726,1,2,female,30.0,3,0,21.0,S,Survived
+727,1,3,female,,0,0,7.7375,Q,Survived
+728,0,2,male,25.0,1,0,26.0,S,Did Not Survived
+729,0,3,female,25.0,1,0,7.925,S,Did Not Survived
+730,1,1,female,29.0,0,0,211.3375,S,Survived
+731,0,3,male,11.0,0,0,18.7875,C,Did Not Survived
+732,0,2,male,,0,0,0.0,S,Did Not Survived
+733,0,2,male,23.0,0,0,13.0,S,Did Not Survived
+734,0,2,male,23.0,0,0,13.0,S,Did Not Survived
+735,0,3,male,28.5,0,0,16.1,S,Did Not Survived
+736,0,3,female,48.0,1,3,34.375,S,Did Not Survived
+738,0,3,male,,0,0,7.8958,S,Did Not Survived
+739,0,3,male,,0,0,7.8958,S,Did Not Survived
+740,1,1,male,,0,0,30.0,S,Survived
+741,0,1,male,36.0,1,0,78.85,S,Did Not Survived
+742,1,1,female,21.0,2,2,262.375,C,Survived
+743,0,3,male,24.0,1,0,16.1,S,Did Not Survived
+744,1,3,male,31.0,0,0,7.925,S,Survived
+745,0,1,male,70.0,1,1,71.0,S,Did Not Survived
+746,0,3,male,16.0,1,1,20.25,S,Did Not Survived
+747,1,2,female,30.0,0,0,13.0,S,Survived
+748,0,1,male,19.0,1,0,53.1,S,Did Not Survived
+749,0,3,male,31.0,0,0,7.75,Q,Did Not Survived
+750,1,2,female,4.0,1,1,23.0,S,Survived
+751,1,3,male,6.0,0,1,12.475,S,Survived
+752,0,3,male,33.0,0,0,9.5,S,Did Not Survived
+753,0,3,male,23.0,0,0,7.8958,S,Did Not Survived
+754,1,2,female,48.0,1,2,65.0,S,Survived
+755,1,2,male,0.67,1,1,14.5,S,Survived
+756,0,3,male,28.0,0,0,7.7958,S,Did Not Survived
+757,0,2,male,18.0,0,0,11.5,S,Did Not Survived
+758,0,3,male,34.0,0,0,8.05,S,Did Not Survived
+759,1,1,female,33.0,0,0,86.5,S,Survived
+760,0,3,male,,0,0,14.5,S,Did Not Survived
+761,0,3,male,41.0,0,0,7.125,S,Did Not Survived
+762,1,3,male,20.0,0,0,7.2292,C,Survived
+763,1,1,female,36.0,1,2,120.0,S,Survived
+764,0,3,male,16.0,0,0,7.775,S,Did Not Survived
+765,1,1,female,51.0,1,0,77.9583,S,Survived
+766,0,1,male,,0,0,39.6,C,Did Not Survived
+767,0,3,female,30.5,0,0,7.75,Q,Did Not Survived
+768,0,3,male,,1,0,24.15,Q,Did Not Survived
+769,0,3,male,32.0,0,0,8.3625,S,Did Not Survived
+770,0,3,male,24.0,0,0,9.5,S,Did Not Survived
+771,0,3,male,48.0,0,0,7.8542,S,Did Not Survived
+772,0,2,female,57.0,0,0,10.5,S,Did Not Survived
+773,0,3,male,,0,0,7.225,C,Did Not Survived
+774,1,2,female,54.0,1,3,23.0,S,Survived
+775,0,3,male,18.0,0,0,7.75,S,Did Not Survived
+776,0,3,male,,0,0,7.75,Q,Did Not Survived
+777,1,3,female,5.0,0,0,12.475,S,Survived
+778,0,3,male,,0,0,7.7375,Q,Did Not Survived
+779,1,1,female,43.0,0,1,211.3375,S,Survived
+780,1,3,female,13.0,0,0,7.2292,C,Survived
+781,1,1,female,17.0,1,0,57.0,S,Survived
+782,0,1,male,29.0,0,0,30.0,S,Did Not Survived
+783,0,3,male,,1,2,23.45,S,Did Not Survived
+784,0,3,male,25.0,0,0,7.05,S,Did Not Survived
+785,0,3,male,25.0,0,0,7.25,S,Did Not Survived
+786,1,3,female,18.0,0,0,7.4958,S,Survived
+787,0,3,male,8.0,4,1,29.125,Q,Did Not Survived
+788,1,3,male,1.0,1,2,20.575,S,Survived
+789,0,1,male,46.0,0,0,79.2,C,Did Not Survived
+790,0,3,male,,0,0,7.75,Q,Did Not Survived
+791,0,2,male,16.0,0,0,26.0,S,Did Not Survived
+792,0,3,female,,8,2,69.55,S,Did Not Survived
+793,0,1,male,,0,0,30.6958,C,Did Not Survived
+794,0,3,male,25.0,0,0,7.8958,S,Did Not Survived
+795,0,2,male,39.0,0,0,13.0,S,Did Not Survived
+796,1,1,female,49.0,0,0,25.9292,S,Survived
+797,1,3,female,31.0,0,0,8.6833,S,Survived
+798,0,3,male,30.0,0,0,7.2292,C,Did Not Survived
+799,0,3,female,30.0,1,1,24.15,S,Did Not Survived
+800,0,2,male,34.0,0,0,13.0,S,Did Not Survived
+801,1,2,female,31.0,1,1,26.25,S,Survived
+802,1,1,male,11.0,1,2,120.0,S,Survived
+803,1,3,male,0.42,0,1,8.5167,C,Survived
+804,1,3,male,27.0,0,0,6.975,S,Survived
+805,0,3,male,31.0,0,0,7.775,S,Did Not Survived
+806,0,1,male,39.0,0,0,0.0,S,Did Not Survived
+807,0,3,female,18.0,0,0,7.775,S,Did Not Survived
+808,0,2,male,39.0,0,0,13.0,S,Did Not Survived
+809,1,1,female,33.0,1,0,53.1,S,Survived
+810,0,3,male,26.0,0,0,7.8875,S,Did Not Survived
+811,0,3,male,39.0,0,0,24.15,S,Did Not Survived
+812,0,2,male,35.0,0,0,10.5,S,Did Not Survived
+813,0,3,female,6.0,4,2,31.275,S,Did Not Survived
+814,0,3,male,30.5,0,0,8.05,S,Did Not Survived
+815,0,1,male,,0,0,0.0,S,Did Not Survived
+816,0,3,female,23.0,0,0,7.925,S,Did Not Survived
+817,0,2,male,31.0,1,1,37.0042,C,Did Not Survived
+818,0,3,male,43.0,0,0,6.45,S,Did Not Survived
+819,0,3,male,10.0,3,2,27.9,S,Did Not Survived
+820,1,1,female,52.0,1,1,93.5,S,Survived
+821,1,3,male,27.0,0,0,8.6625,S,Survived
+822,0,1,male,38.0,0,0,0.0,S,Did Not Survived
+823,1,3,female,27.0,0,1,12.475,S,Survived
+824,0,3,male,2.0,4,1,39.6875,S,Did Not Survived
+825,0,3,male,,0,0,6.95,Q,Did Not Survived
+826,0,3,male,,0,0,56.4958,S,Did Not Survived
+827,1,2,male,1.0,0,2,37.0042,C,Survived
+828,1,3,male,,0,0,7.75,Q,Survived
+829,1,1,female,62.0,0,0,80.0,,Survived
+830,1,3,female,15.0,1,0,14.4542,C,Survived
+831,1,2,male,0.83,1,1,18.75,S,Survived
+832,0,3,male,,0,0,7.2292,C,Did Not Survived
+833,0,3,male,23.0,0,0,7.8542,S,Did Not Survived
+834,0,3,male,18.0,0,0,8.3,S,Did Not Survived
+835,1,1,female,39.0,1,1,83.1583,C,Survived
+836,0,3,male,21.0,0,0,8.6625,S,Did Not Survived
+837,0,3,male,,0,0,8.05,S,Did Not Survived
+838,1,3,male,32.0,0,0,56.4958,S,Survived
+839,1,1,male,,0,0,29.7,C,Survived
+840,0,3,male,20.0,0,0,7.925,S,Did Not Survived
+841,0,2,male,16.0,0,0,10.5,S,Did Not Survived
+842,1,1,female,30.0,0,0,31.0,C,Survived
+843,0,3,male,34.5,0,0,6.4375,C,Did Not Survived
+844,0,3,male,17.0,0,0,8.6625,S,Did Not Survived
+845,0,3,male,42.0,0,0,7.55,S,Did Not Survived
+846,0,3,male,,8,2,69.55,S,Did Not Survived
+847,0,3,male,35.0,0,0,7.8958,C,Did Not Survived
+848,0,2,male,28.0,0,1,33.0,S,Did Not Survived
+849,1,1,female,,1,0,89.1042,C,Survived
+850,0,3,male,4.0,4,2,31.275,S,Did Not Survived
+851,0,3,male,74.0,0,0,7.775,S,Did Not Survived
+852,0,3,female,9.0,1,1,15.2458,C,Did Not Survived
+853,1,1,female,16.0,0,1,39.4,S,Survived
+854,0,2,female,44.0,1,0,26.0,S,Did Not Survived
+855,1,3,female,18.0,0,1,9.35,S,Survived
+856,1,1,female,45.0,1,1,164.8667,S,Survived
+857,1,1,male,51.0,0,0,26.55,S,Survived
+858,1,3,female,24.0,0,3,19.2583,C,Survived
+859,0,3,male,,0,0,7.2292,C,Did Not Survived
+860,0,3,male,41.0,2,0,14.1083,S,Did Not Survived
+861,0,2,male,21.0,1,0,11.5,S,Did Not Survived
+862,1,1,female,48.0,0,0,25.9292,S,Survived
+863,0,3,female,,8,2,69.55,S,Did Not Survived
+864,0,2,male,24.0,0,0,13.0,S,Did Not Survived
+865,1,2,female,42.0,0,0,13.0,S,Survived
+866,1,2,female,27.0,1,0,13.8583,C,Survived
+867,0,1,male,31.0,0,0,50.4958,S,Did Not Survived
+868,0,3,male,,0,0,9.5,S,Did Not Survived
+869,1,3,male,4.0,1,1,11.1333,S,Survived
+870,0,3,male,26.0,0,0,7.8958,S,Did Not Survived
+871,1,1,female,47.0,1,1,52.5542,S,Survived
+872,0,1,male,33.0,0,0,5.0,S,Did Not Survived
+873,0,3,male,47.0,0,0,9.0,S,Did Not Survived
+874,1,2,female,28.0,1,0,24.0,C,Survived
+875,1,3,female,15.0,0,0,7.225,C,Survived
+876,0,3,male,20.0,0,0,9.8458,S,Did Not Survived
+877,0,3,male,19.0,0,0,7.8958,S,Did Not Survived
+878,0,3,male,,0,0,7.8958,S,Did Not Survived
+879,1,1,female,56.0,0,1,83.1583,C,Survived
+880,1,2,female,25.0,0,1,26.0,S,Survived
+881,0,3,male,33.0,0,0,7.8958,S,Did Not Survived
+882,0,3,female,22.0,0,0,10.5167,S,Did Not Survived
+883,0,2,male,28.0,0,0,10.5,S,Did Not Survived
+884,0,3,male,25.0,0,0,7.05,S,Did Not Survived
+885,0,3,female,39.0,0,5,29.125,Q,Did Not Survived
+886,0,2,male,27.0,0,0,13.0,S,Did Not Survived
+887,1,1,female,19.0,0,0,30.0,S,Survived
+888,0,3,female,,1,2,23.45,S,Did Not Survived
+889,1,1,male,26.0,0,0,30.0,C,Survived
+890,0,3,male,32.0,0,0,7.75,Q,Did Not Survived
