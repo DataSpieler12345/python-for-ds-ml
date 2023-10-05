@@ -8,9 +8,6 @@ Welcome to my Python DS and ML Programming Repository! "This repository is a col
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
