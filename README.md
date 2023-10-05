@@ -1,54 +1,21 @@
-# Python
-## My Python learning experience 📚💻🖱
- 
-Content 
+# Python DS and ML Programming Repository
 
-#Python Basic
-*Tipos de datos 
-*Variables y constantes
-*Solicitar datos
-*Condicional IF
-*Repeticion While
-*Bucle FOR (repeticiones)
-*Generadores
-*Funciones
-*Ejercicio Practico. Calculadora Basica
-*Funcion anidada
-*Funcion anonima
-*Funciones utiles
-*Cadenas textos
-*Reemplazar y centrar cadenas de textos
-*Modulos
-*Modulos propios, distribucion e instalacion
-*Archivo para reinstalara librerias de un proyecto a otro
-*Archivos, escritura, lectura
-*Operaciones con archivos
-*Rutas
-*Listas
-*Tuplas
-*Diccionarios
-*Switch
-*Clases
-*Obtener y manipular datos en formato JSON
-*Control de errores y excepciones
-*Ayuda
-*Test, probando nuestros scripts
-*Debug, tipos de errores al programar
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/DataSpieler12345/python-for-ds-ml/blob/main/LICENSE)
+[![GitHub Issues](https://img.shields.io/github/issues/DataSpieler12345/your-repo-name.svg)](https://github.com/DataSpieler12345/python-for-ds-ml/issues)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/DataSpieler12345/python-for-ds-ml/blob/main/CONTRIBUTING.md)
 
-#Case Studies
-*Case Study_Big Mac Price
-*Case Study_BMI Calculator
-*Case Study_Simple Calculator
-*Case Study_Finobacci
-*Case Study_Longest Word
-*Case Study_Celsius to Fahrenheit Converter
-*Case Study_FizzBuzz
-*Case Study_Juice Maker 
-*Case Study_Search Engine 
-*Case Study_Reshape
-*Case Study_Adding Words
-*Case Study_Average of Rows
-*Case Study_Binary Disorder
-*Case Study_Missing Numbers
-*Case Study_Ordinary Squares
-*Case Study_Phone Number Validator
+Welcome to my Python DS and ML Programming Repository! "This repository is a collection of my learning journey, code snippets, and resources related to Data Science and Machine Learning using Python."
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/DataSpieler12345/python-for-ds-ml.git
