@@ -1,0 +1,101 @@
+SaleID,RetailerCountry,RetailerType,Product,Sales Revenue ($),DateOfSale,TimeOfSale,TimeZone
+SaleID_1,United States,Outdoors Shop,TrailChef Deluxe Cook Set,200,06/01/2020,23:20:56,EST
+SaleID_2,United States,Outdoors Shop,TrailChef Double Flame,7,05/02/2020,17:27:08,EST
+SaleID_3,United States,Outdoors Shop,Star Dome,20,30/10/2020,09:04:43,EST
+SaleID_4,United States,Outdoors Shop,Star Gazer 2,40,13/11/2020,04:25:06,EST
+SaleID_5,Italy,Outdoors Shop,Canyon Mule Carryall,150.5,06/12/2020,11:15:47,CET
+SaleID_6,Italy,Outdoors Shop,Firefly 4,1300,07/06/2020,01:54:41,CET
+SaleID_7,United Kingdom,Outdoors Shop,Husky Rope 50,270,27/12/2020,02:07:28,GMT
+SaleID_8,United Kingdom,Outdoors Shop,Granite Signal Mirror,499.99,15/09/2020,11:44:57,GMT
+SaleID_9,United Kingdom,Outdoors Shop,Granite Carabiner,32,23/09/2020,01:40:29,GMT
+SaleID_10,Italy,Outdoors Shop,Granite Grip,220,24/06/2020,18:43:04,CET
+SaleID_11,Italy,Outdoors Shop,Granite Axe,49.99,19/05/2019,02:12:30,CET
+SaleID_12,Mexico,Mall,Ranger Vision,350,05/04/2019,07:38:10,EST
+SaleID_13,Mexico,Mall,Trail Scout,80,24/01/2020,08:51:28,EST
+SaleID_14,Mexico,Mall,Hailstorm Steel Irons,240,07/12/2019,08:14:53,EST
+SaleID_15,Mexico,Mall,Course Pro Umbrella,100.32,13/01/2020,05:32:40,EST
+SaleID_16,Mexico,Mall,Course Pro Golf Bag,620,26/11/2020,10:17:48,EET
+SaleID_17,Mexico,Mall,Course Pro Gloves,40.5,23/01/2020,19:36:25,EET
+SaleID_18,Singapore,Outdoors Shop,Granite Pulley,19,02/01/2019,01:32:09,SGT
+SaleID_19,Singapore,Outdoors Shop,Firefly Climbing Lamp,23.45,20/02/2019,07:07:10,SGT
+SaleID_20,Singapore,Outdoors Shop,Granite Ice,65,10/04/2019,10:27:26,SGT
+SaleID_21,Singapore,Outdoors Shop,Mountain Man Analog,10,10/07/2019,05:20:29,SGT
+SaleID_22,Singapore,Outdoors Shop,Mountain Man Digital,12,03/05/2020,09:54:41,SGT
+SaleID_23,Singapore,Outdoors Shop,Mountain Man Deluxe,19,25/07/2019,06:51:57,SGT
+SaleID_24,China,Outdoors Shop,Mountain Man Deluxe,19,01/02/2020,04:21:18,EET
+SaleID_25,China,Mall,Venue,110,16/09/2020,23:10:18,EET
+SaleID_26,China,Mall,Infinity,3100,05/03/2019,13:23:53,EET
+SaleID_27,China,Mall,Lux,541,21/04/2019,15:22:10,EET
+SaleID_28,China,Mall,Sam,213,12/10/2019,04:54:42,EET
+SaleID_29,China,Mall,TX,50,29/06/2020,08:31:11,EET
+SaleID_30,Germany,Online Retailer,Firefly 2,19,21/05/2019,14:03:10,CET
+SaleID_31,Germany,Online Retailer,Firefly Climbing Lamp,23,24/02/2019,19:16:17,CET
+SaleID_32,United Kingdom,Online Retailer,Granite Grip,220,08/12/2020,07:43:15,GMT
+SaleID_33,Canada,Outdoors Shop,Venue,110,16/01/2019,13:33:16,EST
+SaleID_34,Canada,Outdoors Shop,TX,50,30/09/2020,07:16:01,EST
+SaleID_35,Canada,Outdoors Shop,Legend,641,20/12/2020,20:25:08,EST
+SaleID_36,Canada,Outdoors Shop,Kodiak,15,14/05/2019,03:03:15,EST
+SaleID_37,Canada,Outdoors Shop,Capri,35,11/01/2019,14:24:52,EST
+SaleID_38,Canada,Mall,Trail Master,1300,31/12/2020,21:14:38,EST
+SaleID_39,Canada,Mall,Hailstorm Titanium Woods Set,52,07/08/2020,04:08:07,EST
+SaleID_40,Canada,Mall,Lady Hailstorm Steel Woods Set,39,10/04/2020,21:04:20,EST
+SaleID_41,Canada,Mall,Course Pro Putter,55,14/08/2019,07:19:27,EST
+SaleID_42,Canada,Mall,Blue Steel Max Putter,25,30/06/2019,23:12:22,EST
+SaleID_43,Canada,Department Store,TrailChef Water Bag,2,11/09/2019,02:48:13,EST
+SaleID_44,Canada,Sports Store,Edge Extreme,215,20/03/2019,16:02:13,EST
+SaleID_45,Canada,Sports Store,Bear Edge,27.12,08/08/2019,22:43:18,EST
+SaleID_46,Canada,Sports Store,Bear Survival Edge,72.99,24/05/2020,00:48:29,EST
+SaleID_47,Canada,Sports Store,Max Gizmo,1000,24/10/2020,07:38:51,EST
+SaleID_48,Canada,Sports Store,Pocket Gizmo,216,15/01/2020,08:01:43,EST
+SaleID_49,Canada,Sports Store,Seeker 35,30,27/09/2019,08:35:14,EST
+SaleID_50,Canada,Sports Store,Seeker 50,50,08/05/2020,14:12:15,EST
+SaleID_51,Canada,Sports Store,Seeker Extreme,1320,07/05/2020,14:54:20,EST
+SaleID_52,Canada,Sports Store,Seeker Mini,840,05/12/2020,07:54:29,EST
+SaleID_53,Canada,Sports Store,Opera Vision,450,03/01/2019,15:40:25,EST
+SaleID_54,Canada,Sports Store,Ranger Vision,600,26/09/2019,00:45:22,EST
+SaleID_55,Canada,Sports Store,Glacier Basic,140,10/01/2019,19:37:17,EST
+SaleID_56,Canada,Sports Store,Glacier Deluxe,280,18/07/2020,11:35:59,EST
+SaleID_57,Canada,Sports Store,Glacier GPS,250,12/09/2019,22:51:51,EST
+SaleID_58,Canada,Outdoors Shop,Mountain Man Digital,12,17/03/2020,11:18:10,EST
+SaleID_59,Canada,Outdoors Shop,Mountain Man Deluxe,19,06/12/2020,20:04:22,EST
+SaleID_60,Canada,Outdoors Shop,Polar Sun,32,01/02/2019,23:10:36,EST
+SaleID_61,Canada,Outdoors Shop,Polar Ice,18,28/01/2020,05:23:20,EST
+SaleID_62,Canada,Outdoors Shop,Polar Extreme,16.99,04/11/2019,09:57:49,EST
+SaleID_63,Canada,Outdoors Shop,Edge Extreme,215,26/11/2020,08:13:25,EST
+SaleID_64,Canada,Outdoors Shop,Seeker 50,50,10/05/2020,23:06:08,EST
+SaleID_65,United Kingdom,Sports Store,Polar Sun,32,08/09/2019,00:45:01,GMT
+SaleID_66,United Kingdom,Sports Store,Polar Ice,18,26/03/2020,01:15:18,GMT
+SaleID_67,United Kingdom,Sports Store,Polar Sports,85,12/02/2020,03:16:33,GMT
+SaleID_68,United Kingdom,Department Store,Lady Hailstorm Steel Irons,43,28/08/2019,10:55:50,GMT
+SaleID_69,United Kingdom,Department Store,Blue Steel Putter,23.55,16/11/2019,07:04:26,GMT
+SaleID_70,United Kingdom,Outdoors Shop,Sun Shelter 15,23,02/07/2020,08:58:34,GMT
+SaleID_71,United Kingdom,Outdoors Shop,Compact Relief Kit,19.97,19/09/2020,19:24:29,GMT
+SaleID_72,Switzerland,Mall,Course Pro Golf and Tee Set,25,30/05/2019,06:36:09,CET
+SaleID_73,Switzerland,Mall,Course Pro Umbrella,100.32,26/03/2019,09:52:36,CET
+SaleID_74,Switzerland,Mall,Course Pro Golf Bag,620,03/07/2020,14:17:34,CET
+SaleID_75,Switzerland,Mall,Course Pro Gloves,40.5,14/03/2019,22:25:10,CET
+SaleID_76,Switzerland,Department Store,Venue,110,04/06/2020,12:36:06,CET
+SaleID_77,Austria,Department Store,Infinity,3100,11/05/2020,13:06:45,CET
+SaleID_78,Austria,Department Store,Sam,213,29/03/2020,22:26:37,CET
+SaleID_79,Austria,Warehouse Store,Firefly Multi-light,14.15,21/05/2019,13:59:29,CET
+SaleID_80,Austria,Warehouse Store,EverGlow Single,24.9,12/05/2020,05:30:58,CET
+SaleID_81,Singapore,Warehouse Store,EverGlow Kerosene,23.06,10/11/2019,12:50:36,SGT
+SaleID_82,Singapore,Outdoors Shop,TX,50,25/09/2019,19:48:39,SGT
+SaleID_83,Austria,Outdoors Shop,Legend,641,10/03/2020,21:42:37,CET
+SaleID_84,Australia,Outdoors Shop,Kodiak,15,07/06/2019,04:56:28,Australia/West
+SaleID_85,Australia,Outdoors Shop,Polar Sun,16.99,08/12/2020,23:39:32,Australia/West
+SaleID_86,Australia,Outdoors Shop,Polar Extreme,32,31/10/2019,01:40:43,Australia/West
+SaleID_87,Australia,Sports Store,Star Peg,37.85,19/01/2019,04:29:44,Australia/West
+SaleID_88,Australia,Sports Store,Hibernator,300,10/05/2020,05:29:27,Australia/West
+SaleID_89,Australia,Sports Store,Hibernator Self-Inflating Mat,73.57,28/12/2019,16:10:32,Australia/West
+SaleID_90,Australia,Sports Store,Hibernator Pad,18.25,21/05/2020,21:05:21,Australia/West
+SaleID_91,Australia,Sports Store,Canyon Mule Weekender Backpack,131.15,23/09/2019,01:48:53,Australia/West
+SaleID_92,Australia,Sports Store,Canyon Mule Extreme Backpack,139.99,29/09/2019,00:53:21,Australia/West
+SaleID_93,Australia,Sports Store,Firefly Mapreader,1200,04/09/2019,18:28:30,Australia/West
+SaleID_94,Australia,Sports Store,Firefly 4,1300,03/03/2019,22:51:15,Australia/West
+SaleID_95,Australia,Sports Store,Mountain Man Deluxe,19,21/06/2020,04:33:00,Australia/West
+SaleID_96,Australia,Sports Store,Mountain Man Extreme,24,23/07/2019,12:30:03,Australia/West
+SaleID_97,Australia,Department Store,Firefly Mapreader,1200,03/01/2019,01:39:14,Australia/West
+SaleID_98,Australia,Discount Retailer,Polar Sun,32,14/02/2019,21:29:35,Australia/West
+SaleID_99,Australia,Discount Retailer,Polar Ice,18,19/06/2020,11:16:19,Australia/West
+SaleID_100,Australia,Discount Retailer,Polar Sports,85,25/05/2019,15:51:41,Australia/West
