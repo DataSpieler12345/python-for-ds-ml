@@ -1,0 +1,11 @@
+# basic arithmetic operations
+print(43+60+16+41)
+print(50-60)
+print(5*5)
+print(25/5)
+print(25//5)
+print(25/6)
+print(25//6)
+print((2*60)+30)
+print(30+(2*60))
+print((30+2)*60)
